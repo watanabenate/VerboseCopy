@@ -1,0 +1,1 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"><item android:drawable="@drawable/attach" android:width="@dimen/icon_size" android:height="@dimen/icon_size" /></layer-list>

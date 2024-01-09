@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!-- Adapted from https://stackoverflow.com/questions/4259467/how-to-make-space-between-linearlayout-children -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+	<size
+		android:height="@dimen/play_size"
+		android:width="@dimen/audiospacer_width"/>
+	<solid
+		android:color="@android:color/transparent"/>
+</shape>

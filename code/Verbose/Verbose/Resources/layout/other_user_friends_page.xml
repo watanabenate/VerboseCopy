@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/profile_button_spacer"
+        android:background="@color/verboseColor">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/small_profile_holder"
+            android:layout_width="@dimen/small_profile_size"
+            android:layout_height="@dimen/small_profile_size"
+            app:cardCornerRadius="50dp"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/user">
+
+            <ImageView
+                android:id="@+id/small_profile"
+                android:layout_width="@dimen/small_profile_size"
+                android:layout_height="@dimen/small_profile_size"
+                android:src="@drawable/profile_temp_fill"
+                android:scaleType="centerCrop"
+                android:background="@android:color/transparent"
+                />
+        </androidx.cardview.widget.CardView>
+
+        <Button
+            android:id="@+id/friends"
+            android:layout_width="@dimen/profile_button_width"
+            android:layout_height="wrap_content"
+            android:text="FRIENDS"
+            android:layout_toLeftOf="@id/small_profile"
+            android:layout_alignParentLeft="true"
+            android:gravity="center"
+            android:textSize="@dimen/profile_menu_fontsize"
+            android:backgroundTint="@android:color/white"
+            android:textColor="@color/verboseColor"
+            android:layout_marginTop="@dimen/profile_menu_margin"
+            />
+
+        <TextView
+            android:id="@+id/friends_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="26"
+            android:layout_below="@id/friends"
+            android:layout_alignLeft="@id/friends"
+            android:layout_alignRight="@id/friends"
+            android:gravity="center"
+            android:textSize="@dimen/count_fontsize"
+            android:textColor="@android:color/white"
+            />
+
+        <Button
+            android:id="@+id/subs"
+            android:layout_width="@dimen/profile_button_width"
+            android:layout_height="wrap_content"
+            android:text="SUBS"
+            android:layout_toRightOf="@id/small_profile"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:textSize="@dimen/profile_menu_fontsize"
+            android:backgroundTint="@android:color/white"
+            android:textColor="@color/verboseColor"
+            android:layout_marginTop="@dimen/profile_menu_margin"
+            />
+
+        <TextView
+            android:id="@+id/subs_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="11"
+            android:layout_below="@id/subs"
+            android:layout_alignLeft="@id/subs"
+            android:layout_alignRight="@id/subs"
+            android:gravity="center"
+            android:textSize="@dimen/count_fontsize"
+            android:textColor="@android:color/white"
+            />
+
+        <TextView
+            android:id="@+id/user"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/small_profile"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:text="@john.doe"
+            android:textSize="@dimen/menuitem_fontsize"
+            android:textColor="@android:color/white"
+            android:gravity="center"
+            />
+
+        <ImageButton
+            android:id="@+id/follow_unfollow_btn"
+            android:layout_width="@dimen/icon_size"
+            android:layout_height="@dimen/icon_size"
+            android:src="@drawable/add_friend"
+            android:scaleType="centerCrop"
+            android:background="@android:color/transparent"
+            android:layout_alignParentRight="true"
+            />
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true">
+        <TextView
+            android:id="@+id/friends_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="FRIENDS \u2022"
+            android:textColor="@color/secondaryTextColor"
+            android:layout_marginLeft="@dimen/spacer_width"
+            android:layout_marginTop="@dimen/spacer_width"
+            android:textSize="@dimen/profile_menu_fontsize"
+            />
+        <TextView
+            android:id="@+id/friends_page_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textColor="@color/secondaryTextColor"
+            android:layout_toRightOf="@+id/friends_header"
+            android:layout_marginLeft="@dimen/spacer_width"
+            android:layout_marginTop="@dimen/spacer_width"
+            android:textSize="@dimen/profile_menu_fontsize"
+            />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/friend_list_recycler"
+            android:scrollbars="vertical"
+            android:layout_below="@+id/friends_header"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </RelativeLayout>
+</LinearLayout>

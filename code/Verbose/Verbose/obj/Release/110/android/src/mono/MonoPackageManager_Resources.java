@@ -1,0 +1,47 @@
+package mono;
+public class MonoPackageManager_Resources {
+	public static String[] Assemblies = new String[]{
+		/* We need to ensure that "Verbose.dll" comes first in this list. */
+		"Verbose.dll",
+		"AWSSDK.Core.dll",
+		"Google.Apis.Auth.dll",
+		"Google.Apis.Auth.PlatformServices.dll",
+		"Google.Apis.Core.dll",
+		"Google.Apis.dll",
+		"Microsoft.Bcl.AsyncInterfaces.dll",
+		"Newtonsoft.Json.Bson.dll",
+		"Newtonsoft.Json.dll",
+		"System.Net.Http.Extensions.dll",
+		"System.Net.Http.Formatting.dll",
+		"System.Net.Http.Primitives.dll",
+		"System.Text.Encodings.Web.dll",
+		"System.Text.Json.dll",
+		"Verbose.API.dll",
+		"Verbose.Data.dll",
+		"Xamarin.AndroidX.Activity.dll",
+		"Xamarin.AndroidX.AppCompat.dll",
+		"Xamarin.AndroidX.CardView.dll",
+		"Xamarin.AndroidX.Core.dll",
+		"Xamarin.AndroidX.CustomView.dll",
+		"Xamarin.AndroidX.DrawerLayout.dll",
+		"Xamarin.AndroidX.Fragment.dll",
+		"Xamarin.AndroidX.Lifecycle.Common.dll",
+		"Xamarin.AndroidX.Lifecycle.LiveData.Core.dll",
+		"Xamarin.AndroidX.Lifecycle.ViewModel.dll",
+		"Xamarin.AndroidX.Loader.dll",
+		"Xamarin.AndroidX.RecyclerView.dll",
+		"Xamarin.AndroidX.SavedState.dll",
+		"Xamarin.Essentials.dll",
+		"Xamarin.Firebase.Auth.dll",
+		"Xamarin.Firebase.Auth.Interop.dll",
+		"Xamarin.Firebase.Common.dll",
+		"Xamarin.Google.Android.Material.dll",
+		"Xamarin.Google.Guava.ListenableFuture.dll",
+		"Xamarin.GooglePlayServices.Auth.dll",
+		"Xamarin.GooglePlayServices.Base.dll",
+		"Xamarin.GooglePlayServices.Basement.dll",
+		"Xamarin.GooglePlayServices.Tasks.dll",
+	};
+	public static String[] Dependencies = new String[]{
+	};
+}

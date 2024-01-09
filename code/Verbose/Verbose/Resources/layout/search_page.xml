@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/content_frame">
+    >
+    <ProgressBar
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/feed_progress_bar"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:translationZ="1dp" 
+        />
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <SearchView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/search_bar"
+            android:queryHint="Search for podcasts..."
+            android:iconifiedByDefault="false"
+            />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/comedy_label"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/comedy_label"
+                    android:textSize="@dimen/menuitem_fontsize"
+                    android:fontFamily="sans-serif-medium"
+                    android:textColor="@android:color/white"
+                    android:background="@color/verboseColor"
+                    android:paddingLeft="@dimen/menuitem_margins"
+                    />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/comedy_recycler"
+                    android:scrollbars="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:id="@+id/true_crime_label"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/true_crime_label"
+                    android:textSize="@dimen/menuitem_fontsize"
+                    android:fontFamily="sans-serif-medium"
+                    android:textColor="@android:color/white"
+                    android:background="@color/accentPink"
+                    android:paddingLeft="@dimen/menuitem_margins"
+                    />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/true_crime_recycler"
+                    android:scrollbars="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:id="@+id/news_label"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/news_label"
+                    android:textSize="@dimen/menuitem_fontsize"
+                    android:fontFamily="sans-serif-medium"
+                    android:textColor="@android:color/white"
+                    android:background="@color/accentMagenta"
+                    android:paddingLeft="@dimen/menuitem_margins"
+                    />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/news_recycler"
+                    android:scrollbars="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:id="@+id/sports_label"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/sports_label"
+                    android:textSize="@dimen/menuitem_fontsize"
+                    android:fontFamily="sans-serif-medium"
+                    android:textColor="@android:color/white"
+                    android:background="@color/accentPurple"
+                    android:paddingLeft="@dimen/menuitem_margins"
+                    />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/sports_recycler"
+                    android:scrollbars="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:id="@+id/tv_movie_label"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/tv_movie_label"
+                    android:textSize="@dimen/menuitem_fontsize"
+                    android:fontFamily="sans-serif-medium"
+                    android:textColor="@android:color/white"
+                    android:background="@color/accentCharcoal"
+                    android:paddingLeft="@dimen/menuitem_margins"
+                    />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/tv_movie_recycler"
+                    android:scrollbars="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</RelativeLayout>

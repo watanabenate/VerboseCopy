@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "685158227517",
+    "project_id": "verbose-capstone",
+    "storage_bucket": "verbose-capstone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685158227517:android:d1309ff11e4a5df8949454",
+        "android_client_info": {
+          "package_name": "com.verbose.verbose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685158227517-a7ps5unl9rga8nuirq1lqrto4p4cp9lr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.verbose.verbose",
+            "certificate_hash": "f70499c4d4a7397487f62013a62936916388115f"
+          }
+        },
+        {
+          "client_id": "685158227517-4p9398sggllkj7jvuqhcd068k2f5fdvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzOXRV83tTrFYRzTIgo2A3F31LbPZ6-Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685158227517-4p9398sggllkj7jvuqhcd068k2f5fdvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Temporary structure for displaying podcasts, can be deleted after implementing RecyclerViews -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <ImageButton
+            android:layout_width="@dimen/coverart_size"
+            android:layout_height="@dimen/coverart_size"
+            android:src="@android:drawable/ic_menu_gallery"
+            android:background="@android:color/transparent"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Podcast Title"
+            android:textColor="@color/secondaryTextColor"
+            android:gravity="center"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <ImageButton
+            android:layout_width="@dimen/coverart_size"
+            android:layout_height="@dimen/coverart_size"
+            android:src="@android:drawable/ic_menu_gallery"
+            android:background="@android:color/transparent"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Podcast Title"
+            android:textColor="@color/secondaryTextColor"
+            android:gravity="center"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <ImageButton
+            android:layout_width="@dimen/coverart_size"
+            android:layout_height="@dimen/coverart_size"
+            android:src="@android:drawable/ic_menu_gallery"
+            android:background="@android:color/transparent"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Podcast Title"
+            android:textColor="@color/secondaryTextColor"
+            android:gravity="center"/>
+    </LinearLayout>
+</LinearLayout>

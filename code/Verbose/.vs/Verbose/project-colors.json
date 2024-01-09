@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "72256ba7-1256-43ae-aac2-a1ad5ab49149": {
+      "ProjectGuid": "72256ba7-1256-43ae-aac2-a1ad5ab49149",
+      "DisplayName": "Verbose",
+      "ColorIndex": 0
+    },
+    "931fb97d-641f-4ae1-b955-d0382012e88a": {
+      "ProjectGuid": "931fb97d-641f-4ae1-b955-d0382012e88a",
+      "DisplayName": "Verbose.API",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

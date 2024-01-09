@@ -1,0 +1,46 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\watan\\source\\repos\\Verbose\\code\\Verbose\\Verbose.Data\\Verbose.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\watan\\source\\repos\\Verbose\\code\\Verbose\\Verbose.Data\\Verbose.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\watan\\source\\repos\\Verbose\\code\\Verbose\\Verbose.Data\\Verbose.Data.csproj",
+        "projectName": "Verbose.Data",
+        "projectPath": "C:\\Users\\watan\\source\\repos\\Verbose\\code\\Verbose\\Verbose.Data\\Verbose.Data.csproj",
+        "packagesPath": "C:\\Users\\watan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\watan\\source\\repos\\Verbose\\code\\Verbose\\Verbose.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\watan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.3.1.3, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

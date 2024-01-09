@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Verbose</string>
+    <string name="action_settings">Settings</string>
+
+	<!-- Feed page strings -->
+	<string name="empty_feed">Nothing to see here yet! Add friends or make a post to populate your feed.</string>
+	<string name="empty_recents">No listening history available.</string>
+	
+	<string name="feed_label">FEED</string>
+	<string name="feed_label_lowercase">Feed</string>
+	<string name="recent_label">RECENTLY LISTENED</string>
+
+	<!-- Category strings -->
+	<string name="trending_label">TRENDING</string>
+	<string name="comedy_label">COMEDY</string>
+	<string name="true_crime_label">TRUE CRIME</string>
+	<string name="news_label">NEWS</string>
+	<string name="sports_label">SPORTS</string>
+	<string name="lifestyle_label">LIFESTYLE</string>
+	<string name="business_label">BUSINESS</string>
+	<string name="technology_label">TECHNOLOGY</string>
+	<string name="tv_movie_label">TV \u0026 MOVIES</string>
+	<string name="fiction_label">FICTION</string>
+	<string name="celeb_label">CELEBRITIES</string>
+	<string name="educational_label">EDUCATIONAL</string>
+	
+	<string name="filler">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+	<string name="more_filler">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+	
+	<!-- Username entry strings -->
+	<string name="username_instr">Please select a username for Verbose. Username must not have any spaces.</string>
+	<string name="username_label">Username:</string>
+	<string name="duplicate_user_error">*Someone already has this username. Please try something else.</string>
+	<string name="inval_user_error">*Invalid username. Please make sure your input fulfills the requirements above.</string>
+
+	<!-- Settings page strings -->
+	<string name="verification">Creator Account Verification</string>
+	<string name="dark_mode">Toggle Dark Mode</string>
+	<string name="get_verified">Get verified!</string>
+	<string name="privacy_public">Set Account As Public</string>
+	<string name="privacy_private">Set Account As Private</string>
+	<string name="stt">Speech-To-Text Demo</string>
+	<string name="verify_instr">To get creator access for your podcast, please enter your RSS link below. If the email in the feed matches your Verbose account, you will be approved as a creator.</string>
+
+	<!-- Friend search strings -->
+	<string name="friend_search">Find new friends!</string>
+	<string name="friend_search_hint">Search for other users...</string>
+</resources>

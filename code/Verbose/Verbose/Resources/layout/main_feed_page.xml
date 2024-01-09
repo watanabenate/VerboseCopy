@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/content_frame">
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/feed_progress_bar"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:translationZ="1dp" 
+        />
+
+    <TextView
+        android:id="@+id/recent_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/recent_label"
+        android:textSize="@dimen/menuitem_fontsize"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@color/primaryTextColor"
+        android:layout_marginLeft="@dimen/menuitem_margins"
+        android:layout_marginTop="@dimen/spacer_width"
+        android:gravity="center_horizontal"
+        />
+
+    <!-- Scrollable recently listened -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recents_recycler"
+        android:scrollbars="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/recent_label"
+        android:layout_marginTop="@dimen/spacer_width"
+        />
+
+    <TextView
+        android:id="@+id/empty_recents_warning"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/empty_recents"
+        android:textSize="@dimen/post_fontsize"
+        android:textColor="@color/secondaryTextColor"
+        android:layout_margin="@dimen/big_spacer_width"
+        android:gravity="center_horizontal"
+        android:layout_below="@id/recents_recycler"
+        android:visibility="gone"
+        />
+
+    <TextView
+        android:id="@+id/feed_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/feed_label"
+        android:textSize="@dimen/menuitem_fontsize"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@color/primaryTextColor"
+        android:layout_marginLeft="@dimen/menuitem_margins"
+        android:layout_alignTop="@id/add_friend_feed"
+        android:gravity="center_vertical"
+        />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/add_friend_feed"
+        android:layout_width="@dimen/icon_size"
+        android:layout_height="@dimen/icon_size"
+        app:cardCornerRadius="15dp"
+        android:layout_margin="@dimen/spacer_width"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/empty_recents_warning">
+
+            <ImageButton
+                android:id="@+id/add_friend_icon"
+                android:layout_width="@dimen/icon_size"
+                android:layout_height="@dimen/icon_size"
+                android:src="@drawable/add_friend"
+                android:scaleType="fitCenter"
+                android:background="@android:color/transparent"
+                />
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/empty_feed_warning"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/empty_feed"
+        android:textSize="@dimen/post_fontsize"
+        android:textColor="@color/secondaryTextColor"
+        android:layout_margin="@dimen/big_spacer_width"
+        android:gravity="center_horizontal"
+        android:layout_below="@id/feed_label"
+        android:visibility="gone"
+        />
+
+    <!-- Scrollable posts -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/empty_feed_warning"
+        android:layout_centerHorizontal="true">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/feed_post_recycler"
+            android:scrollbars="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/big_spacer_width"
+            />
+
+        <ImageButton
+            android:id="@+id/new_post_button"
+            android:layout_width="@dimen/play_size"
+            android:layout_height="@dimen/play_size"
+            android:src="@drawable/add_icon"
+            android:scaleType="fitCenter"
+            android:background="@android:color/transparent"
+            android:layout_gravity="bottom"
+            android:layout_margin="@dimen/spacer_width"
+            />
+    </FrameLayout>
+    
+</RelativeLayout>

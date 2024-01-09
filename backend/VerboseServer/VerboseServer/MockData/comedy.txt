@@ -1,0 +1,377 @@
+﻿{
+    "data": {
+        "podcasts": {
+            "data": [
+                {
+                    "id": "1422980",
+                    "title": "Passion Talks",
+                    "description": "Passion Talks is a platform that offers individuals the opportunity to talk about their passion(s).  Whether it be a small-business owner, musician, or gym enthusiast, Passion Talks desires to get to know people and their interests.",
+                    "imageUrl": "https://artwork.captivate.fm/f2a04303-d88f-4abd-abda-87a665507f8e/8itebQImvkrDBROstgBTzf6S.jpg",
+                    "author": {
+                        "name": "Jacob Jakubec"
+                    },
+                    "categories": [
+                        {
+                            "title": "Business"
+                        },
+                        {
+                            "title": "Education"
+                        },
+                        {
+                            "title": "Comedy"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "81058434",
+                                "title": "Episode #06 Ft. Senator Scott Wilk",
+                                "description": "In this episode, I had the opportunity to talk to Senator Scott Wilk of California. Senator Wilk represents California's 21st District, and has been doing so since 2016.  We discussed the Covid-19 restrictions, Governor Newsom, and issues regarding California's budget.  To learn more about Senator Wilk, visit https://wilk.cssrc.us/ (Welcome | Senator Scott Wilk (cssrc.us)).  Enjoy!\nTo help assist in making Passion Talks possible, visit:\nhttps://www.youtube.com/redirect?redir_token=QUFFLUhqbFpsajljQk1pbUtjMURyZV9jcmU5YzJ4T2c0Z3xBQ3Jtc0trc3lUekhpMFZmN0lQODFyZzYxMnFuaE8yR1FfOFctR0VwWmtodTB5NnRUSVc0WHhVMTc5MXo3QmIwdHlyeXBleXdPNEtXVHA1Z3JxTEx2Qy1vT1RkdXoxdDlEU0tvNUctVlRJUVktM0l6VXEwNmprVQ%3D%3D&q=https%3A%2F%2Fwww.patreon.com%2Fpassiontalks&event=video_description&v=DyvU8iALlBI (https://www.patreon.com/passiontalks)\n Support this podcast",
+                                "imageUrl": "https://artwork.captivate.fm/f2a04303-d88f-4abd-abda-87a665507f8e/8itebQImvkrDBROstgBTzf6S.jpg",
+                                "audioUrl": "https://podcasts.captivate.fm/media/c4446869-8e5f-4e4f-ac0d-dd3549e19bd3/senator-wilk.mp3"
+                            },
+                            {
+                                "id": "78894014",
+                                "title": "Episode #04 Ft. Nick Rulle",
+                                "description": "In this episode, Nick Rulle joined the conversation to talk about his journey from Denmark to the United States and the differences between the two countries. Other topics covered include sports, academics, and different business ventures. Enjoy!\nTo help assist in making Passion Talks possible, visit:\nhttps://www.patreon.com/passiontalks (https://www.patreon.com/passiontalks)\n Support this podcast",
+                                "imageUrl": "https://artwork.captivate.fm/f2a04303-d88f-4abd-abda-87a665507f8e/8itebQImvkrDBROstgBTzf6S.jpg",
+                                "audioUrl": "https://podcasts.captivate.fm/media/ba0b0108-93be-4e5b-bbb9-372aae757c17/audio-only-converted.mp3"
+                            },
+                            {
+                                "id": "74041773",
+                                "title": "Episode #01 Ft. Zack Kluever",
+                                "description": "In this episode, we discussed the failures of the education system, alternatives to attending college, as well as possible changes that could be made to the education system to help assist in the development of society.\nTo help assist in making Passion Talks possible, visit:\n\t\thttps://www.patreon.com/passiontalks\n Support this podcast",
+                                "imageUrl": "https://artwork.captivate.fm/f2a04303-d88f-4abd-abda-87a665507f8e/8itebQImvkrDBROstgBTzf6S.jpg",
+                                "audioUrl": "https://podcasts.captivate.fm/media/46dc4f42-1bcc-42ec-a8e4-a4ab4fb0a8fd/passion-talks-podcast-1.mp3"
+                            },
+                            {
+                                "id": "76254742",
+                                "title": "Episode #03 Ft. Destini Robinson",
+                                "description": "In this episode, I sat down with Destini Robinson, the founder and CEO of Move Period.  We discussed her experiences in the fitness industry, and about her gym that allows everybody to train like a collegiate athlete.  Enjoy!\nTo help assist in making Passion Talks possible, visit:\nhttps://www.patreon.com/passiontalks (https://www.patreon.com/passiontalks)\n Support this podcast",
+                                "imageUrl": "https://artwork.captivate.fm/f2a04303-d88f-4abd-abda-87a665507f8e/8itebQImvkrDBROstgBTzf6S.jpg",
+                                "audioUrl": "https://podcasts.captivate.fm/media/6cefafc0-69a2-484c-9c38-dcd49210a3e2/passion-talks-episode-03-destini-robinson.mp3"
+                            },
+                            {
+                                "id": "79079393",
+                                "title": "Episode #05 Ft. Grover Robinson",
+                                "description": "In this episode, I sit down with the Mayor of Pensacola, FL, Grover Robinson.  We discussed the impact of Covid-19 and the procedures that have been put in place to fight it. We talked about the current state of division in the United States, as well as the local projects going on in the great city of Pensacola, Florida.  Enjoy!\nTo help assist in making Passion Talks possible, visit:\nhttps://www.youtube.com/redirect?redir_token=QUFFLUhqbFpsajljQk1pbUtjMURyZV9jcmU5YzJ4T2c0Z3xBQ3Jtc0trc3lUekhpMFZmN0lQODFyZzYxMnFuaE8yR1FfOFctR0VwWmtodTB5NnRUSVc0WHhVMTc5MXo3QmIwdHlyeXBleXdPNEtXVHA1Z3JxTEx2Qy1vT1RkdXoxdDlEU0tvNUctVlRJUVktM0l6VXEwNmprVQ%3D%3D&q=https%3A%2F%2Fwww.patreon.com%2Fpassiontalks&event=video_description&v=DyvU8iALlBI (https://www.patreon.com/passiontalks)\n Support this podcast",
+                                "imageUrl": "https://artwork.captivate.fm/f2a04303-d88f-4abd-abda-87a665507f8e/8itebQImvkrDBROstgBTzf6S.jpg",
+                                "audioUrl": "https://podcasts.captivate.fm/media/92ca33f8-2762-45ab-98a9-a19339ac896c/11-16-20-grover-robinson-updated.mp3"
+                            },
+                            {
+                                "id": "75641316",
+                                "title": "Episode #02 Ft. Gary Sizemore",
+                                "description": "Gary Sizemore, a career coach located in Pensacola, Florida, joins the show and discusses his experience in the consulting business. He shared his knowledge about the benefits of franchising, side-hustles, and entrepreneurship. Enjoy!\nTo help assist in making Passion Talks possible, visit:\nhttps://www.patreon.com/passiontalks (https://www.patreon.com/passiontalks)\n Support this podcast",
+                                "imageUrl": "https://artwork.captivate.fm/f2a04303-d88f-4abd-abda-87a665507f8e/8itebQImvkrDBROstgBTzf6S.jpg",
+                                "audioUrl": "https://podcasts.captivate.fm/media/3a0ac27b-280a-45b7-97c1-c7e943b66a6c/09-21-20-podcast-gary-sizemore.mp3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "1257234",
+                    "title": "Buddypal Playpen",
+                    "description": "Welcome to Buddypal Playpen, a podcast that's scripted, but mostly unscripted. Buddypal Playpen has something for everyone: comedic improv, ASMR, educational value, Q/A, tutorials on how to cook the best of momma's favorite cupcakes, and so much more! Best of all, it's made by BUDDYPAL BRIGADE! Everyone loves Buddypal Brigade! Just give it a listen, and you'll find yourself astrol planing into a universe we've created just for you. Conveniently, you might also find a sandwich in the astrol fridge with your name on it. Don't eat it, that's Zach's. He always forgets about the leftovers and leaves them for other people. Don't worry, Justin can get you something to eat. How about a metaphorical dad talk sandwich covered in--you're vegan? We don't serve vegan food in the astrol plane! What were you thinking coming out here to the Buddypal Brigade astrol plane? Free food? We aren't the church over here man! Get back in your body and find yourself some dang food! If you want to support Buddypal Brigade and Buddypal Playpen, consider donating to us on Patreon @BuddypalBrigade. Otherwise, check out our cartoons on Newgrounds and Youtube @BuddypalBrigade. We'll be waiting for you with your favorite jacket. This has been your only warning.",
+                    "imageUrl": "https://storage.buzzsprout.com/variants/mzj1b27qsfxzc1xn1hpdlymh20my/5cfec01b44f3e29fae1fb88ade93fc4aecd05b192fbfbc2c2f1daa412b7c1921.jpg",
+                    "author": {
+                        "name": "Buddypal Brigade"
+                    },
+                    "categories": [
+                        {
+                            "title": "Comedy"
+                        },
+                        {
+                            "title": "Education"
+                        },
+                        {
+                            "title": "ASMR"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "68048518",
+                                "title": "BUDDYPAL PLAYPEN - S1:EP2 - [AGENT BOTTLE]",
+                                "description": "Welcome to Buddypal Playpen! From the creators at Buddypal Brigade comes a podcast like no other! Say hello to the podcast that your mother will love, your friends will embrace, and your dog will finally be able to pop a squat and take a piss to! Join the collective voices of twin duo Justin (Jubbipuss) and Zachary (Zachipuss) as they teach you something educational, absolutely obliterate an extensive improv, and wind down with a chill ASMR story written by yours truly! Some of the parts are scripted, but a lot of it is unscripted. So please, enjoy and let your ears and mind rejoice to the immensely caring sounds of BUDDYPAL PLAYPEN! New episodes every month on the 5th!https://www.buzzsprout.com/?referrer_id=1085945Buzzsprout - Let's get your podcast launched! Start for FREEDisclaimer: This post contains affiliate links. If you make a purchase, I may receive a commission at no extra cost to you.Support the show (https://www.patreon.com/BuddypalBrigade)",
+                                "imageUrl": null,
+                                "audioUrl": "https://pdcn.co/e/www.buzzsprout.com/1132964/4152038-buddypal-playpen-s1-ep2-agent-bottle.mp3?blob_id=17499350"
+                            },
+                            {
+                                "id": "63408594",
+                                "title": "BUDDYPAL PLAYPEN - S1:EP1 - [BILL + BILL'S LOVELY ITALIAN VACATION!]",
+                                "description": "Welcome to Buddypal Playpen! From the creators at Buddypal Brigade comes a podcast like no other! Say hello to the podcast that your mother will love, your friends will embrace, and your dog will finally be able to pop a squat and take a piss to! Join the collective voices of twin duo Justin (Jubbipuss) and Zachary (Zachipuss) as they teach you something educational, absolutely obliterate an extensive improv, and wind down with a chill ASMR story written by yours truly! Some of the parts are scripted, but a lot of it is unscripted. So please, enjoy and let your ears and mind rejoice to the immensely caring sounds of BUDDYPAL PLAYPEN! New episodes every month on the 5th!Support the show (https://www.patreon.com/BuddypalBrigade)",
+                                "imageUrl": "https://storage.buzzsprout.com/variants/8i0fam3hck2954p397y86sma442p/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2.jpg",
+                                "audioUrl": "https://pdcn.co/e/www.buzzsprout.com/1132964/4131110-buddypal-playpen-s1-ep1-bill-bill-s-lovely-italian-vacation.mp3?blob_id=16911638"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "1026148",
+                    "title": "Real Suburbia",
+                    "description": "Real Suburbia covers bizarre, terrifying, hilarious, uplifting, ridiculous neighborhood/neighbor stories, parenting successes/failures, marriage, kids, all things Gen X, and everything in between. Remember that time you found your neighbor passed out in your front yard? Remember when your neighbor was arrested for murdering his wife? Remember when your neighbor called to tell you your kid was peeing on their bushes…AGAIN? Real Suburbia wants to hear all of your stories! www.realsuburbia.com",
+                    "imageUrl": "https://storage.buzzsprout.com/variants/4wtx6blgpcehnip3dt0m3rps2xxz/5cfec01b44f3e29fae1fb88ade93fc4aecd05b192fbfbc2c2f1daa412b7c1921?.jpg=",
+                    "author": {
+                        "name": "Megan and Carlos"
+                    },
+                    "categories": [
+                        {
+                            "title": "Comedy"
+                        },
+                        {
+                            "title": "Kids"
+                        },
+                        {
+                            "title": "Family"
+                        },
+                        {
+                            "title": "Parenting"
+                        },
+                        {
+                            "title": "Society"
+                        },
+                        {
+                            "title": "Culture"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "96735037",
+                                "title": "Top Gun vs Woodstock '99: SHOW US YOUR TITS!!!",
+                                "description": "In this episode, we reflect on 90's nostalgia, yet again. But this time, shit gets real as we look back and discuss exactly how bad things really were! This hits hard for Carlos, especially, who proclaims yet another American pop icon as his personal Jesus Christ. Megan dissects the true puzzle pieces behind a fighter pilot's cockpit, the derailment of women's rights for our generation, and gets picked on a little less for her supporting arguments. Ryan remains in true form, picking on Megan for basically...all the things, identifies Carlos's ass as \"nice,\" and all the meanwhile, earns yet another nickname proclaiming his role in Suburbia. In spite of Megan's attempt to set a podcast \"agenda,\" classic Real Suburbia derailments ensue and a dumpster fire of personal stories, emotions, opinions, and epiphanies erupt in this latest episode. Keep it real, Real Suburbia Nation; because if you aren't making it happen, you've only got the three of us to rely on. Welcome to the Thunderdome! We hope you've got your helmet!!",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.buzzsprout.com/881137/9026925-top-gun-vs-woodstock-99-show-us-your-tits.mp3"
+                            },
+                            {
+                                "id": "80538133",
+                                "title": "Nostalgia & COVID: Early 90's Hit Songs Revisited!",
+                                "description": "Yes, they're still living in nostalgia (podcast wise) to get us all through the pandemic. In this episode, Carlos and Megan discuss their favorite songs from their high school years (1990-1994). Carlos promises to never get singing lessons as he has the \"voice of an angle\".  If you can get through the potential ear bleeding, please enjoy this trip down memory lane! Megan's mom innocently sings 2 Live Crew, Carlos goes punk, don't go chasing rabbit holes, Bobby Brown gets booed, a Wilson Phillips/Boyz II Men duet is pitched, and so much more. Somehow Megan does not mention Fred Savage and, of course, there are dramatic Nextdoor readings. ",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.buzzsprout.com/881137/6734908-nostalgia-covid-early-90-s-hit-songs-revisited.mp3"
+                            },
+                            {
+                                "id": "89984223",
+                                "title": "Attack of the 50 Foot Podcast!",
+                                "description": "In this episode, Carlos and Megan discuss some of their favorite movies from high school (1990-1994). Join them as they revisit the nineties (again) and see if you remember some of their picks (Dances with Wolves, Singles, Reality Bites, The Silence of the Lambs, Cool as Ice, Back to the Future III, Wayne's World, and more!) and hear why Ethan Hawke might be considered a hero. Party on.",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.buzzsprout.com/881137/8401404-attack-of-the-50-foot-podcast.mp3"
+                            },
+                            {
+                                "id": "72406758",
+                                "title": "Junior High Fidelity",
+                                "description": "In Episode #6, Carlos and Megan revisit the songs from Junior High that had lasting impacts and how they shaped their view of the world. It all started while the two of them binge watched Disney +'s Encore, where people go back to high school as adults to relive and perform in their high school musical. They start off by warming up to a song that was popular during that time and it gave Megan and Carlos the idea to go back and come up with a few songs that stick out from their middle school years  (1985-1989). They cover Madonna, SWV, Bon Jovi, INXS, Paul Young, Billy Ocean, U2, and more! Unfortunately, they do attempt to sing, so you have been warned. Come along for a trip down their Gen X memory lane--they promise not to release any couple's duet albums if you listen to this episode.",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.buzzsprout.com/881137/5008841-junior-high-fidelity.mp3"
+                            },
+                            {
+                                "id": "96187182",
+                                "title": "The Weather Penis",
+                                "description": "Seriously, where do we even start? Carlos, Ryan, and Megan discuss the rampant sexism in Top Gun, Carlos's famous (and first) weatherman penis meme, high school reunions, and the blatant chauvinism in alcohol advertising. Don't worry, there's so much more unnecessary commentary on random things you never thought you'd think about again. That's right, we bring up things you gladly left behind in your past and will most likely resent us for. We love you and you are welcome!",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.buzzsprout.com/881137/8972613-the-weather-penis.mp3"
+                            },
+                            {
+                                "id": "54732192",
+                                "title": "Real Suburbia (Trailer)",
+                                "description": "--- Send in a voice message: https://anchor.fm/real-suburbia/message",
+                                "imageUrl": "https://storage.buzzsprout.com/variants/l80ezm8b4qeuvszclcr31utweiab/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad?.jpg=",
+                                "audioUrl": "https://www.buzzsprout.com/881137/2929504-real-suburbia-trailer.mp3"
+                            },
+                            {
+                                "id": "80004877",
+                                "title": "Junior High Fidelity Part 2",
+                                "description": "In Episode #7, Carlos and Megan revisit the movies from Junior High that had lasting impacts and how they shaped their views of the world. After doing the same with music in Episode #6, they thought they'd continue the conversation with their favorite movies from their middle school years (1985-1989).  We talk smack about The Warrior Poet of Suburbia and the “Oregon Trail” generation, the pure dominance of Gen X’ers, random fun facts of the movies we discuss, and of course, dramatic readings from the Nextdoor app. What were some of the movies that shaped you from your middle school years? Email us at hello@realsuburbia.com!",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.buzzsprout.com/881137/6589222-junior-high-fidelity-part-2.mp3"
+                            },
+                            {
+                                "id": "54732165",
+                                "title": "Indiana Bones and the Neighbor from Hell",
+                                "description": "In this episode, we talk about neighborhood car thefts, glitter bombs, a neighbor from hell in Minnesota, punny business names and we perform dramatic readings from Nextdoor. ",
+                                "imageUrl": "https://storage.buzzsprout.com/variants/1bsv6rpjq2ay58xs0c1qrn0fii3s/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad?.jpg=",
+                                "audioUrl": "https://www.buzzsprout.com/881137/2812543-indiana-bones-and-the-neighbor-from-hell.mp3"
+                            },
+                            {
+                                "id": "54785662",
+                                "title": "The Ed McMandela Effect",
+                                "description": "We discuss the Mandela Effect (ex. Was it Berenstein or Berenstain Bears??), The Texas Cheerleader Murder Plot, ridiculous 911 calls and, of course, dramatic readings from Nextdoor. Check. It. Out. ",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.buzzsprout.com/881137/2953105-the-ed-mcmandela-effect.mp3"
+                            },
+                            {
+                                "id": "54732130",
+                                "title": "Sometimes a pineapple is just a pineapple ",
+                                "description": "In this episode, we talk about our Valentine's Day, Megan's obsession with Fred Savage, Carlos's love of power tools, neighborhood swingers, a visit from Stewie Griffin and more!--- This episode is sponsored by · Anchor: The easiest way to make a podcast.  https://anchor.fm/app--- Send in a voice message: https://anchor.fm/real-suburbia/message",
+                                "imageUrl": "https://storage.buzzsprout.com/variants/2j016itzawe9jzb7gg2giosrwq8j/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad?.jpg=",
+                                "audioUrl": "https://www.buzzsprout.com/881137/2812540-sometimes-a-pineapple-is-just-a-pineapple.mp3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "1461612",
+                    "title": "That Pointless Podcast",
+                    "description": "For 20-25 minutes, we bring on some guest(s) and interview them. But there's a twist...it's not a normal interview, it's filled with weird questions, where we talk about random stuff, like Mickey's romantic affairs, animated dicks, modern art, tacos, school, weird experiences and the expulsion of waste. Just listen to the trailer and see wtf this is! \nOkay, I'm done writing that now, so uh.. I guess I keep writing. I wanted this to be long and now it sorta is. Oops, running out of characters pretty soon. Okay, I think I need to take a crap kinda badly. Ugh, not working. See you on the pod!",
+                    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/8617336/8617336-1598807607411-032ba95d04b8c.jpg",
+                    "author": {
+                        "name": "Pointless Podcast"
+                    },
+                    "categories": [
+                        {
+                            "title": "Comedy"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "76600174",
+                                "title": "The Ritual",
+                                "description": "Talking about soup, elementary school rituals, tacos, tomatoes, and more tacos with Garret from Garret Talks to Himself! Time to dive deep into philosophy, we're gonna have a serious episode...hahaha jk :)\nCheck out Garret Talks to Himself: Anywhere you find your podcasts!\nFollow Garret on Instagram! @gtthpod\nSave up for a trip to Disneyland or Paris by earning money with walking! Sweatcoin earns you cryptocurrency for your steps, and you can trade in your sweatcoins for all sorts of awesome rewards, like a new TV or a free vacation! You don't even have to pay anything to join! It's practically FREE MONEY! Check it out here: bit.ly/pointlesslyfit\nGO FOLLOW THAT POINTLESS PODCAST BELOW THIS CLUMP OF WORDS!!! :)\nEmail: thatpointlesspodcast@gmail.com\nInstagram: @thatpointlesspodcast\nWebsite: bit.ly/pointlesspodcast\nShoot us a voice message--> Just Click Right Here!\nWanna be a guest on the podcast?\nJust shoot us an email, DM us, send us a voice message on anchor or complete the form on our website! Literally anyone can be a guest, cuz anyone can answer stupid questions!\nThanks for reading all of that, now you get a little bonus bit! You get this tad bit of bonus stuff that I just get to write down...\nYo, I'm so tired I think my brain wants to sleep. I'm just feeling my joints move around. Is this what being a snail feels like. In any case, I need a nap, 4o 3h4n I'll 4ee you on the next epwiossssssssssssssss I'm literally falling asleep. Good night. Okay, I'm updating this after it was uploaded now. This is Jack by the way. I just got a bunch of peanut butter granola, it's actually so good, but now I think I ate too much... I feel like my shit's gonna have little clumps in it now. Nope. Gonna stop. That got really weird really fast. See ya...\n\"That Pointless Podcast\" is produced by Jinxed Sink Media Productions Company. For the terms of use on clipping this podcast, or any other issues with copyright, you can contact Jinxed Sink Media Productions Company (Jinxed Sink Productions) by emailing  thatpointlesspodcast@gmail.com\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/8617336/8617336-1602724901557-938067792f08b.jpg",
+                                "audioUrl": "https://anchor.fm/s/33f59960/podcast/play/21072927/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-15%2F79dae4631c46a93945368597c6695789.m4a"
+                            },
+                            {
+                                "id": "76125949",
+                                "title": "Ummm... there's a second one of these...why?",
+                                "description": "Talking with Sammy and Hunter about some weird shit from our childhood schools, where we joined religious cults and played wall ball that involved chucking tennis balls up people's asscracks!\nCheck out Sammy's Saga: On Anchor, Spotify, YouTube and pretty much everywhere else!\nFollow Sammy's Saga! @sammyssagacomedypodcast\nCheck out Tall Guy Bald Guy: On Anchor, Spotify, Apple Podcasts, and pretty much everywhere else\nFollow Tall Guy Bald Guy! @tallguybaldguypodcast\nSave up for a trip to Disneyland or Paris by earning money with walking! Sweatcoin earns you cryptocurrency for your steps, and you can trade in your sweatcoins for all sorts of awesome rewards, like a new TV or a free vacation! You don't even have to pay anything to join! It's practically FREE MONEY! Check it out here: bit.ly/pointlesslyfit\nGO FOLLOW THAT POINTLESS PODCAST BELOW THIS CLUMP OF WORDS!!! :)\nEmail: thatpointlesspodcast@gmail.com\nInstagram: @thatpointlesspodcast\nWebsite: bit.ly/pointlesspodcast\nShoot us a voice message--> Just Click Right Here!\nWanna be a guest on the podcast?\nJust shoot us an email, DM us, send us a voice message on anchor or complete the form on our website! Literally anyone can be a guest, cuz anyone can answer stupid questions!\nNow for some bonus writing cuz you read the description: \nI spilled oatmeal with turmeric in it. It's really sad cuz now our floor is just always going to be a tad yellow. Turmeric is just always a tad bit of trouble, I mean come on turmeric, you don't have to be a permanent staining agent... shit I'm literally ranting at a spice. Fuck's the spice gonna do, huh? Wait. There's a dude who's wearing a blue T-Shirt outside. I think he might be dancing. This is unusual. He's doing one of those weird disco dances. Hold on one sec, lemme open the window. Shit, the dude is literally singing. Ha! Okay, I gotta get to class now. The dude's swinging the shirt over his head, I'm speechless. I want to keep telling you guys about this, but I just can't cuz I have to get to class. :( Oh well. See y'all in the next time I do a description easter egg thingy. \n\"That Pointless Podcast\" is produced by Jinxed Sink Media Productions Company. For the terms of use on clipping this podcast, or any other issues with copyright, you can contact Jinxed Sink Media Productions Company (Jinxed Sink Productions) by emailing  thatpointlesspodcast@gmail.com\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/8617336/8617336-1601605805837-40926abc1336a.jpg",
+                                "audioUrl": "https://anchor.fm/s/33f59960/podcast/play/20488671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-02%2F681a34d8a7e79846646677e760df3edc.m4a"
+                            },
+                            {
+                                "id": "75978012",
+                                "title": "We rollin' Poiples! Say it like poy and then pls. Poiples. hehe. funny word.",
+                                "description": "Awesome episode with Cameron from the Junkhead Pod, talking about HItler, ass perfume and more weird shit!! It's freaking awesome stuff, and we get pointless as hell!\nCheck out The Junkhead Pod: On Apple Podcasts, Spotify, or wherever you listen to podcasts!\nFollow The Junkhead Pod on Instagram! @dirtvoyeur or @junkhead_pod\nSave up for a trip to Disneyland or Paris by earning money with walking! Sweatcoin earns you cryptocurrency for your steps, and you can trade in your sweatcoins for all sorts of awesome rewards, like a new TV or a free vacation! You don't even have to pay anything to join! It's practically FREE MONEY! Check it out here: bit.ly/pointlesslyfit \nGO FOLLOW THAT POINTLESS PODCAST BELOW THIS CLUMP OF WORDS!!! :) \nEmail: thatpointlesspodcast@gmail.com\nInstagram: @thatpointlesspodcast\nWebsite: bit.ly/pointlesspodcast\nShoot us a voice message--> Just Click Right Here!\nWanna be a guest on the podcast?\nJust shoot us an email, DM us, send us a voice message on anchor or complete the form on our website! Literally anyone can be a guest, cuz anyone can answer stupid questions!\nThanks for reading all of that, now you get a little bonus bit! You get this tad bit of bonus stuff that I just get to write down...\nHow you getting on mates? I'm sitting in a chair and eating some donut holes I bought a few days ago. A few of them might be a tad stale, but that's probably because they were hot glued to my monitor. It might seem bonkers, but I like food, so sometimes I get snacky, and I end up needing a snack fast, donut holes glued to my monitor seems like a fun way to do it, so it's just there and no one can complain about it. It does smell kinda bad sometimes, but you get used to it. Plus, I clean this room up daily, I'm just a naturally messy person. Okay, I think I might need to use the restroom now, probably the ICEE from our home theatre (AKA snow cone from ice we put in the blender that we ate while staring at a laptop and sitting on a torn up couch)! Okay, got to tinkle (no I don't actually say that). See you on the third episode's description whatchamacallit. \n\"That Pointless Podcast\" is produced by Jinxed Sink Media Productions Company. For the terms of use on clipping this podcast, or any other issues with copyright, you can contact Jinxed Sink Media Productions Company (Jinxed Sink Productions) by emailing  thatpointlesspodcast@gmail.com\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/8617336/8617336-1601604857149-1b7c4b9995dd5.jpg",
+                                "audioUrl": "https://anchor.fm/s/33f59960/podcast/play/20210547/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-02%2Fe7a137f80beeeb4100921a317cfd606c.m4a"
+                            },
+                            {
+                                "id": "76445487",
+                                "title": "IT'S A BEANS PARTY...",
+                                "description": "Hunter and Sammy are Baby Back Baby Back Baby Back (unlike that awesome Chili's ad (I listened to that and danced to it for 6 hours yesterday and Jack wants to kill me now)) we talkin' bout weird crushes, some sort of party with too many beans, a hide & seek accident and bathroom heckling for 14 ish minutes (episode was cut off cuz we're too broke to pay for premium zoom) and then me and Jack talk about random stuff for a bit. \nCheck out Sammy's Saga: On Anchor, Spotify, YouTube and pretty much everywhere else!\nFollow Sammy's Saga! @sammyssagacomedypodcast\nCheck out Tall Guy Bald Guy: On Anchor, Spotify, Apple Podcasts, and pretty much everywhere else\nFollow Tall Guy Bald Guy! @tallguybaldguypodcast\nSave up for a trip to Disneyland or Paris by earning money with walking! Sweatcoin earns you cryptocurrency for your steps, and you can trade in your sweatcoins for all sorts of awesome rewards, like a new TV or a free vacation! You don't even have to pay anything to join! It's practically FREE MONEY! Check it out here: bit.ly/pointlesslyfit\nGO FOLLOW THAT POINTLESS PODCAST BELOW THIS CLUMP OF WORDS!!! :)\nEmail: thatpointlesspodcast@gmail.com\nInstagram: @thatpointlesspodcast\nWebsite: bit.ly/pointlesspodcast\nShoot us a voice message--> Just Click Right Here!\nWanna be a guest on the podcast?\nJust shoot us an email, DM us, send us a voice message on anchor or complete the form on our website! Literally anyone can be a guest, cuz anyone can answer stupid questions!\nNow for some bonus writing cuz you read the description:\nHey mates! Jake is in the house! Okay, I'll stop. I want to fly a duck someday, I mean, it's always something I've wanted to do, there's a whole deal there, I mean, flying a tiny one, no... You've got to get a giant freaking duck and ride that thing to heaven. I just realized, I think I'm slowly losing my British accent in my writing. It's becoming more American. I can't tell if that's a good thing, but I've been able to try Taco Bell, and if that means anything, this continent is so much better than that one (except for your tea, it's shit). Also, a good scone is 10 times better than one of your American donuts. Still, I love Krispy Kreme. I think I flew an orange in my dreams yesterday. That's probably where the whole thing came from. Oooo, gotta tell you, I've been writing a Dream Journal since last year, and I think I might publish it sometime in 2021 (or maybe later).\n\"That Pointless Podcast\" is produced by Jinxed Sink Media Productions Company. For the terms of use on clipping this podcast, or any other issues with copyright, you can contact Jinxed Sink Media Productions Company (Jinxed Sink Productions) by emailing  thatpointlesspodcast@gmail.com\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/8617336/8617336-1602477526372-0c3c646324d62.jpg",
+                                "audioUrl": "https://anchor.fm/s/33f59960/podcast/play/20956621/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-12%2Ffedd5bce1240fdc9cd7611d4aec9d79f.m4a"
+                            },
+                            {
+                                "id": "76283345",
+                                "title": "He's the slutty one",
+                                "description": "Getting into it with Von Macharius while we talk about some Mickey Mouse Clubhouse Sluts and some really profound stuff... a meaningful episode that explores the depths of a dick having a dick... An AWESOME EPISODE!\nCheck out Von Macharius: Right Here on Youtube!\nFollow Von on Instagram! @vonmacharius\nSave up for a trip to Disneyland or Paris by earning money with walking! Sweatcoin earns you cryptocurrency for your steps, and you can trade in your sweatcoins for all sorts of awesome rewards, like a new TV or a free vacation! You don't even have to pay anything to join! It's practically FREE MONEY! Check it out here: bit.ly/pointlesslyfit\nGO FOLLOW THAT POINTLESS PODCAST BELOW THIS CLUMP OF WORDS!!! :)\nEmail: thatpointlesspodcast@gmail.com\nInstagram: @thatpointlesspodcast\nWebsite: bit.ly/pointlesspodcast\nShoot us a voice message--> Just Click Right Here!\nWanna be a guest on the podcast?\nJust shoot us an email, DM us, send us a voice message on anchor or complete the form on our website! Literally anyone can be a guest, cuz anyone can answer stupid questions!\nThanks for reading all of that, now you get a little bonus bit! You get this tad bit of bonus stuff that I just get to write down...\nHow you getting on mates? I'm sitting in a chair and eating some donut holes I bought a few days ago. A few of them might be a tad stale, but that's probably because they were hot glued to my monitor. It might seem bonkers, but I like food, so sometimes I get snacky, and I end up needing a snack fast, donut holes glued to my monitor seems like a fun way to do it, so it's just there and no one can complain about it. It does smell kinda bad sometimes, but you get used to it. Plus, I clean this room up daily, I'm just a naturally messy person. Okay, I think I might need to use the restroom now, probably the ICEE from our home theatre (AKA snow cone from ice we put in the blender that we ate while staring at a laptop and sitting on a torn up couch)! Okay, got to tinkle (no I don't actually say that). See you on the third episode's description whatchamacallit.\n\"That Pointless Podcast\" is produced by Jinxed Sink Media Productions Company. For the terms of use on clipping this podcast, or any other issues with copyright, you can contact Jinxed Sink Media Productions Company (Jinxed Sink Productions) by emailing  thatpointlesspodcast@gmail.com\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/8617336/8617336-1601769660040-adf4caa318214.jpg",
+                                "audioUrl": "https://anchor.fm/s/33f59960/podcast/play/20574780/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-14%2Fcb1f3cc680a8e190480cd408723e201c.m4a"
+                            },
+                            {
+                                "id": "76747185",
+                                "title": "UMAMI - that's all you need to know",
+                                "description": "I feel like anything in this summary might spoil the greatness of this episode. Umami is all that needs to be said. I'm just going to keep saying it... UMAMI UMAMI UMAMI. Please don't read that as You Mami, it's Ooooooo... mami. Okay, that could be read wrong too... Umami... that's all you need to know\nFind Sean on Twitch! /bigfootbjornsen\nSave up for a trip to Disneyland or Paris by earning money with walking! Sweatcoin earns you cryptocurrency for your steps, and you can trade in your sweatcoins for all sorts of awesome rewards, like a new TV or a free vacation! You don't even have to pay anything to join! It's practically FREE MONEY! Check it out here: bit.ly/pointlesslyfit\nGO FOLLOW THAT POINTLESS PODCAST BELOW THIS CLUMP OF WORDS!!! :)\nEmail: thatpointlesspodcast@gmail.com\nInstagram: @thatpointlesspodcast\nWebsite: bit.ly/pointlesspodcast\nShoot us a voice message--> Just Click Right Here!\nWanna be a guest on the podcast?\nJust shoot us an email, DM us, send us a voice message on anchor or complete the form on our website! Literally anyone can be a guest, cuz anyone can answer stupid questions!\nThanks for reading all of that, now you get a little bonus bit! You get this tad bit of bonus stuff that I just get to write down...\nIt's 1:34 in the morning and I sorta need to take a shit. Be back. Okay, I'm back from my shit, it was... to say the least... cathartic. I feel like all shits sort of are, it's like a released pressure from your asshole, just slowly sliding out. It's like having a baby but without any of the pains or trouble or anything else. Shit baby just slides into the toilet and you flush your little sticky brown clump of rotten food down the toilet, and maybe, just maybe, someday, you'll eat up the lettuce that it fertilized. \n\"That Pointless Podcast\" is produced by Jinxed Sink Media Productions Company. For the terms of use on clipping this podcast, or any other issues with copyright, you can contact Jinxed Sink Media Productions Company (Jinxed Sink Productions) by emailing  thatpointlesspodcast@gmail.com\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/8617336/8617336-1602894959318-2bb3d02dae38a.jpg",
+                                "audioUrl": "https://anchor.fm/s/33f59960/podcast/play/21169891/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-17%2F1e48c178e78e9382e5ce5ed7849bb043.m4a"
+                            },
+                            {
+                                "id": "75389463",
+                                "title": "A Pointless Trailer",
+                                "description": "Hey there person! This is a trailer for the most pointless podcast in history, \"That Pointless Podcast.\" Get ready to listen to all sorts of people talk about random topics like Mickey's romantic life, dicks, cacti, toilets, plungers, tacos, hot dogs, turtles, and donkeys! We're gonna get so pointless you're gonna think you're crazy! Our first episode premieres on October 5, 2020. \nShoot us a follow right over to the left, or maybe the button is somewhere else. Leaving a review is amazing for us! Also, we have an instagram: @thatpointlesspodcast , and a website: bit.ly/pointlesspodcast . We even have an email: thatpointlesspodcast@gmail.com !\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/8617336/8617336-1598807607411-032ba95d04b8c.jpg",
+                                "audioUrl": "https://anchor.fm/s/33f59960/podcast/play/20027486/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-23%2Fdaad6d30-94aa-ea5d-c35b-36088b760a26.mp3"
+                            },
+                            {
+                                "id": "77308707",
+                                "title": "Waffles...but not these waffles",
+                                "description": "Talking with Ainslie from Reject and Serve about waffles, the girth of a daffodil and more weird stuff. It's honestly, an educational episode... if you know what I mean *wink* *wink* *cough* *cough* (I don't have COVID-19)... Also, side note - introducing the Turtle Times sometime next year!\nCheck out the Reject & Serve Podcast (buzzsprout.com) Also, we did an episode on their pod too, so that'll be coming out some day soon!\nThey also host a D&D pod on Youtube! Go Check it out!\nSave up for a trip to Disneyland or Paris by earning money with walking! Sweatcoin earns you cryptocurrency for your steps, and you can trade in your sweatcoins for all sorts of awesome rewards, like a new TV or a free vacation! You don't even have to pay anything to join! It's practically FREE MONEY! Check it out here: bit.ly/pointlesslyfit\nGO FOLLOW THAT POINTLESS PODCAST BELOW THIS CLUMP OF WORDS!!! :)\nEmail: thatpointlesspodcast@gmail.com\nInstagram: @thatpointlesspodcast\nWebsite: bit.ly/pointlesspodcast\nShoot us a voice message--> Just Click Right Here!\nWanna be a guest on the podcast?\nJust shoot us an email, DM us, send us a voice message on anchor or complete the form on our website! Literally anyone can be a guest, cuz anyone can answer stupid questions!\nThanks for reading all of that, now you get a little bonus bit! You get this tad bit of bonus stuff that I just get to write down...\nSorry bout the issues with the publishing... It's been a weird week. We're nearing 100 listeners now so yay! Thanks for listening y'all. In any case, yesterday Jake blew up hot pockets in the microwave and created a hot pocket death star that was floating in the microwave, suspended by strings of cheese. Sadly, the idiot decided to eat it, so I don't have a picture, but that was... an interesting situation... Also, I had this weird-ass dream where I was attacked by a pencil. I don't even know why I was scared, I thought it was a T-rex. \n\"That Pointless Podcast\" is produced by Jinxed Sink Media Productions Company. For the terms of use on clipping this podcast, or any other issues with copyright, you can contact Jinxed Sink Media Productions Company (Jinxed Sink Productions) by emailing  thatpointlesspodcast@gmail.com\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/8617336/8617336-1603466610366-847949b9487c6.jpg",
+                                "audioUrl": "https://anchor.fm/s/33f59960/podcast/play/21222351/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-26%2F0694df035165e8970d02da37ddc68395.m4a"
+                            },
+                            {
+                                "id": "77434666",
+                                "title": "Got those PARKING LOT VIBES",
+                                "description": "Oh parking lots, within you fester the insecurities of our nation... so sad what happens there, yet so happy for the two involved (or one happy and one sad). We're talking with Adam and Monika today - the directors of the award-winning short horror film \"Getting Away\" soon to (hopefully) be available on Amazon Prime - about parking lots and making movies (or at least the weird things on set). Dope stuff and hilarious episode! Can't wait for them to be back this Friday!\nCheck out Slinger Pictures: SLINGER PICTURES\nAnd also find them on Instagram and Twitter\nGo find Monika on Instagram\nSave up for a trip to Disneyland or Paris by earning money with walking! Sweatcoin earns you cryptocurrency for your steps, and you can trade in your sweatcoins for all sorts of awesome rewards, like a new TV or a free vacation! You don't even have to pay anything to join! It's practically FREE MONEY! Check it out here: bit.ly/pointlesslyfit\nGO FOLLOW THAT POINTLESS PODCAST BELOW THIS CLUMP OF WORDS!!! :)\nEmail: thatpointlesspodcast@gmail.com\nInstagram: @thatpointlesspodcast\nWebsite: bit.ly/pointlesspodcast\nShoot us a voice message--> Just Click Right Here!\nWanna be a guest on the podcast?\nJust shoot us an email, DM us, send us a voice message on anchor or complete the form on our website! Literally anyone can be a guest, cuz anyone can answer stupid questions!\nThanks for reading all of that, now you get a little bonus bit! You get this tad bit of bonus stuff that I just get to write down...\nSorry bout the issues with the publishing... It's been a weird week. We're nearing 100 listeners now so yay! Thanks for listening y'all. In any case, yesterday Jake blew up hot pockets in the microwave and created a hot pocket death star that was floating in the microwave, suspended by strings of cheese. Sadly, the idiot decided to eat it, so I don't have a picture, but that was... an interesting situation... Also, I had this weird-ass dream where I was attacked by a pencil. I don't even know why I was scared, I thought it was a T-rex.\n\"That Pointless Podcast\" is produced by Jinxed Sink Media Productions Company. For the terms of use on clipping this podcast, or any other issues with copyright, you can contact Jinxed Sink Media Productions Company (Jinxed Sink Productions) by emailing  thatpointlesspodcast@gmail.com\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/8617336/8617336-1603713341953-daf993eba3bcf.jpg",
+                                "audioUrl": "https://anchor.fm/s/33f59960/podcast/play/21653212/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-26%2F6e993b9c574bbaeb21d9577c2a1437ec.m4a"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "978788",
+                    "title": "Shenangle",
+                    "description": "Jesse and Ramiro get together a couple of times a month to give their thoughts and opinions on trends and whatnot. If you have emails for us to answer please send them to shenanglepodcast@gmail.com See acast.com/privacy for privacy and opt-out information.",
+                    "imageUrl": "https://assets.pippa.io/shows/5e06f54e789ce7ef43d6c02b/1577514552917-b68eb71cab3e4cd70b162293f3e7937e.jpeg",
+                    "author": {
+                        "name": "Ramiro Avalos"
+                    },
+                    "categories": [
+                        {
+                            "title": "Comedy"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "50980362",
+                                "title": "Backboarding to Dumb Starbucks",
+                                "description": "With the second episode, Jesse and Ramiro are starting to focus their podcast and giving it a bit more personality. We discuss our weeks as well as some of the experiences that we gained in our own jobs. Jesse talks about being a security while Ramiro talk about what it was like learning how to swim. Ramiro also talks about that one time he was in a house where some dude shot himself. See acast.com/privacy for privacy and opt-out information.",
+                                "imageUrl": "",
+                                "audioUrl": "https://sphinx.acast.com/p/open/s/5e06f54e789ce7ef43d6c02b/e/5e110d45fec1f23e1438e43a/media.mp3"
+                            },
+                            {
+                                "id": "50722006",
+                                "title": "Episode #4: H.P. Lovecraft's Cat",
+                                "description": "We start a brand new podcast! Jesse discovers that there are like 12 Star Wars movies. I learn the rules of soccer and why Mexico has a team names america. Kanye West is still crazy and H.P. Lovecraft has a racist cat. Good times!  See acast.com/privacy for privacy and opt-out information.",
+                                "imageUrl": "",
+                                "audioUrl": "https://sphinx.acast.com/p/open/s/5e06f54e789ce7ef43d6c02b/e/5e070b065352ea8a5f872f6f/media.mp3"
+                            },
+                            {
+                                "id": "53122897",
+                                "title": "The Sports Episode",
+                                "description": "Once again Ramiro and Jesse are joined by Julio this week to discuss the SPORTS! Ramiro may not know much about sports but Julio and jesse know plenty about baseball and soccer and they teach Ramiro all about how the Astros cheated.  See acast.com/privacy for privacy and opt-out information.",
+                                "imageUrl": "",
+                                "audioUrl": "https://sphinx.acast.com/p/open/s/5e06f54e789ce7ef43d6c02b/e/5e3e3a04cfca33d0564ee621/media.mp3"
+                            },
+                            {
+                                "id": "51897921",
+                                "title": "Mexican stuff in the background",
+                                "description": "Ramiro and Jesse talk about previous jobs and experiences such as life-guarding and being security.  See acast.com/privacy for privacy and opt-out information.",
+                                "imageUrl": "",
+                                "audioUrl": "https://sphinx.acast.com/p/open/s/5e06f54e789ce7ef43d6c02b/e/5e27598efb47281943aaf7fa/media.mp3"
+                            },
+                            {
+                                "id": "54468953",
+                                "title": "Weed Animas and Aliens.",
+                                "description": "Jesse, Ramiro, Mickey, and Lisa got together to talk valentines day, love, marijuana, alcohol, and aliens.  See acast.com/privacy for privacy and opt-out information.",
+                                "imageUrl": "",
+                                "audioUrl": "https://sphinx.acast.com/p/open/s/5e06f54e789ce7ef43d6c02b/e/5e5e1fcdbcf54cdf32c752f4/media.mp3"
+                            },
+                            {
+                                "id": "52235660",
+                                "title": "Let's be positive, those were fireworks",
+                                "description": "Ramiro and Jess bring Julio, Jesse's brother into the mix. Julio is a marine and Jesse's hetero life brother. Today we talk about my Colorado trip and julios's various life experiences such as a shooting at the Las Vegas music festival as well as some of his military adventures.  See acast.com/privacy for privacy and opt-out information.",
+                                "imageUrl": "",
+                                "audioUrl": "https://sphinx.acast.com/p/open/s/5e06f54e789ce7ef43d6c02b/e/5e2cdd05ca98bcff71bedb18/media.mp3"
+                            },
+                            {
+                                "id": "57388432",
+                                "title": "This Rona' is playing games. ",
+                                "description": "With the corona virus being so prevalent it has been difficult recording episodes. So we have wonky schedule for now. Thank you for listening so far!  See acast.com/privacy for privacy and opt-out information.",
+                                "imageUrl": "",
+                                "audioUrl": "https://sphinx.acast.com/p/open/s/5e06f54e789ce7ef43d6c02b/e/5e8f9c4b5620f2536bb8c23a/media.mp3"
+                            },
+                            {
+                                "id": "54827247",
+                                "title": "You can build anything you want in dreams. ",
+                                "description": "Today Jesse and ramiro talk a lot about games. We talk mostly about media molecule's new game dreams. Jesse is pretty impressed by how much stuff you can do on it.  See acast.com/privacy for privacy and opt-out information.",
+                                "imageUrl": "",
+                                "audioUrl": "https://sphinx.acast.com/p/open/s/5e06f54e789ce7ef43d6c02b/e/5e668468a48bb03d16d2a072/media.mp3"
+                            },
+                            {
+                                "id": "54226356",
+                                "title": "The piss poor politics episode",
+                                "description": "So Ramiro and jesse talk about politics and Ramiro is very rusty because he has not talked about it since 12th grade government class. Politics is a tough topic but its one we don't shine away with. Jesse takes the position of why you should distrust your government.  See acast.com/privacy for privacy and opt-out information.",
+                                "imageUrl": "",
+                                "audioUrl": "https://sphinx.acast.com/p/open/s/5e06f54e789ce7ef43d6c02b/e/5e581eca9f466ae9244c0843/media.mp3"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

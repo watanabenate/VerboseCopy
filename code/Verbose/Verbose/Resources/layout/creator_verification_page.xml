@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_color">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/min_creator"
+            android:layout_width="@dimen/icon_size"
+            android:layout_height="@dimen/icon_size"
+            android:src="@drawable/left_arrow"
+            android:scaleType="fitCenter"
+            android:background="@android:color/transparent"
+            android:layout_gravity="left"
+            />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/icon_size"
+            android:text="@string/action_settings"
+            android:textColor="@color/secondaryTextColor"
+            android:gravity="center_vertical"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Creator Verification"
+        android:textColor="@color/secondaryTextColor"
+        android:textSize="@dimen/page_title_fontsize"
+        android:gravity="center"
+        />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/big_spacer_width"
+        android:background="@color/postBgColorFlat"
+        android:elevation="1dp"
+        android:padding="@dimen/big_spacer_width">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/get_verified"
+            android:textColor="@color/verboseColor"
+            android:textStyle="bold"
+            android:textSize="@dimen/page_title_fontsize"
+            android:gravity="center_horizontal"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/verify_instr"
+            android:textColor="@color/secondaryTextColor"
+            android:textSize="@dimen/post_fontsize"
+            android:gravity="center_horizontal"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter RSS link here"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="@dimen/big_spacer_width"
+            android:id="@+id/rss_link_input"
+            android:backgroundTint="@color/primaryTextColor"
+            android:textColorHint="@color/hintTextColor"
+            android:textColor="@color/secondaryTextColor"
+            />
+    </LinearLayout>
+
+    <Button
+        android:layout_width="@dimen/submit_btn_width"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/submit_rss_btn"
+        />
+    
+    <!-- TODO: add FAQ section -->
+</LinearLayout>

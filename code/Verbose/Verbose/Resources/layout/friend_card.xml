@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Card layout for user profile and podcast profile displays -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:columnCount="10"
+    android:gravity="center_vertical"
+    android:background="@color/postBgColor"
+    android:elevation="1dp">
+
+    <ImageView
+        android:id="@+id/profile_image"
+        android:layout_width="@dimen/profile_size"
+        android:layout_height="@dimen/profile_size"
+        android:src="@drawable/profile_temp_fill"
+        android:scaleType="fitCenter"
+        android:background="@android:color/transparent"
+        android:layout_margin="@dimen/spacer_width"
+        android:layout_weight="0"
+            />
+
+    <TextView
+        android:id="@+id/profile_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="\@jane.doeeeeeeeeeeeeeeeeee"
+        android:textColor="@color/secondaryTextColor"
+        android:layout_toRightOf="@id/profile_image"
+        android:layout_alignTop="@id/profile_image"
+        android:layout_alignBottom="@id/profile_image"
+        android:gravity="center"
+        android:layout_margin="@dimen/spacer_width"
+        android:layout_weight="0"
+        android:maxLength="20"
+        android:ellipsize="end"
+        android:maxLines="1"
+            />
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+            />
+
+    <Button
+        android:id="@+id/friend_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TEXT"
+        android:layout_weight="0"
+        android:layout_margin="@dimen/big_spacer_width"
+            />
+</LinearLayout>

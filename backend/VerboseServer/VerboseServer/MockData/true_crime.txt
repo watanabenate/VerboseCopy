@@ -1,0 +1,529 @@
+﻿{
+    "data": {
+        "podcasts": {
+            "data": [
+                {
+                    "id": "534844",
+                    "title": "Aquarium Hobbyist Podcast",
+                    "description": "Welcome to Aquarium Hobbyist Podcast! This is the tropical fish keeper's podcast! Every and anything aquarium and tropical fish will be discussed here. Come and get your freshwater and saltwater fix. Monster predatory fish are Aqua Alex's specialty but you'll soon come to find out that Aqua Alex has a wide spread knowledge of many different species in the aquarium hobby.Aqua Alex has been keeping fish since he was 12 years old. Now he gets to share his passion, and love of tropical fish with the whole world! Thanks for choosing Aquarium Hobbyist Podcast! Enjoy the Aquarium Hobby and listen to all of our episodes!",
+                    "imageUrl": "https://dasg7xwmldix6.cloudfront.net/hostpics/retina/b9820aad-77dd-4157-9c9e-d1e92535f9cf_fb.jpg",
+                    "author": {
+                        "name": "Aquarium Hobbyist Podcast"
+                    },
+                    "categories": [
+                        {
+                            "title": "Food"
+                        },
+                        {
+                            "title": "Arts"
+                        },
+                        {
+                            "title": "Society"
+                        },
+                        {
+                            "title": "Culture"
+                        },
+                        {
+                            "title": "Games"
+                        },
+                        {
+                            "title": "Hobbies"
+                        },
+                        {
+                            "title": "Wrestling"
+                        },
+                        {
+                            "title": "Family"
+                        },
+                        {
+                            "title": "Crime"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "28441123",
+                                "title": "AHP Fish of the Week May 21st: Silver Dollar Metynnis Argenteus",
+                                "description": "Every Monday here on Aquarium Hobbyist Podcast I will be doing a special episode of AHP dedicated to one species of tropical fish! It will be fish of the week where I will discuss everything about the particular fish including how to care for it. Freshwater and saltwater fish will be discussed. I have always wanted to do this and now is the time to bring it alive!\nMay 21st to May 27th Fish of the Week: Silver Dollar Metynnis Argenteus\nFind out some information about the gorgeous silver vegan piranha!! Find out how to keep the Silver Dollar fish in the aquarium. \nSilver Dollars are  a favorite fish of mine. They are a great display fish, a great dither fish, and an overall great community fish. Find out for yourselves why you should have a silver dollar fish!\nThanks for listening enjoy!!!!\n DON'T FORGET TO MAKE WATER CHANGES FUN!! GET YOUR OWN AQUAPLENISH ELECTRONIC WATER CHANGE SYSTEM TODAY!!! \nTAKE $20 OFF AND GET FREE SHIPPING BY USING THE DISCOUNT CODE: AquaAlex2018\nwww.aquaplenish.com Support the show",
+                                "imageUrl": "https://storage.buzzsprout.com/variants/wdUe73Ppd56KVPbMhpTEke6u/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg",
+                                "audioUrl": "https://www.buzzsprout.com/108891/708387-ahp-fish-of-the-week-may-21st-silver-dollar-metynnis-argenteus.mp3?blob_id=334601"
+                            },
+                            {
+                                "id": "32024394",
+                                "title": "Saltwater 101: Setting Up & Cycling Saltwater Aquariums",
+                                "description": "Now that we have been introduced to saltwater, figured out what saltwater set-ups there are, and what equipment is needed for saltwater aquariums we are ready to move on to the next step!\nListen here if you haven't been introduced to saltwater.\nhttps://www.buzzsprout.com/108891/728489-exotic-aquatics-on-ahp-saltwater-101-intro-to-saltwater\nToday, we take it a step further and get you ready for livestock!! Aqua Alex discusses setting up and cycling your saltwater aquarium. Find out everything you need to know about setting up and cycling your tank. I walk you step by step as I tell you how to set up your saltwater aquarium. Plus, I discuss cycling and the different set ups and live stock for them and when you can begin adding fish!\nTopics For Discussion:\n~ Setting up a Saltwater Aquarium\n~ Cycling a Saltwater Aquarium\n~ Live stock for the three saltwater set ups\n~ When to add Live stock\nThanks for listening!! Enjoy!Support the show",
+                                "imageUrl": "https://storage.buzzsprout.com/variants/PfFnw3cPgJK9bEeKBUi34asp/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg",
+                                "audioUrl": "https://www.buzzsprout.com/108891/815252-saltwater-101-setting-up-cycling-saltwater-aquariums.mp3?blob_id=1251286"
+                            },
+                            {
+                                "id": "48756130",
+                                "title": "Monster Fish Keepers on AHP: Peacock Bass & Monsters W/ Robert Schmidt",
+                                "description": "Monster Fish Keeper Robert Schmidt joins Aqua Alex for a fun Monster fish chat here on Monster Fish Month. Robert Schmidt keeps Oscar Cichlids, Peacock Bass, a Silver Arowana, and Motoro (freshwater) stingrays. What monster fish chat will Robert bring to Aqua Alex? One thing is for sure, monster fish keepers will enjoy this show! \nFor the first time ever on Aquarium Hobbyist Podcast, Rob and I will be discussing Peacock Bass! Peacock Bass are an amazing predatory fish! \nPLANNED FOR THE SHOW:\n~ How did Rob get into Monster fish\n~ What Monster Fish he is keeping\n~ Peacock Bass discussion\n~ Are piranhas considered monsters?\nEnjoy the show and Happy Monster Fish Month!!\n''Like'' us on Facebook:\nhttps://www.facebook.com/aquaalexcardinale/\nCheck us out on I-tunes:\nhttps://itunes.apple.com/us/podcast/aquarium-hobbyist-podcast/id1254532480?mt=2\nSupport Aqua Alex On Patreon:\nhttps://www.patreon.com/aquariumhobbyistpodcast\n\n\nSupport the show\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.blogtalkradio.com/aquaalexaquariums/2018/10/22/monster-fish-keepers-on-ahp-peacock-bass-monsters-w-robert-schmidt.mp3"
+                            },
+                            {
+                                "id": "48756167",
+                                "title": "Aquarium Hobbyist Podcast 150th Episode Stingray STINGER!",
+                                "description": "This episode of Aquarium Hobbyist Podcast is our 150th episode. YES THAT IS CORRECT! WE HAVE REACHED 150 EPISODES! To celebrate our 150th episode, I have put together an action packed tropical fish show for everyone to enjoy! I am going to let other tropical fish keepers do the talking! I have 3 special guests coming on the show to celebrate our 150th episode of AHP. \nThis is a show of FIRST EVERS! For the first time ever, we take a trip down memory lane as I play 2 guest interviews from the now retired Aquatic Wetline. Also, for the first time Freshwater Stingrays will be discussed.\n Everything from working at PetSmart and Petco as a fish keeper to  tips to purchasing fish to nano aquariums and freshwater stingrays!!! THIS WILL MARK THE FIRST TIME I'VE EVER CHATTED FRESHWATER STINGRAYS WITH A STING RAY HOBBYIST.\n\nPLANNED FOR THE SHOW:\n\nSPECIAL GUEST #1 MaFishGuy Aaron Kremer\n\nFrom Aquatic Wetline in 2013, Aaron discusses how it is to work at Petco and PetSmart as a fish keeper, tips for purchasing fish, and more.\n\nSPECIAL GUEST #2 Stan Jamrog\n\nFrom Aquatic Wetline in 2014, Stan Jamrog discusses nano aquariums and the fish and inverts that can live in them.\n\nMAIN EVENT SPECIAL GUEST #3 STINGRAY HOBBYIST MARTY JANDURA\n\nMarty will be discussing how to keep and care for stingrays, tankmates for rays, and more!\n\nTHANK YOU TO ALL THE FISH KEEPERS FOR MAKING AHP A SUCCESS!\n\nENJOY THE SHOW! PLEASE LIKE OUR FACEBOOK PAGE THE AQUARIUM NETWORK FOR SHOW NEWS, PERSONAL AQUARIUM COLLECTION PICS, AND MORE! \n\n\nSupport the show\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.blogtalkradio.com/aquaalexaquariums/2018/09/09/aquarium-hobbyist-podcast-150th-episode-stingray-stinger.mp3"
+                            },
+                            {
+                                "id": "48756264",
+                                "title": "Aqua Alex Discusses AquaPlenish & COUPON CODE!",
+                                "description": "Aqua Alex is proud to partner with an aquarium hobbyist run company based out of Australia to help better the aquarium hobby.  AquaPlenish Electronic Water Changer makes fish keeping fun..... AND more importantly Water changes fun! The AquaPlenish Electronic Water Changer changes the game when it comes to water changes. Gone are the days of heavy bucket lifting and back breaking! Find out how the AquaPlenish Electronic Water Changer can make water changes fun for you!\nWhat else can the AquaPlenish Water Changer do? Well, it can also QT and acclimate new fish, clean aquarium plants, help clean filters, and much more!!!\nFind out why you should get an AquaPlenish to help better your aquarium hobby!\n Take $20 off an AquaPlenish and get FREE Shipping by using the coupon code: AquaAlex2018 GO TO www.aquaplenish.com \n\nSupport the show\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.blogtalkradio.com/aquaalexaquariums/2018/05/29/aqua-alex-discusses-aquaplenish-coupon-code.mp3"
+                            },
+                            {
+                                "id": "48756305",
+                                "title": "Life Changes By Sara Chunglo: Races, Spring, Sleep & Energy",
+                                "description": "Sara Chunglo is proud to host another episode of Life Changes By Sara on the Alex Cardinale Show. Today, Sara has a variety of topics that she is going to discuss. All of these topics that she will be discussing are important and will be a beneficial listen for you. Be sure to check out the first few episodes of Life Changes by Sara Chunglo by going to alexcardnetwork.buzzsprout.com. \nHave you ever wanted to run a marathon/race?\nHave you ever wondered what activities you can do outside in the Spring?\nWhy is sleep important?\nSara will answer all of those questions on this show!\nOn the Agenda:\n~ Discussion on Races\n~ Discussion on Spring Exercise and Activities\n~ Discussion On Sleep and Energy\nEnjoy the show and thanks for the listen!!\n Life Changes By Sara Chunglo on the Alex Cardinale Show WILL BE STAYING when A.C. Network switches to Aquarium Hobbyist Podcast. \n\nSupport the show\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.blogtalkradio.com/aquaalexaquariums/2018/05/11/life-changes-by-sara-chunglo-races-spring-sleep-energy.mp3"
+                            },
+                            {
+                                "id": "48756461",
+                                "title": "AC Network Super Bowl 52 PRE-SHOW",
+                                "description": "It's SUPER Sunday!!!! It's Super Bowl Sunday! Super Bowl 52 is just under an hour away! For the first time ever, I Alex Cardinale will host a Super Bowl half time show here exclusively on A.C. Network. Join me as I break down the entire game before it happens. It's time to get ready for a fun Sunday night with a lot of great football action, commercials, and a great halftime performance.\nI will be discussing everything you need to know including hosting a Super Bowl party, discuss the Pats and Eagles, and who I think will win!\nPlanned for the show:\n~ Tips for Hosting a Superbowl Party\n~ Half Time Show with Justin Timberlake discussion\n~ Philadelphia Eagles and New England Patriots discussion\n~ Keys to a Eagles victory and Players to watch out for\n~ Alex Cardinale's Super Bowl 52 Prediction\n LETS GO EAGLES! LET'S GO E-A-G-L-E-S!\nNeed a voice over? go to www.fiverr.com/alexcardinale \n\nSupport the show\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.blogtalkradio.com/aquaalexaquariums/2018/02/04/ac-network-super-bowl-52-pre-show.mp3"
+                            },
+                            {
+                                "id": "48756617",
+                                "title": "On the Case w/ AC: America Under Fire Part 2",
+                                "description": "It's time to find out about some more of these tragic mass shootings. America has been under fire for many years even dating back to the 1950's and 1960's. When I say under fire I'm not talking about real fires, I'm talking about mass shootings. Believe it or not there is at least four memorable mass shootings per each decade. The more people with access to guns the higher the chances of this occurring rise.\nIt's time for us to learn about more tragic mass shootings.  This is part 2 of a five part series!!! \nToday I am going to talk about some of the biggest shootings in history. But also on the agenda, I am going to talk about how to survive an active shooter situation and a mass shooting. Plus I am going to talk about why people don't react or do nothing in emergency situations and what first responders and psychiatrists think about it.\nPLANNED FOR THE SHOW:\n~ HOW PEOPLE REACT TO EMERGENCIES SUCH AS MASS SHOOTINGS\n~ WHAT IS NEGATIVE PANIC AND NORMALCY BIAS?\n~ HOW TO SURVIVE A MASS SHOOTING SITUATION\nDISCUSS THE FOLLOWING MASS SHOOTINGS:\n~ UT TOWER SHOOTING 1961\n~ REDWOOD SHOOTING 2005\n~LIBY'S SHOOTING 1991\n~ ORLANDO PULSE NIGHTCLUB 2016 SHOOTING\n~ SAN  Bernardino CA SHOOTING 2015\nENJOY THE SHOW!!!\nMERRY CHRISTMAS AND HAPPY HOLIDAYS!!!! \n\nSupport the show\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.blogtalkradio.com/aquaalexaquariums/2017/12/04/on-the-case-w-ac-america-under-fire-part-2.mp3"
+                            },
+                            {
+                                "id": "48756655",
+                                "title": "In the Ring w/AC: WWE Survivor Series 2017 BreakDown Pre-Show",
+                                "description": " WWE Survivor Series is LIVE tonight!!!! WWE hosts it's final big PPV of the year tonight. WWE Monday Night Raw and Smackdown LIVE go head to head to see which brand is the most superior.Survivor Series is the only time a year where RAW and Smackdown go one on one with each other for Brand Supremacy.\nKurt Angle's job as general manager of Monday Night Raw is on the line in the main event as he captains Team Raw against Team Smackdown.\nUniversal Champion Brock Lesnar vs WWE Champion Aj Styles, WWE Raw (Angle, Triple H, Finn Balor, Samoa Joe, and Braun Strowman) vs. WWE Smackdown LIVE (Shane McMahon, Shinsuke Nakamaura, Bobby Roode, Randy Orton and John Cena.)\nWith Survivor Series with a packed card will it deliver?\nWelcome to the WWE Survivor Series 2017 BREAKDOWN PRE-SHOW!\nPLANNED FOR THE SHOW:\n~ CHANGES TO THE SURVIVOR SERIES MATCH CARD\n~ THE SURVIVOR SERIES MATCH CARD\n~ MY SURVIVOR SERIES PREDICTIONS\n~  WHAT I THINK SHOULD HAPPEN AT SURVIVOR SERIES\n~ WWE NEWS AND RUMORS\nSend your reviews of Survivor Series when the show is over to www.speakpipe.com/acnetworkhotline \n\nSupport the show\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.blogtalkradio.com/aquaalexaquariums/2017/11/19/in-the-ring-wac-wwe-survivor-series-2017-breakdown-pre-show.mp3"
+                            },
+                            {
+                                "id": "48756723",
+                                "title": "Inside the Ring W/ AC Special: WWE TLC Slamdown! AFTER SHOW",
+                                "description": "WWE fans, join WWE fan Alex Cardinale as he review's the recent PPV WWE TLC which aired this past Sunday! WWE TLC was a RAW brand PPV and had some good matches on the card. Due to an illness, it left Bray Wyatt and Roman Reigns unable to compete at the event. AJ Styles and Kurt Angle where added as replacements and they did an awesome job. Alex watched WWE TLC from the start to the end and he enjoyed it, but how will he review it? Did he really like it?\nIs TLC a success of a PPV or a failure of a PPV?\nAlex will let you know as he reviews and recaps TLC.\nPLANNED FOR THE SHOW:\n~ WWE TLC MATCH RESULTS\n~ HOW MANY PREDICTIONS DID I GET RIGHT\n~ HONEST THOUGHTS ON WWE TLC AND MAIN EVENT\n~ DOES TLC PASS OR FAIL? WHAT GRADE DOES IT GET?\n~ WHERE DOES RAW GO AFTER TLC?\n~ FINAL 5 BEST SUPERSTARS AND MATCHES OF OCTOBER\nEnjoy the show WWE fans!\n\nSupport the show\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.blogtalkradio.com/aquaalexaquariums/2017/10/26/inside-the-ring-w-ac-special-wwe-tlc-slamdown-after-show.mp3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "1585320",
+                    "title": "Crime Cafe",
+                    "description": "Best friends Amber and Coral discuss some of the most interesting and under reported murders and mysteries. Join them for some true crime chat, but don't forget your iced coffee!",
+                    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2666089/2666089-1586662174025-bf6034b66fdab.jpg",
+                    "author": {
+                        "name": "Crime Café"
+                    },
+                    "categories": [
+                        {
+                            "title": "True Crime"
+                        },
+                        {
+                            "title": "Comedy"
+                        },
+                        {
+                            "title": "Journalism"
+                        },
+                        {
+                            "title": "psychology"
+                        },
+                        {
+                            "title": "Sociology"
+                        },
+                        {
+                            "title": "Non-Fiction"
+                        },
+                        {
+                            "title": "mystery"
+                        },
+                        {
+                            "title": "Science"
+                        },
+                        {
+                            "title": "Law"
+                        },
+                        {
+                            "title": "Social Justice"
+                        },
+                        {
+                            "title": "Biology"
+                        },
+                        {
+                            "title": "Crime"
+                        },
+                        {
+                            "title": "Storytelling"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "91147912",
+                                "title": "16. Maniacal Father: The Victims of Don Spirit",
+                                "description": "Today, Amber and Coral tell the frightening and tragic stories of seven victims. Sarah and her children Kaleb, Kylie, Johnathon, Destiny, Brandon, and Alanna were mercilessly killed by their own family member- Sarah's father, Don Spirit in September of 2014. We try our best to break down the murders, the motives, and the tragic stories that led up to their final moments. Mental illness, substance abuse, and trauma are all things we try not to talk about; but, these are the exact things we should be talking about. Join the conversation on our socials, and don't forget to rate, review, and subscribe wherever you listen. It really does help us!\nJoin us on Instagram and Facebook @crimecafepod\nBuy merch here: https://bit.ly/3cl2uWE\nEmail: crimecafepod@yahoo.com\n\nChildhelp National Child Abuse Hotline childhelphotline.org and call 1-800-4-A-CHILD\nUS National Domestic Violence Hotline www.thehotline.org and call 1-800-799-SAFE\n\nSources: \n\n https://bit.ly/3nX28ct\n https://bit.ly/2QUH5vf\n  https://nyti.ms/3es8Dkd\n  https://bit.ly/3f6mRGP\n  https://bit.ly/3xQL8cB\n  https://bit.ly/3b8GX24\n  https://bit.ly/3etjgnd\n  https://bit.ly/3nWn8jq\n\n\n--- \n\nThis episode is sponsored by \n· Anchor: The easiest way to make a podcast.  https://anchor.fm/app\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2666089/2666089-1586662174025-bf6034b66fdab.jpg",
+                                "audioUrl": "https://anchor.fm/s/107cb784/podcast/play/33063465/sponsor/a1ub1jk/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-02%2F38d99298a0bc75c6991b0a79765483e0.m4a"
+                            },
+                            {
+                                "id": "99803809",
+                                "title": "32. Halloween Special 5: Chaim Weiss",
+                                "description": "Orthodox Jews trace their roots back 5,000 years to the time of Moses and they live according to strict codes that have remained unchanged for centuries. To maintain their traditions, many communities have established yeshivas, which are schools that emphasize the principles of Orthodox Judaism. It is on the morning of Sabbath, Saturday November 1st 1986, that 15 year old Chaim Wiess was bludgeoned to death in his dormitory at a Yeshiva in Long Beach, New York. There were no signs of a struggle, no witnesses, no murder weapon. This case remains unsolved, but, Chaim Weiss will be remembered today. And hopefully, his case will be solved. This is the murder of Chaim Weiss.\nJoin us on Instagram and Facebook @crimecafepod\nBuy merch here: https://bit.ly/2TPcVL7\nEmail: crimecafepod@yahoo.com\nSources:\n\n https://bit.ly/3oSS9az\n https://bit.ly/3iOhS03\n bit.ly/3am1tvg\n https://nyti.ms/2Yz26PW\n https://bit.ly/3mK56kx\n\n\n--- \n\nThis episode is sponsored by \n· Anchor: The easiest way to make a podcast.  https://anchor.fm/app\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2666089/2666089-1634064900907-5424015f57d29.jpg",
+                                "audioUrl": "https://anchor.fm/s/107cb784/podcast/play/41678276/sponsor/a1ub1jk/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-12%2Fa67878afa40d1aead0ff398d98b5c777.m4a"
+                            },
+                            {
+                                "id": "83297475",
+                                "title": "2. Corp. Chris R. Brown",
+                                "description": "For episode number dos we've brought you a murder-for-hire so wild, you won't be able to guess how it ends. This is more than just the story of a murder, it's the story of a grandparents' love.\nJoin us on Instagram, Twitter, and Facebook @crimecafepod\nBuy merch here: https://bit.ly/3cl2uW\nEmail: crimecafepod@yahoo.com\nSources:\n\n A Matter of Justice (1993 film) starring Patty Duke and Martin Sheen\n https://bit.ly/3mSTY2y\n  https://bit.ly/38F9sCt\n  https://bit.ly/3nPGTZp\n  https://bit.ly/38A947Z\n  https://bit.ly/3psWhej \n\n\n--- \n\nThis episode is sponsored by \n· Anchor: The easiest way to make a podcast.  https://anchor.fm/app\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2666089/2666089-1608661466058-dd2a92b2e2f87.jpg",
+                                "audioUrl": "https://anchor.fm/s/107cb784/podcast/play/24313937/sponsor/a1ub1jk/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-02%2Fafbf856b4d90fe1c1b30edbb246e2352.m4a"
+                            },
+                            {
+                                "id": "88150302",
+                                "title": "12. House of Horrors Part 2: Shane Watson and Ron Woodworth",
+                                "description": "In today’s episode, we are continuing to tell the stories of three victims. Kathy Loreno, Shane Watson, Ron Woodworth, and the Knotek children. \nJoin us on Instagram, Twitter, and Facebook @crimecafepod\nBuy merch here: https://bit.ly/3cl2uW\nEmail: crimecafepod@yahoo.com\n\nBrittany Hammond Facebook Page: https://bit.ly/3sdcar4\nCasey Hammond YouTube Channel: https://bit.ly/3foha90 EMAIL: crimecafepod@yahoo.com\nSources: \n\n If You Tell by Gregg Olsen\n Snapped Season 19, Episode 3\n Murderpedia: https://bit.ly/3vQo8cD\n Seattle Sun article by Sheila Flynn: https://bit.ly/2NMgwqo\n  Quill Reads If You Tell Book Summary: https://amzn.to/3de2Fld\n\n\n--- \n\nThis episode is sponsored by \n· Anchor: The easiest way to make a podcast.  https://anchor.fm/app\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2666089/2666089-1629654551529-8e66ff5292b78.jpg",
+                                "audioUrl": "https://anchor.fm/s/107cb784/podcast/play/30195374/sponsor/a1ub1jk/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-22%2F76c2e5e19e433f2c5d212164dd57976b.m4a"
+                            },
+                            {
+                                "id": "83297472",
+                                "title": "BONUS 1: Get to Know Your Hosts + Q&A",
+                                "description": "Amber and Coral talk about how they met, what kind of stuff they're into, and answer some interesting questions! Hint: we talk about how dumb we were as adolescents.\nJoin us on Instagram, Twitter, and Facebook @crimecafepod\nBuy merch here: https://bit.ly/3cl2uW\nEmail: crimecafepod@yahoo.com\n\n--- \n\nThis episode is sponsored by \n· Anchor: The easiest way to make a podcast.  https://anchor.fm/app\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2666089/2666089-1586662174025-bf6034b66fdab.jpg",
+                                "audioUrl": "https://anchor.fm/s/107cb784/podcast/play/25330283/sponsor/a1ub1jk/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-02%2Fc7518b73a28c485ba999575ca0ba0276.m4a"
+                            },
+                            {
+                                "id": "83543045",
+                                "title": "5. Danny Lewis Hansford",
+                                "description": "Today's episode explores the short and sad life of Danny Lewis Hansford, a victim of childhood abuse, substance abuse, and a man by the name of Jim Williams. Join us as we discuss 1990's Savannah, Georgia, the senseless killing of Danny Hansford, and the injustice that comes along with who is in power.\nJoin us on Instagram, Twitter, and Facebook @crimecafepod\nBuy merch here: https://bit.ly/3cl2uW\nEmail: crimecafepod@yahoo.com\nSources:\n\n “Midnight in the Garden of Good and Evil” movie\n “Midnight in the Garden of Good and Evil” book by John Berendt\n  “Lawyer Games: After Midnight in the Garden of Good and Evil” by Dep Kirkland\n  https://bit.ly/2L1vJSV\n  https://bit.ly/3rQRJAM\n\n\n--- \n\nThis episode is sponsored by \n· Anchor: The easiest way to make a podcast.  https://anchor.fm/app\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2666089/2666089-1610912559166-89ec663d367c7.jpg",
+                                "audioUrl": "https://anchor.fm/s/107cb784/podcast/play/25330199/sponsor/a1ub1jk/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-02%2F608abbd0650561a44b41b90690464c97.m4a"
+                            },
+                            {
+                                "id": "88269952",
+                                "title": "BONUS 3: Cautionary Tales",
+                                "description": "Join us on Instagram, Twitter, and Facebook @crimecafepod\nBuy merch here: https://bit.ly/3cl2uW\nEmail: crimecafepod@yahoo.com\n\n--- \n\nThis episode is sponsored by \n· Anchor: The easiest way to make a podcast.  https://anchor.fm/app\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2666089/2666089-1586662174025-bf6034b66fdab.jpg",
+                                "audioUrl": "https://anchor.fm/s/107cb784/podcast/play/30379366/sponsor/a1ub1jk/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-02%2F6f2a547dd81200936ddf5cd3473a8334.m4a"
+                            },
+                            {
+                                "id": "101026324",
+                                "title": "35. Halloween Special 8: Levi Frady",
+                                "description": "Today we’re telling the story of Levi Frady. This story will break your heart into a million tiny pieces. A young boy’s life was taken too soon, and too close to our home in the small town of Dawsonville, GA in 1997. Levi would be 35 this year. And unfortunately there are no signs that this case will be solved soon. However, police say that they’re still investigating Levi’s case and leads still come in. This is the murder of Levi Dillon Frady.\nJoin us on Instagram and Facebook @crimecafepod\nBuy merch here: https://bit.ly/2TPcVL7\nEmail: crimecafepod@yahoo.com\nSources:\n\n https://bit.ly/3zYEhh3\n https://bit.ly/3irNvwp\n  https://bit.ly/2Yg5fUg\n  https://bit.ly/3lnBFVM\n  https://bit.ly/2YyVUY0\n  https://bit.ly/3BmWWEA\n  https://bit.ly/3DkqbIO\n  https://bit.ly/3uQENfU\n  https://bit.ly/3DdCHtE\n  https://bit.ly/3BpPOr0\n  https://bit.ly/3DmupzH\n  https://bit.ly/3BsXkl2\n  https://bit.ly/2YxvsNS \n  https://bit.ly/3iQJkKz\n  bit.ly/3FAnHYQ\n\n\n--- \n\nThis episode is sponsored by \n· Anchor: The easiest way to make a podcast.  https://anchor.fm/app\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2666089/2666089-1633657668665-a94c6d15a2307.jpg",
+                                "audioUrl": "https://anchor.fm/s/107cb784/podcast/play/41463942/sponsor/a1ub1jk/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-31%2Fb900c12ab4e4bdcab94c6d62f9b55cc5.m4a"
+                            },
+                            {
+                                "id": "83297474",
+                                "title": "3. Kristi Cornwell",
+                                "description": "The case that started this podcast. The disappearance and mysterious murder of Kristi Cornwell. You know those cases that are \"unsolved\", but you just KNOW who did it? That's this case for Coral.\nJoin us on Instagram, Twitter, and Facebook @crimecafepod\nBuy merch here: https://bit.ly/3cl2uW\nEmail: crimecafepod@yahoo.com\nSources:\n\n Disappeared on ID Season 2, Episode 7 “Danger at Dusk”\n Trace Evidence Podcast Episode 44 The Murder and Abduction of Kristi Cornwell\n  gbi.georgia.gov\n  https://bit.ly/3poxsAh\n  http://dailym.ai/3mJS2cI\n\n\n--- \n\nThis episode is sponsored by \n· Anchor: The easiest way to make a podcast.  https://anchor.fm/app\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2666089/2666089-1608863359317-0409b0eb1a0e6.jpg",
+                                "audioUrl": "https://anchor.fm/s/107cb784/podcast/play/24398815/sponsor/a1ub1jk/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-02%2F3b91a1e606b3cb3d9e9e6e356308411b.m4a"
+                            },
+                            {
+                                "id": "83297476",
+                                "title": "1. Winecoff Hotel Fire",
+                                "description": "In our very first episode of Crime Cafe Podcast, Amber and Coral discuss the devastating Winecoff Hotel Fire that burdened Atlanta for decades.\nJoin us on Instagram, Twitter, and Facebook @crimecafepod\nBuy merch here: https://bit.ly/3cl2uW\nEmail: crimecafepod@yahoo.com\nSources:\n\n https://bit.ly/3k2AqYZ\n https://bit.ly/319Itf7\n  https://bit.ly/31biNPs\n  https://bit.ly/3nZQFbV\n  https://bit.ly/2GTBP62\n  https://bit.ly/3lLKBSf\n\n\n--- \n\nThis episode is sponsored by \n· Anchor: The easiest way to make a podcast.  https://anchor.fm/app\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2666089/2666089-1608596243712-ae6c8db709bd7.jpg",
+                                "audioUrl": "https://anchor.fm/s/107cb784/podcast/play/24247923/sponsor/a1ub1jk/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-02%2Fb06928fb6a9fc6b9badc4ef860f0164b.m4a"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "907167",
+                    "title": "True Crime Brewery",
+                    "description": "Welcome to the Quiet End",
+                    "imageUrl": "https://tiegrabber.com/wp-content/uploads/powerpress/TCB3000PS.jpg",
+                    "author": {
+                        "name": "Tiegrabber Podcasts"
+                    },
+                    "categories": [
+                        {
+                            "title": "True Crime"
+                        },
+                        {
+                            "title": "Crime"
+                        },
+                        {
+                            "title": "Society"
+                        },
+                        {
+                            "title": "psychology"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "44066282",
+                                "title": "Simon Says Murder",
+                                "description": "Isaac Grimes was a freshman at Palmer Springs High School in Colorado Springs, Colorado, when he life took a dramatic turn. He was a quiet kid who liked to read. But he met a charismatic high school senior named Simon Sue and his life was never the same. The two teens shared an interest in […]\nThe post Simon Says Murder appeared first on Tiegrabber.\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://api.spreaker.com/v2/episodes/19854518/download.mp3"
+                            },
+                            {
+                                "id": "44066284",
+                                "title": "Fatal Vision: The Jeffrey MacDonald Case",
+                                "description": "On February 17, 1970, in Fort Bragg, North Carolina, some of the most shocking murders in modern history took place. Colette MacDonald and her two young daughters were brutally murdered in their home on the base. Colette’s husband, Jeffrey MacDonald, was left wounded but he was still very much alive and well. This family massacre […]\nThe post Fatal Vision: The Jeffrey MacDonald Case appeared first on Tiegrabber.\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://api.spreaker.com/v2/episodes/19854523/download.mp3"
+                            },
+                            {
+                                "id": "44066289",
+                                "title": "Poisonous: Audrey Marie Hilley",
+                                "description": "Homemaker Audrey Marie Hilley killed her husband, Frank, in 1975, and attempted to kill her daughter three years later. Her choice of victims, which also included her mother and mother-in-law, were the people close to her. Her motive was money. What makes her case extraordinary is how she managed to elude arrest for three years […]\nThe post Poisonous: Audrey Marie Hilley appeared first on Tiegrabber.\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://api.spreaker.com/v2/episodes/19854536/download.mp3"
+                            },
+                            {
+                                "id": "44066303",
+                                "title": "Trees of Death: The Barron Family Murders",
+                                "description": "Jack Barron’s wife, Irene, died in her bed in the spring of 1992. She was only 34 and in apparently good health. On the day of her death, Jack told some people at work that she was having headaches and hadn’t felt well for several days. Eight months later, Jack Barron’s son, Jeremy, 4, stopped […]\nThe post Trees of Death: The Barron Family Murders appeared first on Tiegrabber.\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://api.spreaker.com/v2/episodes/19854755/download.mp3"
+                            },
+                            {
+                                "id": "44066310",
+                                "title": "Step-Monster: The Murder of Zahra Baker",
+                                "description": "In her 10 years, Zahra Baker had gone through a lot and overcome more than most adults. She was a cancer survivor who had to have an amputation, the removal of part of her lung, and she was left hearing impaired from cancer treatments. But she was still beautiful, inside and out. A resilient spirit […]\nThe post Step-Monster: The Murder of Zahra Baker appeared first on Tiegrabber.\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://api.spreaker.com/v2/episodes/19854550/download.mp3"
+                            },
+                            {
+                                "id": "44066314",
+                                "title": "The Final Act: The Murders of Julie Kibuishi & Samuel Herr",
+                                "description": "Daniel Wozniak believed his acting abilities would help him get away with anything, including the perfect crime. For him, this crime was a cold-blooded double murder with money as the sole motivation. Wozniak was engaged to be married and he killed combat vet Samuel Herr and his college tutor Julie Kibuishi because he needed money […]\nThe post The Final Act: The Murders of Julie Kibuishi & Samuel Herr appeared first on Tiegrabber.\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://api.spreaker.com/v2/episodes/19854635/download.mp3"
+                            },
+                            {
+                                "id": "44066329",
+                                "title": "An Inconvenient Woman: The Murder of Carol Kennedy",
+                                "description": "At 7:36 pm on the first Tuesday in July 2008, Carol Kennedy made her nightly call to her mother. Ruth Kennedy lived across the country in Nashville, Tennessee. She was 83-years old at the time and Carol worried about her living on her own. She had called her mother almost every night since her father […]\nThe post An Inconvenient Woman: The Murder of Carol Kennedy appeared first on Tiegrabber.\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://api.spreaker.com/v2/episodes/19854509/download.mp3"
+                            },
+                            {
+                                "id": "44066340",
+                                "title": "First, Do No Harm: The Murders of Tim and Kelly Farrar",
+                                "description": "Killers don’t wear name tags telling us who they are. They look like everybody else. They are fathers, brothers, neighbors, carpenters, doctors, men, or women. On an upper class suburban street in Kansas City, at 7517 Canterbury Court, Dr. Debora Green and her husband, Dr. Michael Farrar, lived with their 3 children. It was a […]\nThe post First, Do No Harm: The Murders of Tim and Kelly Farrar appeared first on Tiegrabber.\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://api.spreaker.com/v2/episodes/19854645/download.mp3"
+                            },
+                            {
+                                "id": "44066375",
+                                "title": "Bed of Lies: The Murder of Lori Hacking",
+                                "description": "The lies told by Mark Hacking to make him feel better about himself and appear successful proved lethal to his wife Lori after they were revealed.  Lori Hacking was 5 weeks pregnant and planning a move across the country when she learned that she had been deceived by the person she loved the most.  Instead […]\nThe post Bed of Lies: The Murder of Lori Hacking appeared first on Tiegrabber.\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://api.spreaker.com/v2/episodes/19854681/download.mp3"
+                            },
+                            {
+                                "id": "44066413",
+                                "title": "Marked Absent: The Abduction of Kyron Horman",
+                                "description": "At the age of 7, Kyron Horman went missing from his elementary school. He was reported absent from his first class, but it wasn’t until after school that anyone realized he was gone. This is a strange and complicated case that turned family members against each other and revealed dark secrets. Kyron has not been […]\nThe post Marked Absent: The Abduction of Kyron Horman appeared first on Tiegrabber.\n",
+                                "imageUrl": "",
+                                "audioUrl": "https://api.spreaker.com/v2/episodes/19854646/download.mp3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "1023788",
+                    "title": "Strange State: A True Crime Podcast",
+                    "description": "A podcast about the real cases that have happened across the U.S. from the slightly odd to the just plain STRANGE.\nThank you to Purple Planet Music for my theme!",
+                    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2734288/2734288-1577944312188-5846078b987a3.jpg",
+                    "author": {
+                        "name": "Liz Higgins"
+                    },
+                    "categories": [
+                        {
+                            "title": "True Crime"
+                        },
+                        {
+                            "title": "Crime"
+                        },
+                        {
+                            "title": "Storytelling"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "54551421",
+                                "title": "After all this time",
+                                "description": "This is an episode about the disappearance of Zebb Wayne Quinn, and the murder of Cristie, TJ, and Skylar Codd and the man that ties them all together. \n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2734288/2734288-1577944312188-5846078b987a3.jpg",
+                                "audioUrl": "https://anchor.fm/s/10e4c7c0/podcast/play/9488991/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-5%2F41992453-44100-2-17da94186e356.mp3"
+                            },
+                            {
+                                "id": "54551416",
+                                "title": "Deadly Doctrine",
+                                "description": "This episode is about Peter Moses Jr. and the murder of two innocents who got caught up in his religious fanaticism.\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2734288/2734288-1577944312188-5846078b987a3.jpg",
+                                "audioUrl": "https://anchor.fm/s/10e4c7c0/podcast/play/9950732/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-05-16%2F4d81c9c4d574c446802411149308f0d7.m4a"
+                            },
+                            {
+                                "id": "71002286",
+                                "title": "Cryptids and witches and death....oh my!",
+                                "description": "This week is the long awaited return of the Strange State Podcast and it includes one of my best friends and a lot of laughing. Also NO ADS!!\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2734288/2734288-1577944312188-5846078b987a3.jpg",
+                                "audioUrl": "https://anchor.fm/s/10e4c7c0/podcast/play/17132117/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-26%2F9cae8c65-bfe6-bebb-7454-c17c7aeab24e.mp3"
+                            },
+                            {
+                                "id": "55088976",
+                                "title": "Notorious G.R.K.",
+                                "description": "This episode is about the infamous Greenriver Killer aka Gary Ridgway.\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2734288/2734288-1577944312188-5846078b987a3.jpg",
+                                "audioUrl": "https://anchor.fm/s/10e4c7c0/podcast/play/11055794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-05-16%2Fa8d740aab74288d4a49e07170c5d7c79.m4a"
+                            },
+                            {
+                                "id": "54551415",
+                                "title": "Don't Strangle Your Friends.",
+                                "description": "This episode is about the Taco Bell Strangler and has reign of terror over 1990's Charlotte NC\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2734288/2734288-1577944312188-5846078b987a3.jpg",
+                                "audioUrl": "https://anchor.fm/s/10e4c7c0/podcast/play/10161844/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-05-16%2F3346773afdf189a9b74c6f96f459316a.m4a"
+                            },
+                            {
+                                "id": "61357691",
+                                "title": "Devilish Woman",
+                                "description": "The senseless murder of Colleen Slemmer.\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2734288/2734288-1577944312188-5846078b987a3.jpg",
+                                "audioUrl": "https://anchor.fm/s/10e4c7c0/podcast/play/14161176/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-05-24%2Fbffc2863f7cf40b9c773b02f72295437.m4a"
+                            },
+                            {
+                                "id": "54551408",
+                                "title": "Pazuzu the Great and Powerful...or is it the Spineless and Cowardly?",
+                                "description": "The senseless murder of Josh Wetzler and Tommy Welch and the small cult following of Pazuzu Algarad.\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2734288/2734288-1577944312188-5846078b987a3.jpg",
+                                "audioUrl": "https://anchor.fm/s/10e4c7c0/podcast/play/10620390/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-05-16%2Fc48d72c30c2df72b16a72aa982b6cced.m4a"
+                            },
+                            {
+                                "id": "55716027",
+                                "title": "Starving to......health?",
+                                "description": "This weeks case is about Dr. Linda Hazzard who might have had the term quack invented just for her. Find out what happened for her 40 patients. \n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2734288/2734288-1577944312188-5846078b987a3.jpg",
+                                "audioUrl": "https://anchor.fm/s/10e4c7c0/podcast/play/11315782/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-05-16%2Fd1e4a5d18ff8e71b6b03f2486cf3f31c.m4a"
+                            },
+                            {
+                                "id": "57004335",
+                                "title": "Mother always knows best Pt2",
+                                "description": "More of Shelly Knotechs' crimes and thankfully her downfall.\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2734288/2734288-1577944312188-5846078b987a3.jpg",
+                                "audioUrl": "https://anchor.fm/s/10e4c7c0/podcast/play/12002824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-05-16%2F4ef34663061e7c0a4cf9ecad3237d48d.m4a"
+                            },
+                            {
+                                "id": "58249020",
+                                "title": "Spooky Washington",
+                                "description": "Stories about Pike Place Market, E.R Butterworth and the Northern State Asylum some of the most haunted locations in Washington State.\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2734288/2734288-1577944312188-5846078b987a3.jpg",
+                                "audioUrl": "https://anchor.fm/s/10e4c7c0/podcast/play/12569693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-04-18%2Fc92175002ddd767eebbf09f310ac7b04.m4a"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "1966577",
+                    "title": "Scottish Murders",
+                    "description": "Scottish Murders is a fortnightly podcast dedicated to solved and unsolved murders carried out in Scotland or murders of Scottish people, and is hosted by two Scottish sisters, Dawn and Cole.",
+                    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16469496/16469496-1625420816841-55ce02463d24c.jpg",
+                    "author": {
+                        "name": "Scottish Murders"
+                    },
+                    "categories": [
+                        {
+                            "title": "Crime"
+                        },
+                        {
+                            "title": "True Crime"
+                        },
+                        {
+                            "title": "British"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "105001840",
+                                "title": "The Buccleuch Street Murders",
+                                "description": "TRIGGER WARNING - This episode contains references to sexual abuse and violence, which some listeners may find distressing. Listener discretion is advised.\nThe murders of Betty Alexander and Emily Mutch may have been separated by 44 years, but they are still linked to this day as they both occurred on the same unassuming street in Glasgow, and both investigations led to firsts in Scotland.\nPromo by The Great Pop Culture Debate Podcast\nSOURCES:\nPlease see our website for all source material and photos at https://scottishmurders.com/episodes/buccleuchstreet/\nSHOW:\nWebsite - scottishmurders.com\nTwitter - @scottishmurders\nInstagram - @scottishmurderspodcast\nFacebook - facebook.com/scottishmurdurs\nPatreon - patreon.com/scottishmurders\nLinktree - linktr.ee/scottishmurders\nCREDITS:\nScottish Murders is a production of Cluarantonn\nHosted by Dawn and Cole\nResearched and Written by Dawn Young\nProduced and Edited by Dawn Young and Peter Bull\nProduction Company Name by Granny Robertson\nMUSIC:\nDawn of the Fairies by Derek & Brandon Fiechter\nGothic Wedding by Derek & Brandon Fiechter\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16469496/16469496-1625420813914-8b9f503cf952c.jpg",
+                                "audioUrl": "https://anchor.fm/s/62c30b60/podcast/play/43330973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-14%2Fcc07dce2-0b42-7463-5804-635fa3f04650.mp3"
+                            },
+                            {
+                                "id": "94785125",
+                                "title": "The Karen Buckley Murder",
+                                "description": "24 year old Irish nurse Karen Buckley had moved to Glasgow in February 2015 to study occupational therapy. She had been on a night out in Glasgow with her friends, but was later seen on CCTV walking along a street with a man. Karen’s body was found four days later.\n\nSOURCES:\nPlease see our website for all source material and photos at scottishmurders.com/episodes/karenbuckley\n\nCREDITS:\nScottish Murders is a production of Cluarantonn\nHosted by Dawn and Cole\nResearch and written by Dawn Young\nProduced and Edited by Dawn Young and Peter Bull \nProduction Company Name by Granny Robertson\n\nMUSIC:\nDawn of the Fairies by Derek & Brandon Fiechter\nGothic Wedding by Derek & Brandon Fiechter\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16469496/16469496-1625420816841-55ce02463d24c.jpg",
+                                "audioUrl": "https://anchor.fm/s/62c30b60/podcast/play/36856461/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-10%2F9b9396b0-a587-b848-1311-8586c75a313e.mp3"
+                            },
+                            {
+                                "id": "124909181",
+                                "title": "Cutthroat",
+                                "description": "TRIGGER WARNING - This story may be upsetting and does contain crimes targeting children and child abuse, so listener discretion is advised.\nOne wee girl’s trip to the corner shop and another wee boy’s passion for pigeons, would result in heartache for two Aberdonian families.\nPromos by Irish Spirt and She Will Rock You\nSOURCES:\nPlease see our website for all source material and photos at https://scottishmurders.com/episodes/cutthroat\nSHOW:\nWebsite - scottishmurders.com\nTwitter - @scottishmurders\nInstagram - @scottishmurderspodcast\nFacebook - facebook.com/scottishmurdurs\nLinktree - linktr.ee/scottishmurders\nCREDITS:\nScottish Murders is a production of Cluarantonn\nHosted by Dawn\nResearched and Written by Dawn\nProduced and Edited by Dawn Young and Peter Bull\nProduction Company Name by Granny Robertson\nMUSIC:\nDawn of the Fairies by Derek & Brandon Fiechter\nGothic Wedding by Derek & Brandon Fiechter\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16469496/16469496-1625420813914-8b9f503cf952c.jpg",
+                                "audioUrl": "https://anchor.fm/s/62c30b60/podcast/play/45865246/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-8%2Febdca472-bb4f-fefb-53e8-8a97326c51b6.mp3"
+                            },
+                            {
+                                "id": "96481044",
+                                "title": "Assumptions Made",
+                                "description": "Most of us make assumptions about things in life sometimes but when it comes to police making assumptions, it’s a whole different ball game, and in Nick and Sandy’s case, things could have turned out a lot different.\nSOURCES:\nPlease see our website for all source material and photos at https://scottishmurders.com/episodes/assumptionsmade/\nCREDITS:\nScottish Murders is a production of Cluarantonn\nHosted by Dawn and Cole\nResearched and Written by Dawn Young\nProduced and Edited by Dawn Young and Peter Bull\nProduction Company Name by Granny Robertson\nMUSIC:\nDawn of the Fairies by Derek & Brandon Fiechter\nGothic Wedding by Derek & Brandon Fiechter\n\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16469496/16469496-1625420816841-55ce02463d24c.jpg",
+                                "audioUrl": "https://anchor.fm/s/62c30b60/podcast/play/38507383/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-9%2F0f6a0c44-f380-ca7d-da58-006e62fde1c0.mp3"
+                            },
+                            {
+                                "id": "100101826",
+                                "title": "The Scottish Witch Trials",
+                                "description": "Witches may seem to be just part of Hallowe’en but there’s more to witches than you might expect from somewhere like bonnie Scotland.\n\nPromo by Generally Spooky Podcast\n\nSOURCES:\nPlease see our website for all source material and photos at https://scottishmurders.com/episodes/scottishwitchtrials/\n\nSHOW:\nWebsite - scottishmurders.com\nTwitter - @scottishmurders\nInstagram - @scottishmurderspodcast\nFacebook - facebook.com/scottishmurdurs\nPatreon - patreon.com/scottishmurders\n\nCREDITS:\nScottish Murders is a production of Cluarantonn\nHosted by Dawn Young\nGuest: Kathryn Herron\nResearched and Written by Peter Bull and Dawn Young\nProduced and Edited by Dawn Young and Peter Bull\nProduction Company Name by Granny Robertson\n\nMUSIC:\nDawn of the Fairies by Derek & Brandon Fiechter\nFairy Music by Derek & Brandon Fiechter\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16469496/16469496-1625420813914-8b9f503cf952c.jpg",
+                                "audioUrl": "https://anchor.fm/s/62c30b60/podcast/play/41923058/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-18%2F2c61859a-1e16-575e-dd54-6fdddb1fe7bc.mp3"
+                            },
+                            {
+                                "id": "119232715",
+                                "title": "Clipper Maid of the Seas",
+                                "description": "A seemingly routine flight from London on the way to New York would forever change many lives as it passed over a small town in Scotland.\nPromo by Into The Night Pod\n\nSOURCES:\nPlease see our website for all source material and photos at https://scottishmurders.com/episodes/clipper-maid-of-the-seas/\n\nSHOW:\nWebsite - scottishmurders.com\nTwitter - @scottishmurders\nInstagram - @scottishmurderspodcast\nFacebook - facebook.com/scottishmurdurs\nLinktree - linktr.ee/scottishmurders\n\nCREDITS:\nScottish Murders is a production of Cluarantonn\nHosted by Dawn and Cole\nResearched and Written by Peter Bull\nProduced and Edited by Dawn Young and Peter Bull\nProduction Company Name by Granny Robertson\n\nMUSIC:\nDawn of the Fairies by Derek & Brandon Fiechter\nGothic Wedding by Derek & Brandon Fiechter\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16469496/16469496-1625420813914-8b9f503cf952c.jpg",
+                                "audioUrl": "https://anchor.fm/s/62c30b60/podcast/play/45216468/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-21%2F978e6f22-4260-7a96-be2c-2fd786e5ccc7.mp3"
+                            },
+                            {
+                                "id": "94621926",
+                                "title": "Welcome to Scottish Murders",
+                                "description": "Scottish Murders is a fortnightly podcast dedicated to solved and unsolved murders carried out in Scotland or murders of Scottish people, and is hosted by two Scottish sisters, Dawn and Cole.\nCredits:\nScottish Murders is a production of Cluarantonn\nHosted by Dawn and Cole\nMusic:\nDawn of the Fairies by Derek & Brandon Fiechter\nGothic Wedding by Derek & Brandon Fiechter\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16469496/16469496-1625420816841-55ce02463d24c.jpg",
+                                "audioUrl": "https://anchor.fm/s/62c30b60/podcast/play/36676652/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-4%2F28362f0c-855c-acf5-08a5-ff6b0fb75a77.mp3"
+                            },
+                            {
+                                "id": "97860503",
+                                "title": "A Murder, a Shooting Spree and a Royal Pardon",
+                                "description": "TRIGGER WARNING – This episode contains strong language.\nMurder, a shooting spree and a royal pardon. Nobody could have predicted the shocking events that took place in Glasgow, that all started with a murder in a town almost 40 miles away.\n\nPromo by Crime Divers Podcast\n\nSOURCES:\nPlease see our website for all source material and photos at https://scottishmurders.com/episodes/shootingspree/\n\nSHOW:\nWebsite - scottishmurders.com\nTwitter - @scottishmurders\nInstagram - @scottishmurderspodcast\nFacebook - facebook.com/scottishmurdurs\nPatreon - patreon.com/scottishmurders\n\nCREDITS:\nScottish Murders is a production of Cluarantonn\nHosted by Dawn and Cole\nResearched and Written by Dawn Young\nProduced and Edited by Dawn Young and Peter Bull\nProduction Company Name by Granny Robertson\n\nMUSIC:\nDawn of the Fairies by Derek & Brandon Fiechter\nGothic Wedding by Derek & Brandon Fiechter\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16469496/16469496-1625420813914-8b9f503cf952c.jpg",
+                                "audioUrl": "https://anchor.fm/s/62c30b60/podcast/play/39551135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-5%2F83552764-c229-e5d6-972b-0c3e74bbfeda.mp3"
+                            },
+                            {
+                                "id": "98581627",
+                                "title": "The Arlene Fraser Disappearance",
+                                "description": "A violent husband, a hit man or a pig farm owner; who kidnapped and murdered Arlene Fraser?\n\nPromo by The Wine, Dine & Storytime Podcast\n\nSOURCES:\nPlease see our website for all source material and photos at https://scottishmurders.com/episodes/arlenefraser/\n\nSHOW:\nWebsite - scottishmurders.com\nTwitter - @scottishmurders\nInstagram - @scottishmurderspodcast\nFacebook - facebook.com/scottishmurdurs\nPatreon - patreon.com/scottishmurders\n\nCREDITS:\nScottish Murders is a production of Cluarantonn\nHosted by Dawn and Cole\nResearched and Written by Dawn Young\nProduced and Edited by Dawn Young and Peter Bull\nProduction Company Name by Granny Robertson\n\nMUSIC:\nDawn of the Fairies by Derek & Brandon Fiechter\nGothic Wedding by Derek & Brandon Fiechter\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16469496/16469496-1625420813914-8b9f503cf952c.jpg",
+                                "audioUrl": "https://anchor.fm/s/62c30b60/podcast/play/40510127/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-19%2F1adaa8f7-f317-56dd-b4e9-c09726f1d6f0.mp3"
+                            },
+                            {
+                                "id": "106032097",
+                                "title": "A Knock on the Door",
+                                "description": "TRIGGER WARNING - This episode contains gruesome and graphic details, so listener discretion is advised.\n24 year old Scott Burgess and 19 year old Laura Milne had never met each other and lived in completely different parts of Scotland, but the fates of both would be decided by a knock on a door.\nPromo by Drunk Theory\nSOURCES:\nPlease see our website for all source material and photos at https://scottishmurders.com/episodes/aknockonthedoor/\nSHOW:\nWebsite - scottishmurders.com\nTwitter - @scottishmurders\nInstagram - @scottishmurderspodcast\nFacebook - facebook.com/scottishmurdurs\nLinktree - linktr.ee/scottishmurders\nCREDITS:\nScottish Murders is a production of Cluarantonn\nHosted by Dawn Young\nResearched and Written by Dawn Young\nProduced and Edited by Dawn Young and Peter Bull\nProduction Company Name by Granny Robertson\nMUSIC:\nDawn of the Fairies by Derek & Brandon Fiechter\nGothic Wedding by Derek & Brandon Fiechter\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16469496/16469496-1625420813914-8b9f503cf952c.jpg",
+                                "audioUrl": "https://anchor.fm/s/62c30b60/podcast/play/44034798/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-28%2F0e98a83f-3e0c-72e1-f3e1-6d6806e306d7.mp3"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_color">
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/feed_progress_bar"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:translationZ="1dp" 
+        />
+
+    <ImageButton
+        android:id="@+id/min_podcast_page"
+        android:layout_width="@dimen/icon_size"
+        android:layout_height="@dimen/icon_size"
+        android:src="@drawable/down_arrow"
+        android:scaleType="fitCenter"
+        android:background="@android:color/transparent"
+        android:layout_gravity="left"
+        />
+
+    <RelativeLayout
+        android:id="@+id/podcast_title_bar"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/title_bar_margins"
+        android:layout_below="@id/min_podcast_page">
+
+        <TextView
+            android:id="@+id/podcast_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="[Podcast Name]"
+            android:textColor="@color/secondaryTextColor"
+            android:textSize="@dimen/page_title_fontsize"
+            android:layout_below="@id/min_podcast_page"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@id/sub_or_unsub_btn"
+            android:singleLine="true" 
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SUBSCRIBE"
+            android:id="@+id/sub_or_unsub_btn"
+            android:layout_alignParentRight="true"
+            android:singleLine="true"
+            />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/podcast_image"
+        android:layout_width="@dimen/coverart_size"
+        android:layout_height="@dimen/coverart_size"
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_below="@id/podcast_title_bar"
+        android:layout_margin="@dimen/big_spacer_width"
+        />
+    
+
+    <TextView
+        android:id="@+id/podcast_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/big_spacer_width"
+        android:layout_marginLeft="@dimen/spacer_width"
+        android:layout_toRightOf="@id/podcast_image"
+        android:layout_alignTop="@id/podcast_image"
+        android:text="@string/more_filler"
+        android:textColor="@color/secondaryTextColor"
+        android:textSize="@dimen/post_fontsize"
+        android:maxLines="6"
+        android:ellipsize="end"
+        />
+
+    <TextView
+        android:id="@+id/creator_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CREATOR"
+        android:textSize="@dimen/menuitem_fontsize"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@color/verboseColor"
+        android:layout_below="@id/podcast_image"
+        android:layout_marginLeft="@dimen/menuitem_margins"
+        />
+
+    <TextView
+        android:id="@+id/podcast_creator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:text="[creator name]"
+        android:textColor="@color/secondaryTextColor"
+        android:textSize="@dimen/post_fontsize"
+        android:layout_marginLeft="@dimen/spacer_width"
+        android:layout_toRightOf="@id/creator_label"
+        android:layout_alignTop="@id/creator_label"
+        android:layout_alignBottom="@id/creator_label"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/episode_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EPISODES"
+        android:textSize="@dimen/menuitem_fontsize"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@color/verboseColor"
+        android:layout_below="@id/creator_label"
+        android:layout_marginLeft="@dimen/menuitem_margins"
+        android:layout_marginTop="@dimen/spacer_width"
+        />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/episode_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/episode_label"/>
+</RelativeLayout>

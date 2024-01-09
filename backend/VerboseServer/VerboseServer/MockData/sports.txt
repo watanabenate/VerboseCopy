@@ -1,0 +1,423 @@
+﻿{
+    "data": {
+        "podcasts": {
+            "data": [
+                {
+                    "id": "1984173",
+                    "title": "The Allen Lively Football Show",
+                    "description": "NFL and College Football Talk",
+                    "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/11882635/The-Allen-Lively-Football-Show.jpg",
+                    "author": {
+                        "name": "Allen Lively"
+                    },
+                    "categories": [
+                        {
+                            "title": "NFL"
+                        },
+                        {
+                            "title": "College football"
+                        },
+                        {
+                            "title": "Sports"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "103574479",
+                                "title": "NFL Weekly Review - Week 8",
+                                "description": "Guest Jameson Hutchison joins the show to recap every game from week 8 of the 2021 NFL season. \n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/11882635/The-Allen-Lively-Football-Show.jpg",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/7h3yfh/The_Allen_Lively_Football_Show_S1_E34.mp3"
+                            },
+                            {
+                                "id": "99562334",
+                                "title": "2021 Season Preview - AFC South - NFL Offseason",
+                                "description": "Third episode of 8 part series breaking down each NFL division for the upcoming 2021 season. AFC South: Colts, Jaguars, Texans, Titans.\n\nMonday, July 5, 2021\n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/11882635/The-Allen-Lively-Football-Show.jpg",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/479e4r/The_Allen_Lively_Football_Show_2021-07-05.mp3"
+                            },
+                            {
+                                "id": "99562333",
+                                "title": "2021 NFL Draft Recap - NFL Offseason",
+                                "description": "First round recap of the 2021 NFL Draft.\n\nMonday, May 17, 2021\n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/11882635/The-Allen-Lively-Football-Show.jpg",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/9mtw7a/The_Allen_Lively_Football_Show_2021-05-17.mp3"
+                            },
+                            {
+                                "id": "103722457",
+                                "title": "NFL Pick’em Against The Spread - Week 9",
+                                "description": "Guests Denny Kensell and Josh Salas (Big Sal) join the show and we make our week 9 NFL picks against the spread. \n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/11882635/The-Allen-Lively-Football-Show.jpg",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/kpkmg8/The_Allen_Lively_Football_Show_S1_E35.mp3"
+                            },
+                            {
+                                "id": "99562321",
+                                "title": "NFL Pick’em Against The Spread - Week 5",
+                                "description": "Guests Denny Kensell and Josh Salas (Big Sal) join the show and we make our week 5 NFL picks against the spread. \n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/11882635/The-Allen-Lively-Football-Show.jpg",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/wzgqyq/The_Allen_Lively_Football_Show_S1_E26.mp3"
+                            },
+                            {
+                                "id": "105696616",
+                                "title": "NFL Pick’em Against The Spread - Week 12",
+                                "description": "Guests Denny Kensell and Josh Salas (Big Sal) join the show and we make our week 12 NFL picks against the spread. \n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/11882635/The-Allen-Lively-Football-Show.jpg",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/sdfhwv/The_Allen_Lively_Football_Show_S1_E41.mp3"
+                            },
+                            {
+                                "id": "104432486",
+                                "title": "NFL Pick’em Against The Spread - Week 10",
+                                "description": "Guests Denny Kensell and Josh Salas (Big Sal) join the show and we make our week 10 NFL picks against the spread. \n\nJonathan Taylor is +12500 to win MVP and +1400 to win OPOY. I build the case for Taylor being in the mix for both awards. We also discuss other future bets at the halfway mark of the 2021 season. \n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/11882635/The-Allen-Lively-Football-Show.jpg",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/bqbiiv/The_Allen_Lively_Football_Show_S1_E37.mp3"
+                            },
+                            {
+                                "id": "99562340",
+                                "title": "Indianapolis Colts 2021 NFL Draft Recap - NFL Offseason",
+                                "description": "Recap the Indianapolis Colts 2021 NFL Draft.\n\nFriday, May 14, 2021\n\n \n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/11882635/The-Allen-Lively-Football-Show.jpg",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/jwpmpu/The_Allen_Lively_Football_Show_2021-05-04a2ob9.mp3"
+                            },
+                            {
+                                "id": "99562326",
+                                "title": "Top Headlines Thursday, August 12, 2021 - NFL Preseason",
+                                "description": "Guest Denny Kensell joins the show to discuss today’s top NFL headlines. \n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/11882635/The-Allen-Lively-Football-Show.jpg",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/wyqj7h/The_Allen_Lively_Football_Show_S1_E13.mp3"
+                            },
+                            {
+                                "id": "99562337",
+                                "title": "2021 Season Preview - AFC North - NFL Offseason",
+                                "description": "Second episode of 8 part series breaking down each NFL division for the upcoming 2021 season. AFC North: Bengals, Browns, Ravens, Steelers.\n\nTuesday, June 29, 2021\n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/11882635/The-Allen-Lively-Football-Show.jpg",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/ha4mkc/The_Allen_Lively_Football_Show_2021-06-29.mp3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "780649",
+                    "title": "Podsaurus",
+                    "description": "On this insanely funny podcast we talk about sports, movies, music, TV and whatever stupid things we find entertaining at that moment.",
+                    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1318000/1318000-1546789615206-9115199961f73.jpg",
+                    "author": {
+                        "name": "Purity and Ivan Slavulj"
+                    },
+                    "categories": [
+                        {
+                            "title": "Comedy"
+                        },
+                        {
+                            "title": "Humor"
+                        },
+                        {
+                            "title": "Sports"
+                        },
+                        {
+                            "title": "Basketball"
+                        },
+                        {
+                            "title": "NBA"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "35587204",
+                                "title": "Podsaurus - Episode 2",
+                                "description": "On this episode of Podsaurus podcast we are doing NBA quiz and revealing secret affair of Kenyan president.\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1318000/1318000-1546789615206-9115199961f73.jpg",
+                                "audioUrl": "https://anchor.fm/s/873b240/podcast/play/2081061/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-10%2F8190997-44100-2-c2543502cd617.mp3"
+                            },
+                            {
+                                "id": "36309299",
+                                "title": "Podsaurus - Episode 3",
+                                "description": "On this episode of Podsaurus podcast we are doing NBA All-Star game mock draft.\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1318000/1318000-1546789615206-9115199961f73.jpg",
+                                "audioUrl": "https://anchor.fm/s/873b240/podcast/play/2251043/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-1%2F9333208-44100-2-eaac4c3f98cc4.mp3"
+                            },
+                            {
+                                "id": "35587207",
+                                "title": "Podsaurus - Episode 1",
+                                "description": "Don't miss the first episode of Podsaurus podcast! It's funny, it's hilarious, it's insane, it's the best thing you've ever listen to. We talk about Africa and you don't want to miss that.\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1318000/1318000-1546789615206-9115199961f73.jpg",
+                                "audioUrl": "https://anchor.fm/s/873b240/podcast/play/2052856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-7%2F7999437-44100-2-5d36dd7752394.mp3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "812986",
+                    "title": "Pod Street Bullies",
+                    "description": "Your go-to podcast for Flyers talk, unmatched analysis, and some humor sprinkled in. Hosted by Derrik Bobb, John Gove, Matt Casey, & Matt Hoagland.",
+                    "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f3319d74daa6d59c82ef5644ab163718.jpg",
+                    "author": {
+                        "name": "Pod Street Bullies"
+                    },
+                    "categories": [
+                        {
+                            "title": "Sports"
+                        },
+                        {
+                            "title": "Hockey"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "38937673",
+                                "title": "Pod Street Bullies: Stayin' or Leavin'",
+                                "description": "The guys recap the recent playoff games, recent news in Flyers hockey, and examine the current roster and break down who should stay and who should go.--- Support this podcast: https://anchor.fm/pod-street-bullies/support",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ef9a5b099a2deedd2f63131c510719ab.jpg",
+                                "audioUrl": "https://pdcn.co/e/api.spreaker.com/download/episode/47512510/71874278_44100_2_c96214baef0256b8.mp3"
+                            },
+                            {
+                                "id": "43949775",
+                                "title": "RFA's: We're Still Waiting",
+                                "description": "The guys delve into the Ivan Provorov and Travis Konecny situations, and discuss what reasonable deals could look like for the two.",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d505fff1d7614d6e811887bedadfbcc8.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/18924460/rfas_were_still_wating.mp3"
+                            },
+                            {
+                                "id": "51072927",
+                                "title": "The Duo Does the Disastrous Road Trip",
+                                "description": "The guys talk about the recent road-trip woes, and get you primed and ready for the second half of the season. Big announcement included!--- Support this podcast: https://anchor.fm/pod-street-bullies/support",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ef9a5b099a2deedd2f63131c510719ab.jpg",
+                                "audioUrl": "https://pdcn.co/e/api.spreaker.com/download/episode/47512436/71874236_44100_2_c3b5ebff7d849e52.mp3"
+                            },
+                            {
+                                "id": "60151677",
+                                "title": "The Duo Does Development",
+                                "description": "The guys touch on some news on the AHL front, and debate the best developmental route to the NHL.",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d505fff1d7614d6e811887bedadfbcc8.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/27117985/the_duo_does_development.mp3"
+                            },
+                            {
+                                "id": "71964060",
+                                "title": "It's Lonely at the Top",
+                                "description": "The guys recap Flyers action in the round robin, discuss Gostisbehere's chances at cracking the playoff lineup, and preview the PHI/MTL series.--- Support this podcast: https://anchor.fm/pod-street-bullies/support",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f3319d74daa6d59c82ef5644ab163718.jpg",
+                                "audioUrl": "https://pdcn.co/e/api.spreaker.com/download/episode/47512445/b736a09d_9c3e_84be_1879_6c6f04bad9ac.mp3"
+                            },
+                            {
+                                "id": "86954009",
+                                "title": "PSB Roundtable",
+                                "description": "The state of the team isn't looking good, so the guys here gathered the brain trust. John and Derrik bring on Matt Casey, Matt Hoagland, and Matt Mastrogiovanni of Five Minute Major to discuss what's going wrong, what can the Flyers do to fix it, and if it's even worth fixing at all. Yes, that's a lot of Matt's. --- Support this podcast: https://anchor.fm/pod-street-bullies/support",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f3319d74daa6d59c82ef5644ab163718.jpg",
+                                "audioUrl": "https://pdcn.co/e/api.spreaker.com/download/episode/47512386/6155abb3_b16b_74f6_74e6_2f51332fefe7.mp3"
+                            },
+                            {
+                                "id": "93747197",
+                                "title": "The Devil You Don't Know",
+                                "description": "Believe it or not, John decided to take some time from his hectic move to join Derrik and Matt Casey to discuss the Jack Eichel trade rumors and what the Flyers have to offer in return for the Buffalo center. Spoiler alert, Matt Casey drops an F-bomb. --- Support this podcast: https://anchor.fm/pod-street-bullies/support",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f3319d74daa6d59c82ef5644ab163718.jpg",
+                                "audioUrl": "https://pdcn.co/e/api.spreaker.com/download/episode/47512383/b6a13df1_db19_c3ef_18fe_a571149145aa.mp3"
+                            },
+                            {
+                                "id": "94000897",
+                                "title": "Emerald City Suckers",
+                                "description": "The guys take on the task of discussing Dave Hakstol's hiring in Seattle. They cap it all off by dishing on some pet peeves they have with different topics ranging from Carter Hart to the almighty Cam York/Cole Caufield debate. --- Support this podcast: https://anchor.fm/pod-street-bullies/support",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f3319d74daa6d59c82ef5644ab163718.jpg",
+                                "audioUrl": "https://pdcn.co/e/api.spreaker.com/download/episode/47512378/05ac9fe7_ec26_c790_0f0a_9229a3ec77e3.mp3"
+                            },
+                            {
+                                "id": "133361216",
+                                "title": "On the Brink of Mediocrity",
+                                "description": "The guys get together sans John and discuss Lou Nolan's 50th season, Bobby Brink winning a college championship and signing his Entry-Level Contract, and they pick between Scott Laughton & Oskar Lindblom regarding who should stay next season.",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f3319d74daa6d59c82ef5644ab163718.jpg",
+                                "audioUrl": "https://pdcn.co/e/api.spreaker.com/download/episode/49393037/on_the_brink_of_mediocrity.mp3"
+                            },
+                            {
+                                "id": "39552444",
+                                "title": "Pod Street Bullies: Gettin' Defensive",
+                                "description": "The guys revisit the Brayden Schenn trade, discuss the recent coaching additions, and pick apart the defense.",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d505fff1d7614d6e811887bedadfbcc8.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/17902295/pod_street_bullies_gettin_defensive.mp3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "1587407",
+                    "title": "Across The Pond NHL",
+                    "description": "Everything you need and want to know about the National Hockey League from Across the Pond. Your hosts Chris Blyth from the U.K. and Josh Brinkley in the USA dive in to the biggest stories from around the NHL.\n\nFind us on our website: https://www.atpsports.net/listen-now/\n\nThis podcast is part of Across the Pond Sports Network.",
+                    "imageUrl": "https://megaphone.imgix.net/podcasts/d09c930c-88c7-11ec-a8fa-73e6945ed49b/image/08614dea42c4189e6c4f014545b3df00.jpeg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format%2Ccompress",
+                    "author": {
+                        "name": "Across the Pond Sports Network"
+                    },
+                    "categories": [
+                        {
+                            "title": "Sports"
+                        },
+                        {
+                            "title": "Hockey"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "99159707",
+                                "title": "Montreal make it to the final",
+                                "description": "Chris & Josh continue their coverage of this year’s Stanley Cup Play offs. They discuss Montreal defying the odds by booking a place in finals and predictions are made on the Lightening/Islanders series.They also discuss Seattle Kraken appointing their first ever Head Coach.Please follow, rate and review. Also check us out at atpsports.net\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                                "imageUrl": "https://megaphone.imgix.net/podcasts/e298c5a8-88c7-11ec-a422-fbb833f97039/image/08614dea42c4189e6c4f014545b3df00.jpeg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format%2Ccompress",
+                                "audioUrl": "https://traffic.megaphone.fm/COMG7909535147.mp3?updated=1644315633"
+                            },
+                            {
+                                "id": "99159717",
+                                "title": "Back 2 back Champs",
+                                "description": "Josh is with cohost Kristy and it's all about the lightning winning the cup, death of Columbus goalkeeper, and dates and rules of upcoming expansion draft.Please follow, rate and review. Also check us out at atpsports.net\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                                "imageUrl": "https://megaphone.imgix.net/podcasts/df3d1062-88c7-11ec-a422-3bc39c948cb2/image/08614dea42c4189e6c4f014545b3df00.jpeg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format%2Ccompress",
+                                "audioUrl": "https://traffic.megaphone.fm/COMG2357824502.mp3?updated=1644315633"
+                            },
+                            {
+                                "id": "99159724",
+                                "title": "All the latest news from around the NHL",
+                                "description": "Josh and Chris breakdown the news from around the NHL and as we get closer to the playoffs how the standings are shaping up.They look in to this weeks games and what will be their games of the week to watch out for.Please subscribe, rate and review. Also check out atpsports.net\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                                "imageUrl": "https://megaphone.imgix.net/podcasts/e91be34c-88c7-11ec-a422-ef75fef36f2f/image/08614dea42c4189e6c4f014545b3df00.jpeg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format%2Ccompress",
+                                "audioUrl": "https://traffic.megaphone.fm/COMG1951367405.mp3?updated=1644315636"
+                            },
+                            {
+                                "id": "113038668",
+                                "title": "Another week of suspensions, firings, and Coyotes news.",
+                                "description": "Kristy steps in on hosting duties with Chris on vacation and Jenna Harner joins the show this week to talk NHL news of the week as well as biggest surprises of the season to date.Please share, rate and review. Also check us out at atpsports.nethttps://linktr.ee/atpsports\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                                "imageUrl": "https://megaphone.imgix.net/podcasts/d885282c-88c7-11ec-a422-fbdb524a339a/image/08614dea42c4189e6c4f014545b3df00.jpeg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format%2Ccompress",
+                                "audioUrl": "https://traffic.megaphone.fm/COMG1503801000.mp3?updated=1644315617"
+                            },
+                            {
+                                "id": "128194643",
+                                "title": "NHL All Star Weekend, Las Vegas",
+                                "description": "This week Chris and Josh preview the All Star Weekend along with checking in on their Season award predictions. Spoiler alert, some are way off. Please share, rate and review our podcast we love to read your views on how we are doing. Also check us out at atpsports.net\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                                "imageUrl": "https://megaphone.imgix.net/podcasts/d501fac2-88c7-11ec-a422-6b5c2bf70a20/image/08614dea42c4189e6c4f014545b3df00.jpeg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format%2Ccompress",
+                                "audioUrl": "https://traffic.megaphone.fm/COMG7714076369.mp3?updated=1644315599"
+                            },
+                            {
+                                "id": "129373691",
+                                "title": "Jackie Redmond",
+                                "description": "This week Chris and Josh are joined by Jackie Redmond, contributor for NHL on TNT and presenter of NHL Tonight on the NHL network.\nPlease follow Jackie on:\nInstagram https://instagram.com/jackieredmond?utm_medium=copy_link\nTwitter https://twitter.com/jackie_redmond?s=21\n\nPlease share, rate and review our podcast we love to read your views on how we are doing. Also check us out at atpsports.net\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                                "imageUrl": "",
+                                "audioUrl": "https://traffic.megaphone.fm/COMG6189301607.mp3?updated=1645360750"
+                            },
+                            {
+                                "id": "99159711",
+                                "title": "Seattle Kraken Special feat Andy Eide",
+                                "description": "In this Seattle Kraken Special Chris & Josh take the opportunity to find out what its like covering a team from their inception, through to this weeks expansion draft.Andy is a journalist who covers Hockey in and around Seattle and has been reporting on the NHL's newest team, The Kraken, since their inception. He writes for @NHLdotcom and @sound_hockey as well as being a co-host on their own podcast.twitter - @NHLdotcom @sound_hockey @AndyEideInstagram - @soundofhockeyhttps://soundofhockey.com/Please follow, rate and review. Also check us out at atpsports.net\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                                "imageUrl": "https://megaphone.imgix.net/podcasts/de3a0634-88c7-11ec-a422-a3ccbb102fa0/image/08614dea42c4189e6c4f014545b3df00.jpeg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format%2Ccompress",
+                                "audioUrl": "https://traffic.megaphone.fm/COMG2520138663.mp3?updated=1644315632"
+                            },
+                            {
+                                "id": "128821738",
+                                "title": "AJ Galante, former GM & President of the Danbury Trashers",
+                                "description": "In this interview special show, we’re joined by AJ Galante, former GM & President of the Danbury Trashers and star of the hit Netflix documentary, Untold: Crimes & Penalties.\nFollow AJ on Instagram @ Twitter @dbtrashers or purchase Trashers swag from dbtrashers.com\nPlease share, rate and review our podcast we love to read your views on how we are doing. Also check us out at atpsports.net\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                                "imageUrl": "",
+                                "audioUrl": "https://traffic.megaphone.fm/COMG8699091610.mp3?updated=1644792673"
+                            },
+                            {
+                                "id": "130489025",
+                                "title": "Davidson confirmed as Blackhawks GM, CHL bans Russians",
+                                "description": "This week Chris and Josh talk Blackhawks, face off stats and sanctions placed on Russia affecting the hockey world. It’s then onto a check on the standings with the focus being on wild card sports.\nPlease share, rate and review our podcast we love to read your views on how we are doing. Also check us out at atpsports.net\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                                "imageUrl": "",
+                                "audioUrl": "https://traffic.megaphone.fm/COMG9116886767.mp3?updated=1646528151"
+                            },
+                            {
+                                "id": "83480758",
+                                "title": "This week Josh is going it alone with the shows first guest as he is joined by Katie Brinkley",
+                                "description": "On this episode we cover the latest COVID news, a major trade, major player suspensions. We run down the division standings, and look ahead for games to watch this coming week.\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                                "imageUrl": "https://megaphone.imgix.net/podcasts/f73fe9d2-88c7-11ec-a422-a3cfaf4f7fb0/image/7b1522dd38a11315b669b2290e2797fc.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format%2Ccompress",
+                                "audioUrl": "https://traffic.megaphone.fm/COMG3161616152.mp3?updated=1644315637"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "1014663",
+                    "title": "Stadium Seats",
+                    "description": "Stadium Seats is a sports talk podcast . Debating and talking about all the current stories from all the major sports arenas.",
+                    "imageUrl": "https://ssl-static.libsyn.com/p/assets/7/b/6/2/7b626d40acfdfd0f/logo_SS3_8_2.jpg",
+                    "author": {
+                        "name": "Frizz & Gemz"
+                    },
+                    "categories": [
+                        {
+                            "title": "Sports"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "53570506",
+                                "title": "Stadium Seats w/ Frizz, Gemz & Tay ",
+                                "description": "Happy Thanksgiving!! Email segment shout out to our listeners. Stadium Seats play clock segment. Numerous topics. NFL picks, run down on NCAA basketball rankings. NCAA Football update. Gemz watch list, Tay's Take. ",
+                                "imageUrl": "https://ssl-static.libsyn.com/p/assets/7/b/6/2/7b626d40acfdfd0f/logo_SS3_8_2.jpg",
+                                "audioUrl": "https://pdcn.co/e/traffic.libsyn.com/secure/stadiumseats/recording-2_postproductions_2019-11-26-t08-07-10pm-final-mix.mp3?dest-id=1593641"
+                            },
+                            {
+                                "id": "127485525",
+                                "title": "Stadium Seats w/ Frizz and Gemz ",
+                                "description": "Tonight we dive into the Bills/ Chiefs game and talk about the AFC / NFC championship games coming up on Sunday. We also talk about Tom Brady, Aaron Rodgers, and Big Ben finally making it official today with his retirement. Where do the Steelers go now for their QB !!! Steelers qb room in shambles. Who can save them , listen to what we think.  Stadium Seats , the best in the world. ",
+                                "imageUrl": "https://ssl-static.libsyn.com/p/assets/7/b/6/2/7b626d40acfdfd0f/logo_SS3_8_2.jpg",
+                                "audioUrl": "https://pdcn.co/e/traffic.libsyn.com/secure/stadiumseats/recording-1_postproductions_2022-01-27-t07-30-14pm-final-mix.mp3?dest-id=1593641"
+                            },
+                            {
+                                "id": "90132984",
+                                "title": "Stadium Seats w/ Frizz and Gemz ",
+                                "description": "On tonight's show we break down the rest of the AFC divisions, what their needs are for the upcoming NFL draft on Thursday ! We visit the East, West, and the South. Julio Jones trade talk, what we think about the rumors. And big shoutout to the Pittsburgh Penguins playing some great hockey. Tune in Thursday night our NFL draft special. ",
+                                "imageUrl": "https://ssl-static.libsyn.com/p/assets/7/b/6/2/7b626d40acfdfd0f/logo_SS3_8_2.jpg",
+                                "audioUrl": "https://pdcn.co/e/traffic.libsyn.com/secure/stadiumseats/recording-1_postproductions_2021-04-27-t07-48-34pm-final-mix.mp3?dest-id=1593641"
+                            },
+                            {
+                                "id": "85659404",
+                                "title": "Stadium Seats w/ Frizz and Gemz ",
+                                "description": "Tonight we talk about JJ WATT signing with the Cards and if we think they are contenders or pretenders ! What would you do segment with Frizz and Gemz. Patriots, Steelers, Baltimore, The Pittsburgh Pirates, Penguins and much more. ",
+                                "imageUrl": "https://ssl-static.libsyn.com/p/assets/7/b/6/2/7b626d40acfdfd0f/logo_SS3_8_2.jpg",
+                                "audioUrl": "https://pdcn.co/e/traffic.libsyn.com/secure/stadiumseats/recording-1_postproductions_2021-03-02-t07-16-42pm-final-mix.mp3?dest-id=1593641"
+                            },
+                            {
+                                "id": "77793825",
+                                "title": "Stadium Seats w/ Frizz , Gemz & Tay ",
+                                "description": "Steelers vs Ravens preview show ! Stand up Steelers Nation !!! We go in depth and break down everything from the offense , defense to special teams, Keys to the big game from Frizz and Gemz!  NFL PICKS week 7, who we like and are upsets of the week.",
+                                "imageUrl": "https://ssl-static.libsyn.com/p/assets/7/b/6/2/7b626d40acfdfd0f/logo_SS3_8_2.jpg",
+                                "audioUrl": "https://pdcn.co/e/traffic.libsyn.com/secure/stadiumseats/recording-1_postproductions_2020-10-30-t09-58-02pm-final-mix.mp3?dest-id=1593641"
+                            },
+                            {
+                                "id": "95346697",
+                                "title": "Stadium Seats w/ Frizz and Gemz ",
+                                "description": "Season 3 , We are back ! Tonight we kick off the show talking the Pittsburgh Steelers in training camp and also mentioning the Hall of fame game with the Dallas Cowboys. We talk the NFL and the vaccination policies. What are take on the matter is. We also talk barbershop talk , Congrats to the Bucks, Frazier is a Padre, and the Olympics. Here we go ! ",
+                                "imageUrl": "https://ssl-static.libsyn.com/p/assets/7/b/6/2/7b626d40acfdfd0f/logo_SS3_8_2.jpg",
+                                "audioUrl": "https://pdcn.co/e/traffic.libsyn.com/secure/stadiumseats/recording-1_postproductions_2021-07-25-t07-31-55pm-final-mix_1.mp3?dest-id=1593641"
+                            },
+                            {
+                                "id": "65471684",
+                                "title": "Stadium Seats w/ Frizz , Gemz & Tay ",
+                                "description": "Who finishes in first , the STEELERS OR RAVENS !!!! We finish up the AFC NORTH preview show with Baltimore and Pittsburgh. Breaking down each positions for both teams. Our predictions, order of finish and who to watch out for.  Next up the NFC EAST !!!!!  MLB IS BACK BABY LETS GOOOOO!!!!!!",
+                                "imageUrl": "https://ssl-static.libsyn.com/p/assets/7/b/6/2/7b626d40acfdfd0f/logo_SS3_8_2.jpg",
+                                "audioUrl": "https://pdcn.co/e/traffic.libsyn.com/secure/stadiumseats/recording-1_postproductions_2020-06-24-t07-44-53pm-final-mix.mp3?dest-id=1593641"
+                            },
+                            {
+                                "id": "56642534",
+                                "title": "Stadium Seats w/ Frizz, Gemz, & Tay ",
+                                "description": "Stadium Seats email segment, Addressing the fans on email and Twitter , Steelers QB situation, Dallas Signed another kicker our thoughts, and Frizz and Gemz top 5 ever college football running backs. Twitter hit us up, @Seatsstadium   We love the fans. ",
+                                "imageUrl": "https://ssl-static.libsyn.com/p/assets/7/b/6/2/7b626d40acfdfd0f/logo_SS3_8_2.jpg",
+                                "audioUrl": "https://pdcn.co/e/traffic.libsyn.com/secure/stadiumseats/recording-1_postproductions_2020-03-30-t09-18-54pm-final-mix.mp3?dest-id=1593641"
+                            },
+                            {
+                                "id": "53570489",
+                                "title": "Stadium Seats ",
+                                "description": "Kobe Bryant tribute show. RIP and thoughts and prayers to all lost. #Kobeforever#mamba , different show for our listeners tonight. Hug someone you care about and tell em you love em , you never know. ",
+                                "imageUrl": "https://ssl-static.libsyn.com/p/assets/7/b/6/2/7b626d40acfdfd0f/logo_SS3_8_2.jpg",
+                                "audioUrl": "https://pdcn.co/e/traffic.libsyn.com/secure/stadiumseats/recording-1_postproductions_2020-01-27-t09-20-28pm-final-mix_2.mp3?dest-id=1593641"
+                            },
+                            {
+                                "id": "53570519",
+                                "title": "Stadium Seats w/ Frizz, Gemz & Tay ",
+                                "description": "Covering the fans emails. Pete Carrolls comments about Patriots culture. Rodgers calling out his teammates. Superbowl, who we got? Chargers moving to London? NCAA football playoff rankings, NHL recap, and our weekly NFL pick em. ",
+                                "imageUrl": "https://ssl-static.libsyn.com/p/assets/7/b/6/2/7b626d40acfdfd0f/logo_SS3_8_2.jpg",
+                                "audioUrl": "https://pdcn.co/e/traffic.libsyn.com/secure/stadiumseats/SS_nov_6.mp3?dest-id=1593641"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

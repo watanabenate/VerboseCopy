@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simplified audio player for STT demo -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_color">
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/player_progress_bar"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:translationZ="1dp" 
+        android:layout_below="@id/stt_playerControls"
+        />
+
+    <Space
+        android:id="@+id/space1"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/audiospacer_height"
+        />
+
+    <ImageButton
+        android:id="@+id/stt_min_player"
+        android:layout_width="@dimen/icon_size"
+        android:layout_height="@dimen/icon_size"
+        android:src="@drawable/down_arrow"
+        android:scaleType="fitCenter"
+        android:background="@android:color/transparent"
+        />
+
+    <!-- Episode title and creator name -->
+    <TextView
+        android:id="@+id/stt_scrolling_episode_title"
+        android:layout_width="@dimen/cover_art_display_size"
+        android:layout_height="@dimen/marquee_height"
+        android:text="[Episode Name that is so long it spills over and you have to scroll]"
+        android:textSize="@dimen/menuitem_fontsize"
+        android:textColor="@color/primaryTextColor"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:scrollHorizontally="true"
+        android:layout_below="@id/stt_min_player"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        />
+
+    <TextView
+        android:id="@+id/stt_creator_name"
+        android:layout_width="@dimen/cover_art_display_size"
+        android:layout_height="wrap_content"
+        android:text="[Creator]"
+        android:textColor="@color/secondaryTextColor"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:layout_alignLeft="@id/stt_scrolling_episode_title"
+        android:layout_below="@id/stt_scrolling_episode_title"
+        android:layout_marginBottom="@dimen/big_spacer_width"
+        android:gravity="center_horizontal"
+        />
+
+    <!-- Image -->
+    <ImageView
+        android:id="@+id/stt_episode_image"
+        android:layout_width="@dimen/cover_art_display_size"
+        android:layout_height="@dimen/cover_art_display_size"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/stt_creator_name"
+        android:contentDescription="Podcast cover art"
+        android:src="@android:drawable/ic_menu_gallery"
+        android:visibility="visible"
+        />
+
+    <TextView
+        android:id="@+id/stt_closed_captions"
+        android:layout_width="@dimen/cover_art_display_size"
+        android:layout_height="@dimen/cover_art_display_size"
+        android:text="These are caption frames from a sample file."
+        android:textStyle="bold"
+        android:textColor="@color/captionTextColor"
+        android:textSize="32dp"
+        android:background="@color/captionBg"
+        android:padding="@dimen/big_spacer_width"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/stt_creator_name"
+        android:gravity="center"
+        android:visibility="invisible"
+        />
+
+    <LinearLayout
+        android:id="@+id/stt_playerControls"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/stt_episode_image"
+        android:layout_marginTop="@dimen/spacer_width"
+        android:gravity="center"
+        android:showDividers="middle"
+        android:divider="@drawable/audioicon_divider">
+
+        <!-- Rewind -->
+        <ImageButton
+            android:id="@+id/stt_back_button"
+            android:layout_width="@dimen/icon_size"
+            android:layout_height="@dimen/icon_size"
+            android:src="@drawable/back_button"
+            android:scaleType="fitCenter"
+            android:background="@android:color/transparent"
+            android:contentDescription="10 second back button"
+            />
+
+        <!-- Play -->
+        <ImageButton
+            android:id="@+id/stt_play_pause_button"
+            android:layout_width="@dimen/play_size"
+            android:layout_height="@dimen/play_size"
+            android:src="@drawable/play_button"
+            android:scaleType="fitCenter"
+            android:background="@android:color/transparent"
+            android:contentDescription="Play button"
+            />
+
+        <!-- Forward -->
+        <ImageButton
+            android:id="@+id/stt_forward_button"
+            android:layout_width="@dimen/icon_size"
+            android:layout_height="@dimen/icon_size"
+            android:src="@drawable/forward_button"
+            android:scaleType="fitCenter"
+            android:background="@android:color/transparent"
+            android:contentDescription="10 second forward button"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="20dp"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/stt_playerControls"
+        android:gravity="center"
+        android:id="@+id/stt_seekbarTimestamps">
+
+        <TextView
+            android:text="--:--:--"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/secondaryTextColor"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:id="@+id/stt_currentTimePlayer"
+            />
+
+        <Space
+            android:id="@+id/stt_space4"
+            android:layout_width="250dp"
+            android:layout_height="10dp"
+            android:layout_below="@id/stt_playerControls"
+        />
+
+        <TextView
+            android:text="--:--:--"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/secondaryTextColor"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:id="@+id/stt_endTimePlayer"
+             />
+
+    </LinearLayout>
+
+    <SeekBar
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/stt_mediaPlayerSeekbar"
+        android:layout_below="@id/stt_seekbarTimestamps"
+        android:visibility="visible"
+        android:layout_margin="10dp" />
+</RelativeLayout>

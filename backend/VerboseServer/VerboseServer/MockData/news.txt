@@ -1,0 +1,392 @@
+﻿{
+    "data": {
+        "podcasts": {
+            "data": [
+                {
+                    "id": "2180277",
+                    "title": "'Free Talk' with A-Yan.",
+                    "description": "Hey. I'm Ian R. Hass, aka 'A-Yan', and I'm here to talk about politics from my own little point of view. Come listen in if you're interested, my views are pretty libertarian, but I'm a member of the Republican Party.",
+                    "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/487269a57ef0519db1eeb5a0a249bb6b.jpg",
+                    "author": {
+                        "name": "Ian R. Hass"
+                    },
+                    "categories": [
+                        {
+                            "title": "News"
+                        },
+                        {
+                            "title": "Politics"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "105698116",
+                                "title": "My Political Views/A Word About Autism.",
+                                "description": "This is my first political podcast EVER! I hope you guys enjoy it. In this episode, I establish my political views, and also talk about autism in the political world.",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/487269a57ef0519db1eeb5a0a249bb6b.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/47657944/free_talk_episode_1.mp3"
+                            },
+                            {
+                                "id": "108725856",
+                                "title": "A Few Bad Democrats.",
+                                "description": "In this episode, I just rant about a few horrible leftist Democrats. Those being:Joe BidenKamala HarrisAOCBernie Sanders",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/487269a57ef0519db1eeb5a0a249bb6b.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/47799213/20211206_121226_c9d50d6f5b573b4c78c4401823defeeb.mp3"
+                            },
+                            {
+                                "id": "113464142",
+                                "title": "Autism: The New Face of Pro-Life?",
+                                "description": "In this episode, we'll talk about abortion, and how many autistics seem to be taking the pro-life path in spite those aborting autistic children. I'll also talk about my thoughts on leaving the Republican Party for the Libertarian Party.",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9b0cb8c3cfd07c6ae82f943e03be96c3.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/47895559/20211212_101211_a6b69d9bd2e68785b76af0b587d1bf60.mp3"
+                            },
+                            {
+                                "id": "116687524",
+                                "title": "Life On The Side Of Liberty.",
+                                "description": "In this episode, I'll talk about my transition to the Libertarian Party, and why it's the way to go! Also, I have here the link to signing up for the party: https://www.lp.org/",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/2a7b11306cbcf2c423596a9e7b0baee8.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/48005036/20211221_011241_12150421562f1a182842d7ba00967a80.mp3"
+                            },
+                            {
+                                "id": "120336202",
+                                "title": "New Year Optimism.",
+                                "description": "In this episode, I talk about my optimism for the New Year!",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/487269a57ef0519db1eeb5a0a249bb6b.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/48125627/free_talk_new_years.mp3"
+                            },
+                            {
+                                "id": "113464141",
+                                "title": "A Few Bad Democrats.",
+                                "description": "In this episode, I just rant about a few horrible leftist Democrats. Those being: Joe BidenKamala HarrisAOCBernie Sanders",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9b0cb8c3cfd07c6ae82f943e03be96c3.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/47895560/20211206_121226_c9d50d6f5b573b4c78c4401823defeeb.mp3"
+                            },
+                            {
+                                "id": "118508217",
+                                "title": "The Christmas Rant.",
+                                "description": "Today, I will rant about how wokies are WRONG about Christmas being \"evil\" or \"oppressive\", and that Christmas is a VERY important day of the year for humanity.",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9b0cb8c3cfd07c6ae82f943e03be96c3.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/48058352/20211225_101233_f465c1159e225607efa942c0ffced1a7.mp3"
+                            },
+                            {
+                                "id": "106207148",
+                                "title": "A (Sub-Par) Apology.",
+                                "description": "In this episode, I clear up some things from the last episode, as well as provide news on: - Republican Rep. Boebert's Islamophobic comments to Democratic Rep. Ilhan Omar, and the heated 'apology' afterwards. - Greta Thunberg's reaction to the COP26 summit (but more about my thoughts on her). - Ukraine President Zelenskyy reveals a coup backed by the Russians will be staged on him this month.I also talk about voting for Tea Party people (who hate high taxes and high government spending, like me), and the upcoming Autism Rights Campaign on Dec. 3rd. Enjoy! Twitter Aut Rights Campaign: https://twitter.com/autismsupsoc/stat...",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9b0cb8c3cfd07c6ae82f943e03be96c3.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/47749383/20211202_051257_58770db1ba1dbe66e7681f08edb10a8a.mp3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "1565463",
+                    "title": "Cinema Gold",
+                    "description": "Diving deep into the latest blockbusters and answering questions you might have after watching those movies that leave you confused.  Support this podcast: HTTP://www.buymeacoffee.com/cinemagold",
+                    "imageUrl": "https://cdn2.sounder.fm/271983/conversions/87cc2fd6ed039ecdfcfe58b8655b06a6-square_big.jpg?v=1630186434",
+                    "author": {
+                        "name": "Larry Lease"
+                    },
+                    "categories": [
+                        {
+                            "title": "TV"
+                        },
+                        {
+                            "title": "Film"
+                        },
+                        {
+                            "title": "Film Reviews"
+                        },
+                        {
+                            "title": "News"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "91368357",
+                                "title": "Classic Rewind: Total Recall",
+                                "description": "This week on Classic Rewind, we are revisiting the popular sci-fi action film Total Recall.",
+                                "imageUrl": "",
+                                "audioUrl": "https://cdn2.sounder.fm/272061/audio--177472--15457--23507--b429d9d9-8d3d-4741-92fc-c14f970175f1.mp3?v=1630186493"
+                            },
+                            {
+                                "id": "94215399",
+                                "title": "Getting Burned: Reviewing Burn Notice Season 5",
+                                "description": "This week on Getting Burned, we discuss season 5 of USA Network's hit show Burn Notice. What were your thoughts on the season. Let us know through social media or the comments section.Twitter: www.twitter.com/cinemagoldshowInstagram: www.instagram.com/thecinemagoldshowFacebook: www.facebook.com/cinemagoldshow",
+                                "imageUrl": "https://cdn2.sounder.fm/272024/conversions/464b95a3e36334003ce76ad9bf5c5b0e-square_big.jpg?v=1630186468",
+                                "audioUrl": "https://cdn2.sounder.fm/272027/audio--177448--15457--23507--2eb98e87-8404-4170-a455-8321deb31ae1.mp3?v=1630186469"
+                            },
+                            {
+                                "id": "96213259",
+                                "title": "Let's Talk: Top 5 Action Stars of All Time",
+                                "description": "Today we are giving our top 5 action stars in film history.  This is not the definitive list, this is our list. Who makes your top 5? Let us know on social media.Today's episode is sponsored by Pod Deckswww.poddecks.com and use promo code Larry21 for 10% off your first purchase.Follow Us on Social MediaTwitter: http://www.twitter.com/cinemagoldshowIG: http://www.instagram.com/thecinemagoldshowFacebook: https://www.facebook.com/cinemagoldshowSupport The Show by Buying Us a Coffee:https://www.buymeacoffee.com/cinemagold",
+                                "imageUrl": "",
+                                "audioUrl": "https://cdn2.sounder.fm/272000/audio--177431--15457--23507--84040a73-7eaf-40a9-b3a6-bbc48702ba6e.mp3?v=1630186451"
+                            },
+                            {
+                                "id": "96579677",
+                                "title": "Let's Talk: The Top 5 Pixar Films",
+                                "description": "Today we enter the world of Pixar animation and give you our top five Pixar films.  This list is not the right list but it is my list. Let me know what you think are the top 5 in the comment section below.Today's episode is sponsored by Pod Deckswww.poddecks.com and use promo code Larry21 for 10% off your first purchase.Follow Us on Social MediaTwitter: http://www.twitter.com/cinemagoldshowIG: http://www.instagram.com/thecinemagoldshowFacebook: https://www.facebook.com/cinemagoldshowSupport The Show by Buying Us a Coffee:https://www.buymeacoffee.com/cinemagold Support the show through our Amazon Affiliate Links. Buy these movies today.5. Cars - https://amzn.to/3saGrrj4. Incredibles - https://amzn.to/3lUSb0m3. Coco - https://amzn.to/2VKjRKx2. Monster's Inc - https://amzn.to/3jOeCBo1. Toy Story - https://amzn.to/37wQAoL",
+                                "imageUrl": "",
+                                "audioUrl": "https://cdn2.sounder.fm/271994/audio--177426--15457--23507--23c3ec60-dd8b-4ea2-a0f3-8dd30406955e.mp3?v=1630186447"
+                            },
+                            {
+                                "id": "79873033",
+                                "title": "Tenet Moviegoer Questions Answered",
+                                "description": "Today we are diving into questions many fans have about Christopher Nolan's film Tenet. This new sci-fi spy thriller has many scratching their heads. We at Cinema Gold are ready to answer those questions.Shout out to my friendly coworker Victoria Duvall for encouraging me to actually make this podcast a reality.Follow us on Twitter @CinemaGold2--- This episode is sponsored by · Anchor: The easiest way to make a podcast.  https://anchor.fm/appSupport this podcast: https://anchor.fm/cinemagold/support",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6de10640e487287f8653cd21e4653c6d.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/42164688/https_d3ctxlq1ktw2nl_cloudfront_net_staging_2020_10_05_0de50d95717d5389deb26423f060b0cf.mp3"
+                            },
+                            {
+                                "id": "80974865",
+                                "title": "Christmas Movie Blitz: Elf Movie Review",
+                                "description": "All this month we are reviewing Christmas films from new Christmas flicks to the classics like It's a Wonderful Life. Today's episode is all about the classic Christmas film Elf starring Will Ferrell. Join us as we give you our review of the classic holiday film.This episode is sponsored by Audible. Sign up today for a free 30-day trial at www.audibletrial.com/cinemagoldFollow us on Twitter www.twitter.com/cinemagold2Like us on Facebook: www.facebook.com/cinemagoldmoviesSupport us on Ko-Fi - www.ko-fi.com/cinemagoldpodcastOr Buy us a coffee - www.buymeacoffee.com/cinemagoldCheck Out Our GoFundMe Page https://www.gofundme.com/f/cinema-gold-podcast",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/87cc2fd6ed039ecdfcfe58b8655b06a6.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/42486585/christmasmovieblitzelf.mp3"
+                            },
+                            {
+                                "id": "85287955",
+                                "title": "NYC Movie Theaters Allowed to Reopen + Ant-Man & The Wasp: Quantumania Filming This Summer",
+                                "description": "Welcome to an all new episode of the Cinema Gold Podcast. Today we are looking into the latest news in the movie industry. It's been confirmed that Marvel Studios will begin filming Ant-Man & The Wasp This Summer and NYC will begin reopening theaters soon.Pod Decks is the sponsor for this video. Check them out and use the promo code CinemaGold for 10% off your order. https://powered-by-pod-decks.peachs.co/a/larry-leaseFollow us on Twitter: www.twitter.com/cinemagold2Like Us on Facebook: www.facebook.com/cinemagoldmovies",
+                                "imageUrl": "",
+                                "audioUrl": "https://cdn2.sounder.fm/272126/audio--177530--15457--23507--653f6f70-d1db-486f-8fbf-f355a67897ac.mp3?v=1630186547"
+                            },
+                            {
+                                "id": "89773880",
+                                "title": "Classic Rewind: District 9",
+                                "description": "This week on Classic Rewind, we are giving our review of District 9. A surprising fun alien movie. Pod Decks is the sponsor for this video. Check them out and use the promo code CinemaGold for 10% off your order.  https://powered-by-pod-decks.peachs.co/a/larry-leaseParamount+: Join Today and Get First Month Freehttps://paramountplus.qflm.net/QOPqmAFollow us on Twitter: www.twitter.com/cinemagold2Send us a tip @ www.streamlabs.com/cinemagold",
+                                "imageUrl": "",
+                                "audioUrl": "https://cdn2.sounder.fm/272079/audio--177485--15457--23507--95311912-33bb-46d2-9486-2f971fcf3eb9.mp3?v=1630186506"
+                            },
+                            {
+                                "id": "79873034",
+                                "title": "Cinema Gold (Trailer)",
+                                "description": "--- Support this podcast: https://anchor.fm/cinemagold/support",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/690676a2ee40efb616814dbfc68895e8.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/42164690/https_d3ctxlq1ktw2nl_cloudfront_net_staging_2020_8_22_110669372_44100_2_ea8a77bd229d4.mp3"
+                            },
+                            {
+                                "id": "80310601",
+                                "title": "Christmas Movie Blitz: Lego Star Wars Holiday Special Review",
+                                "description": "All this month we are reviewing Christmas films from new Christmas flicks to the classics like It's a Wonderful Life. Today's episode is all about the new Disney+ special Lego Star Wars Holiday Special. Follow us on Twitter www.twitter.com/cinemagold2Like us on Facebook: www.facebook.com/cinemagoldmoviesSupport us on Ko-Fi - www.ko-fi.com/cinemagoldpodcastOr Buy us a coffee - www.buymeacoffee.com/cinemagold",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/87cc2fd6ed039ecdfcfe58b8655b06a6.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/42270644/lego_star_wars_holiday_review.mp3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "4080739",
+                    "title": "Hacks on Tap with David Axelrod and Mike Murphy",
+                    "description": "Throughout the 2020 presidential campaign, battle-tested operatives will be sitting on bar stools along the trail, sharing war stories and unique, sometimes uproarious cuts on the latest developments. Hacks on Tap is your invitation to join two of the best. Campaign veterans Axelrod and Murphy will take listeners deep inside the top level of American politics. These seasoned pros have seen it all: the peaks and valleys, the pressure-cooker moments, the huge breaks and the horrible calamities no one saw coming. Who better to narrate this momentous race? So pull up a stool and join us!",
+                    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9734480/0a443ec1d0685f67.jpeg",
+                    "author": {
+                        "name": "David Axelrod"
+                    },
+                    "categories": [
+                        {
+                            "title": "News"
+                        },
+                        {
+                            "title": "Politics"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "125458713",
+                                "title": "All's Fair in Love and Warren",
+                                "description": "The fourth Democratic presidential debate is behind us and the hacks are here to break it all down. \nAll eyes are on Liz Warren as she gets frontrunner treatment for the very first time: how did she fare? \nButtigieg bites back: is this a turning point for the South Bend mayor? \nBiden becomes background: can his candidacy sustain steam?\nAmy  brought her A-game: but is this too little, too late? \nWhat’s not working for Cory Booker? \n\nPlus, the hacks dive into what the latest FEC filings mean for each of the candidates.\n\n...All this, and much more!\nLearn more about your ad choices. Visit podcastchoices.com/adchoices\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9734480/0a443ec1d0685f67.jpeg",
+                                "audioUrl": "https://anchor.fm/s/3a9e39c0/podcast/play/20792836/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-8%2F116252917-44100-2-756c9c65de13c8f7.mp3"
+                            },
+                            {
+                                "id": "125458718",
+                                "title": "Showdown in Motown",
+                                "description": "In this week's episode, the Hacks huddle in Detroit in the wake of the second round of Democratic debates. Axe and Murphy share their takes on the Biden-Harris rematch, discuss the progressive-moderate party divide, highlight Warren and Booker's strong performances, and gauge the impact this round will have on the candidates moving forward. The Hacks also break down the memorable moments: Gabbard takes aim at Harris, Bernie brings the fight, Biden bites back, and a handful of one percenters – Delaney, Bullock, Bennet, and Inslee – make themselves heard. \nLearn more about your ad choices. Visit podcastchoices.com/adchoices\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9734480/0a443ec1d0685f67.jpeg",
+                                "audioUrl": "https://anchor.fm/s/3a9e39c0/podcast/play/20792859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-8%2F116252923-44100-2-59c19bf9d14d5640.mp3"
+                            },
+                            {
+                                "id": "125458639",
+                                "title": "Hacks on Call",
+                                "description": "The news that President Trump tested positive for Coronavirus has thrown the campaign—and the country—into a new realm of uncertainty. Axe, Gibbs, and Murphy convene for a special edition of Hacks on Tap to discuss this breaking news and what it means for the presidential race.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/9734480/41670950d89f3641.jpeg",
+                                "audioUrl": "https://anchor.fm/s/3a9e39c0/podcast/play/20792849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-8%2F116252850-44100-1-bd2c2aca57a9f713.mp3"
+                            },
+                            {
+                                "id": "125458674",
+                                "title": "Ain't No Abe Lincoln (with Alex Wagner)",
+                                "description": "The Hacks are joined this week by Alex Wagner, host of Crooked Media’s new podcast “Six Feet Apart” and co-host of Showtime’s The Circus. \n\nWe talk Trump’s pivot from running on the economy to running from the economy, and the wild comparison he made between himself and President Lincoln. The Hacks also discuss Axe & David Plouffe’s New York Times op-ed in which they give advice to Team Biden, developments in the Tara Reade sexual assault allegations, and the state of play in competitive Senate races.\n\nAxe, Murphy, and Wagner sift through the mail bag and answer listeners’ questions on the potential impact of Justin Amash’s third-party bid, a possible drawback in selecting a sitting governor as Biden’s VP, and what kind of role Trump might play in the Republican Party after his presidency comes to an end.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9734480/0a443ec1d0685f67.jpeg",
+                                "audioUrl": "https://anchor.fm/s/3a9e39c0/podcast/play/20792843/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-8%2F116252874-44100-1-e54f6bf14c39bcf2.mp3"
+                            },
+                            {
+                                "id": "125458706",
+                                "title": "Trump's big trap and who ought to wrap",
+                                "description": "In this week’s episode, Axe and Murphy talk Trump’s strategy behind attacking the progressive freshmen House members, how the latest poll numbers spell potential for Kamala Harris, and whether Pete Buttigieg's coolheaded approach will help or hurt him in the race. Howard Wolfson, former deputy mayor of New York City, joins the show to talk about Michael Bloomberg's decision not to run and what role a third party candidate might play in a general election. Axe and Murphy dive to the mailbag to answer questions about Andrew Yang, Biden's staff, and the art of the post-primary pivot. During \"Last Call,\" both hacks name the candidate they think should drop out of the race sooner rather than later.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9734480/0a443ec1d0685f67.jpeg",
+                                "audioUrl": "https://anchor.fm/s/3a9e39c0/podcast/play/20792872/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-8%2F116252945-44100-2-b03b97cef800420e.mp3"
+                            },
+                            {
+                                "id": "125458664",
+                                "title": "Trump's Peaceful Transfer of Glower (with Rahm Emanuel)",
+                                "description": "Murphy and Gibbs welcome the Honorable Hack/former Chicago Mayor Rahm Emanuel to talk about Trump’s comments on election rigging, what Biden has to do in the upcoming debate next week and more politics around the Supreme Court.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/9734480/74a244d1b026be51.jpeg",
+                                "audioUrl": "https://anchor.fm/s/3a9e39c0/podcast/play/20792857/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-8%2F116252892-44100-1-df67bc02914e526a.mp3"
+                            },
+                            {
+                                "id": "125458678",
+                                "title": "The Fact of the Matter is… Joe is Back!",
+                                "description": "The Hacks convene in the aftermath of the South Carolina Democratic primary to talk about what Joe Biden’s win might mean for the rest of the race. Did Biden get his Mo-Joe back?\nButtigieg drops out — does this portend the end for Klobuchar and Warren as well?\nAnd what should we be looking for on Super Tuesday?\n...All this and more!\nLearn more about your ad choices. Visit podcastchoices.com/adchoices\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9734480/0a443ec1d0685f67.jpeg",
+                                "audioUrl": "https://anchor.fm/s/3a9e39c0/podcast/play/20792842/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-8%2F116252888-44100-1-0a6b3473fc38d823.mp3"
+                            },
+                            {
+                                "id": "125458685",
+                                "title": "Prevailin’ or Just Wailin’? (with Robert Gibbs)",
+                                "description": "Axe and Murphy are joined this week by Robert Gibbs, former White House press secretary. This week we talk Trump’s tantrum press briefing, Obama’s criticism of the federal government’s response to COVID-19, the state of various Senate races, and more. The Hacks also answer listener questions on the odds that Michelle Obama returns to the political arena and why betting markets often differ from the polls — and which to believe.  \nLearn more about your ad choices. Visit podcastchoices.com/adchoices\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9734480/0a443ec1d0685f67.jpeg",
+                                "audioUrl": "https://anchor.fm/s/3a9e39c0/podcast/play/20792831/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-8%2F116252885-44100-1-2992db0cce80cc43.mp3"
+                            },
+                            {
+                                "id": "125458655",
+                                "title": "Pencesplaining & Insect Baiting",
+                                "description": "Axe, Gibbs, and Murphy are abuzz with post-debate analysis as they convene for a special late night edition of Hacks on Tap. They break down the night’s biggest moments and discuss whether, in a tumultuous week for the 2020 race, this moved the needle in any way.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/9734480/b796fb4c32417ccf.jpeg",
+                                "audioUrl": "https://anchor.fm/s/3a9e39c0/podcast/play/20792899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-8%2F116252972-44100-1-dbb389dd55549d42.mp3"
+                            },
+                            {
+                                "id": "125458675",
+                                "title": "Sin City Slugfest: Democrats Duke it Out",
+                                "description": "The Hacks are back to break down the latest Democratic debate from Las Vegas, Nevada–\n \nMike Bloomberg makes his debate stage debut but bombs under a barrage of blows. He may have fallen short on the debate stage at the hands of Elizabeth Warren and others, but will his incoming ad blitzes erase his paltry performance? Plus, Pete Buttigieg takes some of the wind out of Klobuchar’s sails, but will this muddle in the middle ultimately benefit Bernie?\n \nWhere are we now? As we lurch toward Super Tuesday, the possibility of a brokered convention seems more real than ever before. What does this mean for the party – and for Democratic prospects against Donald Trump? \n \nAnd no Holds Barr-ed: the Hacks dive into the chaos from the Justice Department and touch on Trump’s pardon-palooza.\n \nAll this, and more.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices\n",
+                                "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9734480/0a443ec1d0685f67.jpeg",
+                                "audioUrl": "https://anchor.fm/s/3a9e39c0/podcast/play/20792825/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-8%2F116252870-44100-1-8686e0843c628467.mp3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "1528145",
+                    "title": "State of us All",
+                    "description": "Anthony Hayden, served in the US Air Force for 21 years. Was awarded the Purple Heart, one of the highest honors in the military for injuries sustained in combat. He is a rising personality on social media who has dedicated his time traveling to over 50+ countries, offering a perspective, on freedom, motivation, history, business, tech and politics.",
+                    "imageUrl": "https://storage.buzzsprout.com/variants/pv37hs6xja0tver45c749gavdg8f/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg",
+                    "author": {
+                        "name": "Anthony "
+                    },
+                    "categories": [
+                        {
+                            "title": "News"
+                        },
+                        {
+                            "title": "Politics"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "77854770",
+                                "title": "Hunter Bidens Laptop From Hell",
+                                "description": "If you haven't been sleeping underneath a rock these past few days, one of the biggest stories being suppressed on planet Earth right now and especially across America, is the discovery of former Vice Presidents son, Hunter Biden's Laptop, Aka ...\"The Laptop from Hell\" which has revealed some questionable financial activity The Bidens engaged in with foreign nations such Ukraine and China.",
+                                "imageUrl": "",
+                                "audioUrl": "https://pdcn.co/e/www.buzzsprout.com/1453873/6154609-hunter-bidens-laptop-from-hell.mp3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "912063",
+                    "title": "88 Days: The Jayme Closs Story",
+                    "description": "On October 15, 2018, a couple was brutally murdered in a small Wisconsin town, and their 13-year-old daughter vanished without a trace. For 88 days, the search for Jayme Closs was a mystery that captivated the nation and left a grieving family holding its breath. KARE 11 television reporter Lou Raguse extensively covered the months-long investigation and takes listeners inside the case and into the mind of the killer. Hear in-depth interviews, analysis, and how it all unfolded. 88 Days: The Jayme Closs Story is a KARE 11 original podcast in association with Vault Studios. New episodes are released on Tuesdays. https://88dayspodcast.com",
+                    "imageUrl": "https://megaphone.imgix.net/podcasts/6659e3b4-4148-11ea-9e68-535f709e5af4/image/88_Days_Podcast_Profile_Photo_Vault.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format%2Ccompress",
+                    "author": {
+                        "name": "KARE 11 | VAULT Studios"
+                    },
+                    "categories": [
+                        {
+                            "title": "True Crime"
+                        },
+                        {
+                            "title": "News"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "83221129",
+                                "title": "The Daily Crime: New Podcast from VAULT Studios",
+                                "description": "Crime. Five days a week. From the studio behind 88 Days and The Officer’s Wife. Subscribe now to The Daily Crime, launching Monday, Jan. 25.\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/SLT9497026895.mp3"
+                            },
+                            {
+                                "id": "88540350",
+                                "title": "Available Now: Bardstown Season 2",
+                                "description": "Beyond Bardstown: Lacombe — season two of VAULT Studios' Bardstown podcast — is available now. Search for 'Bardstown' on your preferred podcast app to listen , or visit www.bardstownpodcast.com.\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/SLT6510101405.mp3"
+                            },
+                            {
+                                "id": "97082491",
+                                "title": "Strangeville",
+                                "description": "Heists, scams and other strange-but-true stories from all over the country. From the studio behind 88 Days, 'Strangeville' is available now. Search for it where you listen to 88 Days.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/SLT5844870639.mp3?updated=1629126719"
+                            },
+                            {
+                                "id": "44826989",
+                                "title": "Chapter 8: Healing",
+                                "description": "\"I will go on to do great things in my life, and he will not.\"\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+                                "imageUrl": "https://megaphone.imgix.net/podcasts/66fba384-4148-11ea-88bf-539a589ee133/image/88_Days_Podcast_Profile_Photo_Vault.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format%2Ccompress",
+                                "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/ADL5052507717.mp3?updated=1642079568"
+                            },
+                            {
+                                "id": "44826990",
+                                "title": "Chapter 7: The Letter",
+                                "description": "\"I can't believe I did this.\" \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+                                "imageUrl": "https://megaphone.imgix.net/podcasts/6716fa44-4148-11ea-88bf-83a37a32ea57/image/88_Days_Podcast_Profile_Photo_Vault.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format%2Ccompress",
+                                "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/ADL1971591957.mp3?updated=1642079506"
+                            },
+                            {
+                                "id": "44826996",
+                                "title": "Chapter 1: Day One",
+                                "description": "\"I’ve been doing this for 20-plus years, and I just don’t know what happened in this case.\"\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+                                "imageUrl": "https://megaphone.imgix.net/podcasts/67c9c390-4148-11ea-88bf-4f5dc94ae9cf/image/88_Days_Podcast_Profile_Photo_Vault.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format%2Ccompress",
+                                "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/ADL8315242875.mp3?updated=1642079081"
+                            },
+                            {
+                                "id": "44826997",
+                                "title": "Trailer",
+                                "description": "The search for Jayme Closs was a  mystery that captivated the nation. KARE 11 television reporter Lou Raguse extensively covered the months-long investigation and takes listeners inside the case and into the mind of the killer. Hear in-depth interviews, analysis, and how it all unfolded.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+                                "imageUrl": "https://megaphone.imgix.net/podcasts/67e55574-4148-11ea-88bf-3f17318ebfd5/image/88_Days_Podcast_Profile_Photo_Vault.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format%2Ccompress",
+                                "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/ADL2286499504.mp3"
+                            },
+                            {
+                                "id": "44826992",
+                                "title": "Chapter 5: The Escape",
+                                "description": "\"I have a young lady at my house right now, and she has said her name is Jayme Closs.\"\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+                                "imageUrl": "https://megaphone.imgix.net/podcasts/6757105c-4148-11ea-88bf-bf203ce98ad2/image/88_Days_Podcast_Profile_Photo_Vault.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format%2Ccompress",
+                                "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/ADL6560111391.mp3?updated=1642079356"
+                            },
+                            {
+                                "id": "97082490",
+                                "title": "Tiger on the Loose",
+                                "description": "Strangeville, a new series from VAULT Studios, is available now. For the rest of this episode, and more like it, search for Strangeville on your podcast app and tap \"follow\" or \"subscribe.\"\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+                                "imageUrl": "",
+                                "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/SLT3560992354.mp3?updated=1629391058"
+                            },
+                            {
+                                "id": "44826991",
+                                "title": "Chapter 6: Patterson ",
+                                "description": "“There was nothing different about him than any kid in the neighborhood.”\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+                                "imageUrl": "https://megaphone.imgix.net/podcasts/6732bef0-4148-11ea-88bf-e33a945c7775/image/88_Days_Podcast_Profile_Photo_Vault.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format%2Ccompress",
+                                "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/ADL8273122977.mp3?updated=1642079397"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

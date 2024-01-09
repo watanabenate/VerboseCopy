@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="@color/bg_color">
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/settings_progress_bar"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="100dp"
+        android:translationZ="1dp" 
+        />
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:background="@color/bg_color">
+
+    
+
+        <ImageButton
+            android:id="@+id/min_settings"
+            android:layout_width="@dimen/icon_size"
+            android:layout_height="@dimen/icon_size"
+            android:src="@drawable/down_arrow"
+            android:scaleType="fitCenter"
+            android:background="@android:color/transparent"
+            android:layout_gravity="left"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/action_settings"
+            android:textColor="@color/secondaryTextColor"
+            android:textSize="@dimen/page_title_fontsize"
+            android:gravity="center"
+            />
+
+        <TextView
+            android:id="@+id/creator_button"
+            android:layout_width="@dimen/settings_item_width"
+            android:layout_height="@dimen/settings_item_height"
+            android:text="@string/verification"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="@dimen/post_fontsize"
+            android:background="@color/postBgColorFlat"
+            android:elevation="1dp"
+            android:layout_margin="@dimen/spacer_width"
+            android:gravity="center"
+            android:drawableLeft="@drawable/verified_icon"
+            android:padding="@dimen/settings_icons_margin"
+            />
+
+        <TextView
+            android:id="@+id/dark_mode_button"
+            android:layout_width="@dimen/settings_item_width"
+            android:layout_height="@dimen/settings_item_height"
+            android:text="@string/dark_mode"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="@dimen/post_fontsize"
+            android:background="@color/postBgColorFlat"
+            android:elevation="1dp"
+            android:layout_margin="@dimen/spacer_width"
+            android:gravity="center"
+            android:drawableLeft="@drawable/dark_mode"
+            android:padding="@dimen/settings_icons_margin"
+            />
+
+        <TextView
+            android:id="@+id/privacy_button"
+            android:layout_width="@dimen/settings_item_width"
+            android:layout_height="@dimen/settings_item_height"
+            android:text="@string/privacy_private"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="@dimen/post_fontsize"
+            android:background="@color/postBgColorFlat"
+            android:elevation="1dp"
+            android:layout_margin="@dimen/spacer_width"
+            android:gravity="center"
+            android:drawableLeft="@drawable/privacy"
+            android:padding="@dimen/settings_icons_margin"
+            />
+
+        <TextView
+            android:id="@+id/stt_button"
+            android:layout_width="@dimen/settings_item_width"
+            android:layout_height="@dimen/settings_item_height"
+            android:text="@string/stt"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="@dimen/post_fontsize"
+            android:background="@color/postBgColorFlat"
+            android:elevation="1dp"
+            android:layout_margin="@dimen/spacer_width"
+            android:gravity="center"
+            android:drawableLeft="@drawable/cc_icon"
+            android:padding="@dimen/settings_icons_margin"
+            />
+
+        <Button
+            android:layout_width="@dimen/settings_btn_width"
+            android:layout_height="wrap_content"
+            android:text="log out"
+            android:layout_margin="@dimen/spacer_width"
+            android:id="@+id/logout_button"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>

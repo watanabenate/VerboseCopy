@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- dark mode colors -->
+<resources>
+	<color name="verboseColor">#E0633B</color>
+    <color name="colorPrimary">#2c3e50</color>
+    <color name="colorPrimaryDark">#1B3147</color>
+    <color name="colorAccent">#3498db</color>
+	<color name="bg_color">#121212</color>
+
+	<color name="accentPink">#D04E68</color>
+	<color name="accentMagenta">#A54F84</color>
+	<color name="accentPurple">#6F5489</color>
+	<color name="accentNavy">#415277</color>
+	<color name="accentCharcoal">#2F4858</color>
+
+	<color name="primaryTextColor">#FFFFFF</color>
+	<color name="secondaryTextColor">#B3B3B3</color>
+	<color name="hintTextColor">#737373</color>
+
+	<color name="captionBg">#d9d9d9</color>
+	<color name="captionTextColor">#5e5e5e</color>
+	
+	<color name="postBgColor">@android:drawable/dialog_holo_dark_frame</color>
+	<color name="postBgColorFlat">#292929</color>
+
+	<color name="loginBgColor">@color/bg_color</color>
+</resources>

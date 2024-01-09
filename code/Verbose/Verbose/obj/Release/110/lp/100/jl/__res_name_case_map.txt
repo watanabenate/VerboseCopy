@@ -1,0 +1,2 @@
+values/strings.xml;values/strings.xml
+drawable/ic_menu_gallery.png;drawable/ic_menu_gallery.png

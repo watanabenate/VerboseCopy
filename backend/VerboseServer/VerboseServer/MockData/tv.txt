@@ -1,0 +1,427 @@
+﻿{
+    "data": {
+        "podcasts": {
+            "data": [
+                {
+                    "id": "1149651",
+                    "title": "JAY VS. HORROR",
+                    "description": "Horror fandom. Discussion, Interviews, Movie Reviews & Much More.",
+                    "imageUrl": "https://storage.buzzsprout.com/variants/dhzjaorsd29btslq2c19o26kacbz/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad?.jpg=",
+                    "author": {
+                        "name": "Jay Wall"
+                    },
+                    "categories": [
+                        {
+                            "title": "TV"
+                        },
+                        {
+                            "title": "Film"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "60473601",
+                                "title": "JAY VS. HORROR EPISODE 04: \"BUMP IN THE NIGHT\"",
+                                "description": "First Jay Wall & Nathan Bartlebaugh go over your comments about the greatest haunted and paranormal films ever made. Then Jay & Bill Van Veghel from LAND OF THE CREEPS interview paranormal All-Star Stephen Smith of SPIRIT MECHANIX. Stephen tells us some spine tingling tales from the world of the beyond sure to make you shiver.. If you want to know more about Stephen Smith & Spirit Mechanix, or if you need their help simply click HERE.If you love horror based podcasts you can catch Bill Van Veghel on the legendary LAND OF THE CREEPS podcast, by clicking HERE. Almost a full decade of great horror content and true excellence in new age broadcasting from Greg Morgan & friends. Or catch Nathan Bartlebaugh on PHANTOM GALAXY by clicking HERE for a informative and mind blowing podcast experience. You can also catch Nathan over at THESE GO TO 11 by clicking HERE for even more awesome movie talk.COME JOIN THE PARTY PAL, CLICK HERE TO JOIN US ON FB.. OR HERE TO SEE OUR SUPER SECRET AWESOME YOUTUBE CONTENT.",
+                                "imageUrl": null,
+                                "audioUrl": "https://www.buzzsprout.com/1015009/3757265-jay-vs-horror-episode-04-bump-in-the-night.mp3?blob_id=14059370"
+                            },
+                            {
+                                "id": "58874854",
+                                "title": "JAY VS. HORROR EPISODE 2 - \"BASED ON A TRUE STORY\" ",
+                                "description": "Jay Wall and Brian Carlson interview Daniel Farrands, writer of HALLOWEEN 6 and director of NEVER SLEEP AGAIN, CRYSTAL LAKE MEMORIES, THE AMITTYVILLE MURDERS & the extremely controversial THE HAUNTING OF SHARON TATE.Lot's of HALLOWEEN insider stuff from a actual writer in the franchise, a look at Daniel's wildly successful documentaries NEVER SLEEP AGAIN & CRYSTAL LAKE MEMORIES and a red hot finale as we discuss the controversy surrounding Daniel's film THE HAUNTING OF SHARON TATE. Including the threats made against Daniel's life, Sharon's sister & Daniel's true intentions and passionate thoughts on his film. GOOD STUFF ALL AROUND!Next week we welcome MICHAEL LEAVY, industry insider and ACTOR/WRIITER/DIRECTOR as well production team member on the highly anticipated TERRIFIER 2 ....so get ya TERRIFIER 2 questions ready.",
+                                "imageUrl": null,
+                                "audioUrl": "https://www.buzzsprout.com/1015009/3502093-jay-vs-horror-episode-2-based-on-a-true-story.mp3?blob_id=12846619"
+                            },
+                            {
+                                "id": "61320703",
+                                "title": "EPISODE 5 - Damian Maffei, Star Of The New WRONG TURN Film, HAUNT, &THE STRANGERS PREY AT NIGHT Sits Down With Jay & Bill",
+                                "description": "Damian Maffei, star of the new WRONG TURN Film,HAUNT, & THE STRANGERS PREY AT NIGHT Sits Down With Jay Wall & Bill Van Veghel. Then Jay goes live discussing your favorite underrated horror villains..If you love horror based podcasts you can catch Bill Van Veghel on the legendary LAND OF THE CREEPS podcast, by clicking HERE. Almost a full decade of great horror content and true excellence in new age broadcasting from Greg Morgan & friends.COME JOIN THE PARTY PAL, CLICK HERE TO JOIN US ON FB.. OR HERE TO SEE OUR SUPER SECRET AWESOME YOUTUBE CONTENT.",
+                                "imageUrl": null,
+                                "audioUrl": "https://www.buzzsprout.com/1015009/3886523-episode-5-damian-maffei-star-of-the-new-wrong-turn-film-haunt-the-strangers-prey-at-night-sits-down-with-jay-bill.mp3?blob_id=14733254"
+                            },
+                            {
+                                "id": "58552530",
+                                "title": "JAY VS. HORROR EPISODE 01; THE MOVIES THAT MADE YOU FALL IN LOVE WITH HORROR ",
+                                "description": "We discuss your favorite horror movies and ours. Call and leave your thoughts for our next episode.",
+                                "imageUrl": null,
+                                "audioUrl": "https://www.buzzsprout.com/1015009/3442612-jay-vs-horror-episode-01-the-movies-that-made-you-fall-in-love-with-horror.mp3?blob_id=12556423"
+                            },
+                            {
+                                "id": "59417890",
+                                "title": "JAY VS. HORROR EPISODE 03: THE MOST UNDERRATED HORROR FILM EVER MADE",
+                                "description": "  Brian Carlson from MARRIED TO CINEMA & Jay Wall interview Producer of TERRIFIER 2, the amazing Michael Leavy.    Michael tells us about all his amazing projects including: ABNORMAL ATTRACTION, PENANCE LANE, the now infamous and legendary STATEN ISLAND CLOWN INCIDENT and of course, TERRIFIER 2. Then Jay & Brian dive into over 400 listener comments on this week's social media topic: THE MOST UNDERRATED HORROR FILM EVER MADE.  COME JOIN THE PARTY PAL, CLICK HERE TO JOIN US ON FB.. OR HERE TO SEE OUR SUPER SECRET AWESOME YOUTUBE CONTENT.  CHECK OUT MORE GREAT STUFF FROM MICHAEL LEAVY & FUZZ ON THE LENS PRODUCTIONS BY CLICKING HERE!!!  OR CHECK MICHAEL OUT ON SOCIAL MEDIA   Instagram: @Fuzz_on_the_Lens  Twitter: @FuzzOnTheLens  Facebook and YouTube: Fuzz on the Lens Productions",
+                                "imageUrl": null,
+                                "audioUrl": "https://www.buzzsprout.com/1015009/3591535-jay-vs-horror-episode-03-the-most-underrated-horror-film-ever-made.mp3?blob_id=13262635"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "1565463",
+                    "title": "Cinema Gold",
+                    "description": "Diving deep into the latest blockbusters and answering questions you might have after watching those movies that leave you confused.  Support this podcast: HTTP://www.buymeacoffee.com/cinemagold",
+                    "imageUrl": "https://cdn2.sounder.fm/271983/conversions/87cc2fd6ed039ecdfcfe58b8655b06a6-square_big.jpg?v=1630186434",
+                    "author": {
+                        "name": "Larry Lease"
+                    },
+                    "categories": [
+                        {
+                            "title": "TV"
+                        },
+                        {
+                            "title": "Film"
+                        },
+                        {
+                            "title": "Film Reviews"
+                        },
+                        {
+                            "title": "News"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "91368357",
+                                "title": "Classic Rewind: Total Recall",
+                                "description": "This week on Classic Rewind, we are revisiting the popular sci-fi action film Total Recall.",
+                                "imageUrl": "",
+                                "audioUrl": "https://cdn2.sounder.fm/272061/audio--177472--15457--23507--b429d9d9-8d3d-4741-92fc-c14f970175f1.mp3?v=1630186493"
+                            },
+                            {
+                                "id": "94215399",
+                                "title": "Getting Burned: Reviewing Burn Notice Season 5",
+                                "description": "This week on Getting Burned, we discuss season 5 of USA Network's hit show Burn Notice. What were your thoughts on the season. Let us know through social media or the comments section.Twitter: www.twitter.com/cinemagoldshowInstagram: www.instagram.com/thecinemagoldshowFacebook: www.facebook.com/cinemagoldshow",
+                                "imageUrl": "https://cdn2.sounder.fm/272024/conversions/464b95a3e36334003ce76ad9bf5c5b0e-square_big.jpg?v=1630186468",
+                                "audioUrl": "https://cdn2.sounder.fm/272027/audio--177448--15457--23507--2eb98e87-8404-4170-a455-8321deb31ae1.mp3?v=1630186469"
+                            },
+                            {
+                                "id": "96213259",
+                                "title": "Let's Talk: Top 5 Action Stars of All Time",
+                                "description": "Today we are giving our top 5 action stars in film history.  This is not the definitive list, this is our list. Who makes your top 5? Let us know on social media.Today's episode is sponsored by Pod Deckswww.poddecks.com and use promo code Larry21 for 10% off your first purchase.Follow Us on Social MediaTwitter: http://www.twitter.com/cinemagoldshowIG: http://www.instagram.com/thecinemagoldshowFacebook: https://www.facebook.com/cinemagoldshowSupport The Show by Buying Us a Coffee:https://www.buymeacoffee.com/cinemagold",
+                                "imageUrl": "",
+                                "audioUrl": "https://cdn2.sounder.fm/272000/audio--177431--15457--23507--84040a73-7eaf-40a9-b3a6-bbc48702ba6e.mp3?v=1630186451"
+                            },
+                            {
+                                "id": "96579677",
+                                "title": "Let's Talk: The Top 5 Pixar Films",
+                                "description": "Today we enter the world of Pixar animation and give you our top five Pixar films.  This list is not the right list but it is my list. Let me know what you think are the top 5 in the comment section below.Today's episode is sponsored by Pod Deckswww.poddecks.com and use promo code Larry21 for 10% off your first purchase.Follow Us on Social MediaTwitter: http://www.twitter.com/cinemagoldshowIG: http://www.instagram.com/thecinemagoldshowFacebook: https://www.facebook.com/cinemagoldshowSupport The Show by Buying Us a Coffee:https://www.buymeacoffee.com/cinemagold Support the show through our Amazon Affiliate Links. Buy these movies today.5. Cars - https://amzn.to/3saGrrj4. Incredibles - https://amzn.to/3lUSb0m3. Coco - https://amzn.to/2VKjRKx2. Monster's Inc - https://amzn.to/3jOeCBo1. Toy Story - https://amzn.to/37wQAoL",
+                                "imageUrl": "",
+                                "audioUrl": "https://cdn2.sounder.fm/271994/audio--177426--15457--23507--23c3ec60-dd8b-4ea2-a0f3-8dd30406955e.mp3?v=1630186447"
+                            },
+                            {
+                                "id": "79873033",
+                                "title": "Tenet Moviegoer Questions Answered",
+                                "description": "Today we are diving into questions many fans have about Christopher Nolan's film Tenet. This new sci-fi spy thriller has many scratching their heads. We at Cinema Gold are ready to answer those questions.Shout out to my friendly coworker Victoria Duvall for encouraging me to actually make this podcast a reality.Follow us on Twitter @CinemaGold2--- This episode is sponsored by · Anchor: The easiest way to make a podcast.  https://anchor.fm/appSupport this podcast: https://anchor.fm/cinemagold/support",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6de10640e487287f8653cd21e4653c6d.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/42164688/https_d3ctxlq1ktw2nl_cloudfront_net_staging_2020_10_05_0de50d95717d5389deb26423f060b0cf.mp3"
+                            },
+                            {
+                                "id": "80974865",
+                                "title": "Christmas Movie Blitz: Elf Movie Review",
+                                "description": "All this month we are reviewing Christmas films from new Christmas flicks to the classics like It's a Wonderful Life. Today's episode is all about the classic Christmas film Elf starring Will Ferrell. Join us as we give you our review of the classic holiday film.This episode is sponsored by Audible. Sign up today for a free 30-day trial at www.audibletrial.com/cinemagoldFollow us on Twitter www.twitter.com/cinemagold2Like us on Facebook: www.facebook.com/cinemagoldmoviesSupport us on Ko-Fi - www.ko-fi.com/cinemagoldpodcastOr Buy us a coffee - www.buymeacoffee.com/cinemagoldCheck Out Our GoFundMe Page https://www.gofundme.com/f/cinema-gold-podcast",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/87cc2fd6ed039ecdfcfe58b8655b06a6.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/42486585/christmasmovieblitzelf.mp3"
+                            },
+                            {
+                                "id": "85287955",
+                                "title": "NYC Movie Theaters Allowed to Reopen + Ant-Man & The Wasp: Quantumania Filming This Summer",
+                                "description": "Welcome to an all new episode of the Cinema Gold Podcast. Today we are looking into the latest news in the movie industry. It's been confirmed that Marvel Studios will begin filming Ant-Man & The Wasp This Summer and NYC will begin reopening theaters soon.Pod Decks is the sponsor for this video. Check them out and use the promo code CinemaGold for 10% off your order. https://powered-by-pod-decks.peachs.co/a/larry-leaseFollow us on Twitter: www.twitter.com/cinemagold2Like Us on Facebook: www.facebook.com/cinemagoldmovies",
+                                "imageUrl": "",
+                                "audioUrl": "https://cdn2.sounder.fm/272126/audio--177530--15457--23507--653f6f70-d1db-486f-8fbf-f355a67897ac.mp3?v=1630186547"
+                            },
+                            {
+                                "id": "89773880",
+                                "title": "Classic Rewind: District 9",
+                                "description": "This week on Classic Rewind, we are giving our review of District 9. A surprising fun alien movie. Pod Decks is the sponsor for this video. Check them out and use the promo code CinemaGold for 10% off your order.  https://powered-by-pod-decks.peachs.co/a/larry-leaseParamount+: Join Today and Get First Month Freehttps://paramountplus.qflm.net/QOPqmAFollow us on Twitter: www.twitter.com/cinemagold2Send us a tip @ www.streamlabs.com/cinemagold",
+                                "imageUrl": "",
+                                "audioUrl": "https://cdn2.sounder.fm/272079/audio--177485--15457--23507--95311912-33bb-46d2-9486-2f971fcf3eb9.mp3?v=1630186506"
+                            },
+                            {
+                                "id": "79873034",
+                                "title": "Cinema Gold (Trailer)",
+                                "description": "--- Support this podcast: https://anchor.fm/cinemagold/support",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/690676a2ee40efb616814dbfc68895e8.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/42164690/https_d3ctxlq1ktw2nl_cloudfront_net_staging_2020_8_22_110669372_44100_2_ea8a77bd229d4.mp3"
+                            },
+                            {
+                                "id": "80310601",
+                                "title": "Christmas Movie Blitz: Lego Star Wars Holiday Special Review",
+                                "description": "All this month we are reviewing Christmas films from new Christmas flicks to the classics like It's a Wonderful Life. Today's episode is all about the new Disney+ special Lego Star Wars Holiday Special. Follow us on Twitter www.twitter.com/cinemagold2Like us on Facebook: www.facebook.com/cinemagoldmoviesSupport us on Ko-Fi - www.ko-fi.com/cinemagoldpodcastOr Buy us a coffee - www.buymeacoffee.com/cinemagold",
+                                "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/87cc2fd6ed039ecdfcfe58b8655b06a6.jpg",
+                                "audioUrl": "https://api.spreaker.com/download/episode/42270644/lego_star_wars_holiday_review.mp3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "48435",
+                    "title": "The Pop Culture Rejects' Podcast",
+                    "description": "",
+                    "imageUrl": "https://assets.podomatic.net/ts/95/34/43/popculturerejects/1400x1400_3068764.jpg",
+                    "author": {
+                        "name": "The Pop Culture Rejects"
+                    },
+                    "categories": [
+                        {
+                            "title": "TV"
+                        },
+                        {
+                            "title": "Film"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "1709008",
+                                "title": "Episode 7: This show is done with Twilight, professionally. Enough.",
+                                "description": "This episode brings our (mostly Nick's) in-depth review of New Moon. If you want a movie broken down in near real-time, this is it. Mary also goes into the basic plot of Eclipse as she saw it with other 15 year old girls.\n\nNot as much energy in the last one. For this, we apologize. \n\nNick still hates all you Twilight freaks and thinks you wish you'd all jump into a warm bath, slit your wrists, and watch the water grow crimson. END IT.\n\nAlso, if you're sensitive over 9/11, this may have some objectionable content. \n\n\n",
+                                "imageUrl": "https://assets.podomatic.net/ts/95/34/43/popculturerejects/1400x1400_3180936.jpg",
+                                "audioUrl": "https://popculturerejects.podOmatic.com/enclosure/2010-07-17T21_17_19-07_00.mp3"
+                            },
+                            {
+                                "id": "1709018",
+                                "title": "Episode 3: Nothing Happened This Week",
+                                "description": "Nick and Mary discuss the events of this week.\nNothing of note happened. This podcast starts a bit slow but picks up a few minutes in. Be sure to stick around for the last 5 minutes. Slight profanity this week thanks to Mary and her vile potty mouth, that despicable cur. She really needs to have her mouth filled with Dial and cleansed. So unladylike.\n\n35 minutes of hijinks and something.\n\nENJOY!",
+                                "imageUrl": "https://assets.podomatic.net/ts/95/34/43/popculturerejects/1400x1400_3068271.jpg",
+                                "audioUrl": "https://popculturerejects.podOmatic.com/enclosure/2010-06-12T17_36_39-07_00.mp3"
+                            },
+                            {
+                                "id": "1709020",
+                                "title": "Episode 1",
+                                "description": "Nick and Mary run down Ghost Whisperer, Jennifer Love Hewitt's career and her future in the unemployment line. Also, there is other tv/movie talk. It's 35 minutes of pure vitriol. Enjoy!",
+                                "imageUrl": "",
+                                "audioUrl": "https://popculturerejects.podOmatic.com/enclosure/2010-05-29T16_34_00-07_00.mp3"
+                            },
+                            {
+                                "id": "1709019",
+                                "title": "Episode 2: Sitcoms",
+                                "description": "Nick and Mary are back with a second episode. This time we deal with the Pop Culture Reject's take on sitcoms of the past, present and future. It's 37 minutes of good clean fun! Take a listen, won't you?",
+                                "imageUrl": "",
+                                "audioUrl": "https://popculturerejects.podOmatic.com/enclosure/2010-06-05T15_48_26-07_00.mp3"
+                            },
+                            {
+                                "id": "1709012",
+                                "title": "Episode 13: Return your Emmy, George Clooney",
+                                "description": "So this week, it's all about the Emmy awards. You've heard the best, now hear the rest. Also we reveal our world exclusive spoilers to the Breaking Bad finale straight from the mind of the writers themselves.\n\nClocking in at around 30 minutes, it is our most brief edition yet! Give it a listen before there is an incident.\n\nChurch, bitches!\n\n",
+                                "imageUrl": "https://assets.podomatic.net/ts/95/34/43/popculturerejects/1400x1400_3348125.jpg",
+                                "audioUrl": "https://popculturerejects.podOmatic.com/enclosure/2010-09-05T19_09_06-07_00.mp3"
+                            },
+                            {
+                                "id": "1709011",
+                                "title": "Episode 14: Ash Saturday",
+                                "description": "In a very special episode, The PCR pay tribute to the fallen of 9/11/2001 in our own special way. Warnings for a bit of rude language near the end as well. Clocking in at 44 minute of sappy goodness, we recount our experience of that solemn day.",
+                                "imageUrl": "https://assets.podomatic.net/ts/95/34/43/popculturerejects/1400x1400_3373163.jpg",
+                                "audioUrl": "https://popculturerejects.podOmatic.com/enclosure/2010-09-11T21_45_27-07_00.mp3"
+                            },
+                            {
+                                "id": "1709014",
+                                "title": "Episode 9: We proclaim this to be Edgar Wright Day!",
+                                "description": "While we don't have a key to a city to give this distinguished writer/producer/director/actor, we do have our regards. It's a celebration of the man's revolution in 21st century filmmaking and his continuing legacy!\n\nJoin up for multiple minutes of chatter about dear Edgar.\n\nListen up!\n\n",
+                                "imageUrl": "https://assets.podomatic.net/ts/95/34/43/popculturerejects/1400x1400_3224738.jpg",
+                                "audioUrl": "https://popculturerejects.podOmatic.com/enclosure/2010-07-31T14_44_39-07_00.mp3"
+                            },
+                            {
+                                "id": "1709013",
+                                "title": "Episode 10: Gentle Caress",
+                                "description": "This episode, surprisingly, is about the favorite pastime of Roman Polanski. However, all we talk about it the movie versions and our impressions. Plus, in our movie list, they were all of age.\n\nEnjoy!\n\nP.S. Thanks for 10 wonderful episodes. If we make #11, we'll be happy.",
+                                "imageUrl": "https://assets.podomatic.net/ts/95/34/43/popculturerejects/1400x1400_3250302.jpg",
+                                "audioUrl": "https://popculturerejects.podOmatic.com/enclosure/2010-08-07T16_05_59-07_00.mp3"
+                            },
+                            {
+                                "id": "1709017",
+                                "title": "Episode 4: All about Breaking Bad",
+                                "description": "Breaking Bad: the greatest documentary since Scared Straight and Scared Straight, Again! \n\nSpoiler alerts galore. \n\nIf you have never seen the show but don't mind having the surface scratched on the previous 3 season, give this a listen.\n\nIf you never plan to watch it but want to know what the hubbub is about, give this a listen.\n\nThis expanded podcast with better audio quality runs 1 hour, 25 minutes with a bit of music at the end.\n\nNo random topics on this one. It's all one subject: this show.\n\nSo much information, so little time. A special dedication is also included to our mysterious benefactor. Can't forget that.\n\nLoad up that mp4 audio stick with the dulcet tones of the Pop Culture Rejects!\n\nVisit http://www.amctv.com/originals/breakingbad/ for all the videos referenced and to purchase the dvds today!",
+                                "imageUrl": "https://assets.podomatic.net/ts/95/34/43/popculturerejects/1400x1400_3090169.jpg",
+                                "audioUrl": "https://popculturerejects.podOmatic.com/enclosure/2010-06-19T11_47_13-07_00.mp3"
+                            },
+                            {
+                                "id": "1709015",
+                                "title": "Episode 8: The show circles the drain (A.K.A. We won't make it to Episode 20)",
+                                "description": "Just garbage. This episode is the most interrupted version in the history of the medium. Vulgar language. Phallic references. Kitty porn. Mixing of the genders. Storage of the dead.\n\nIt's the MYSTERY podcast. Why don't you listen and find out? If you don't like it, find Nick, and he'll personally tell you to pound sand. Unless you're on a metered plan, we don't want to hear complaints about wasted downloads..\n\nOkay, one hint: all is revealed on why the podcast's proper name is what it is.",
+                                "imageUrl": "https://assets.podomatic.net/ts/95/34/43/popculturerejects/1400x1400_3197911.jpg",
+                                "audioUrl": "https://popculturerejects.podOmatic.com/enclosure/2010-07-22T21_01_01-07_00.mp3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "1312799",
+                    "title": "What‘ve you got for me?",
+                    "description": "Two mates take turns bringing a (probably terrible) movie, TV show, some music or whatever else that they have a fond nostalgia for. They agree and argue, celebrate and complain about whatever they‘ve just been forced to sit through.",
+                    "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/8410460/What_ve_you_got_for_me_png5z1iv.png",
+                    "author": {
+                        "name": "Ashton and Ben"
+                    },
+                    "categories": [
+                        {
+                            "title": "TV"
+                        },
+                        {
+                            "title": "Society & Culture"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "66948642",
+                                "title": "BJHF – Episode 1 - Spicy Anxiety",
+                                "description": "Ben and Ashton discuss episode one of Netflix's BoJack Horseman - \"BoJack Horseman: The BoJack Horseman Story, Chapter One\"\n\nThey talk 90's sitcoms, mental health, voice acting, and career choices.\n\nFacebook Twitter Reddit\n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/8410460/What_ve_you_got_for_me_png5z1iv.png",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/8j6mff/Bojack_HorseFriends_Ep_1__Spicy_Anxiety.mp3"
+                            },
+                            {
+                                "id": "78026786",
+                                "title": "BJHF – Episode 7 – Trash Can Emoji",
+                                "description": "Holy sheeit it’s been longer than we expected. We’re finally talking about episode 7 - Say Anything (probably named after that band from the 2000s but could be the Cameron Crowe film ¯\\_(ツ)_/¯)\n\nThank you so much for sticking with us, we promise to try to be better at not being useless. \n\nThis time we discuss Zachery Ty Bryan, work/life balance, trains, and Michael Rapaport.\n\nFacebook Twitter Reddit Instagram Website\n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/8410460/What_ve_you_got_for_me_png5z1iv.png",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/rr8c4w/Episode_7_TBA.mp3"
+                            },
+                            {
+                                "id": "71051096",
+                                "title": "BJHF – Episode 3 - Such a Teapot Lemur",
+                                "description": "Ben and Ashton talk about Bojack Horseman's third episode - Prickly Muffin.\n\nThis one is wild. We were so tired, my HorseFriends. Also, Ashton has a new mic and he's learning. Ben's learning. We're all learning.\n\nThey discuss feminism, youth, death, dick envelopes and disco roaches.\n\n \n\nFacebook Twitter Reddit Instagram\n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/8410460/What_ve_you_got_for_me_png5z1iv.png",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/9wrhsi/BJHF_Ep_3_What_is_a_Ho_Anyway.mp3"
+                            },
+                            {
+                                "id": "69948777",
+                                "title": "BJHF – Episode 2 - Am I a Hero? Discuss.",
+                                "description": "Ben and Ashton talk about the second episode of Netflix's BoJack HorseMan - \"BoJack Hates the Troops\"\n\nThey talk stuff we got wrong last time, the military, tradies, puns, free speech and the media. Damn, this one's heavy.\n\nNote: Please excuse any audio issues. There were some editing woes and we're all learning.\n\nFacebook Twitter Reddit\n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/8410460/What_ve_you_got_for_me_png5z1iv.png",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/jde4nw/BJHF_Ep_2_Am_I_a_Hero_Discuss.mp3"
+                            },
+                            {
+                                "id": "72012307",
+                                "title": "BJHF – Episode 4 - Shout-out to Loam",
+                                "description": "It's time to chat about the fourth episode of BoJack Horseman – Zoës and Zeldas.\n\nSound quality is a little all over the place. Next time Ben and Ashton will make sure they are sounding perfect before we start! (Why do I write these in the third person?)\n\nThey talk TMNT, loam, Mother Teresa, inter-universe relationships and F***ING JJ ABRAMS.\n\nFacebook Twitter Reddit and now: Instagram\n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/8410460/What_ve_you_got_for_me_png5z1iv.png",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/oxtphg/BJHF_Ep_4_Shout_out_to_Loam.mp3"
+                            },
+                            {
+                                "id": "73922155",
+                                "title": "BJHF – Episode 6 - Putting the ‘D‘ in ADHD",
+                                "description": "This time, it's all about Bojack Horseman's sixth episode - 'Our A-Story is a 'D' Story'.\n\nWe start this one with a big thank you to some of our wonderful listeners. You are all awesome, especially those who have taken the time to drop us a comment.\n\nAshton brings a new segment to the table and we discuss Deans, engagement, peacocking, cancel culture and online ADHD quizzes.\n\nFacebook Twitter Reddit Instagram Website\n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/8410460/What_ve_you_got_for_me_png5z1iv.png",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/3hpmwd/BJHF-6-Putting-the-D-in-ADHD.mp3"
+                            },
+                            {
+                                "id": "66948652",
+                                "title": "BJHF – Episode 0 - Teaser for BoJack HorseFriends!",
+                                "description": "Ben and Ashton are two dumb idiots who don't know jack. But we do know BoJack.\n\nThey talk about each episode one by one and about how it relates to them.\n\nCheck out this teaser and, if you like what you hear for some reason, check out more episodes in our feed.\n\nLOVE YOU\n\nFacebook Twitter Reddit\n\n \n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/8410460/What_ve_you_got_for_me_png5z1iv.png",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/q3bhx2/Episode_0.mp3"
+                            },
+                            {
+                                "id": "72947164",
+                                "title": "BJHF – Episode 5 - Di(ane)versity, with Celine Dam",
+                                "description": "We dive into Bojack Horseman's fifth episode - Live Fast, Diane Nguyen.\n\nWith the invaluable guidance of guest HorseFriend Celine Dam, a Chinese-Vietnamese-Kiwi actress/hustler, Ben and Ashton tackle issues of diversity and representation in voice acting.\n\nWe also discuss cautionary tales, Zoomers, sibling role models and 8-inch hunting knives. \n\n\nFacebook Twitter Reddit Instagram Website\n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/8410460/What_ve_you_got_for_me_png5z1iv.png",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/5m23dm/E5-Di-ane-versity.mp3"
+                            },
+                            {
+                                "id": "75026412",
+                                "title": "BJHF – Episode X - Sorry about this",
+                                "description": "Time's Arrow is killing me. This is a filler episode. If you listen to it, it's your own fault. \n\nFacebook Twitter Reddit Instagram Website\n",
+                                "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/8410460/What_ve_you_got_for_me_png5z1iv.png",
+                                "audioUrl": "https://mcdn.podbean.com/mf/web/ji3ftt/Ep-Sorry.mp3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "1941614",
+                    "title": "FILM CHAT FROM MY FLAT",
+                    "description": "A podcast dedicated to chatting about all things film; hosted by Samuel Thomas, and Jack Sunderland. Basically, we're a couple of actors who watch a LOT of films, and we LOVE chatting about them, as well as our favourite filmmakers and creatives.Join Sam on a Monday, as he sits down to chat to a special guest from the film industry, and then join Sam & Jack on a Wednesday, where we sit down to chat about a specific filmmaker, or creative and what we find so interesting about them and their work.Listen wherever you get your podcasts, and make sure you subscribe to keep up to date with each new episode; you don't want to miss a single one! (We promise we got someone else to write that bit...) Thanks for listening and enjoy the show!",
+                    "imageUrl": "https://storage.buzzsprout.com/variants/fmjz2v4uue1fqn01w0iaaudrtsir/5cfec01b44f3e29fae1fb88ade93fc4aecd05b192fbfbc2c2f1daa412b7c1921.jpg",
+                    "author": {
+                        "name": "Samuel Thomas"
+                    },
+                    "categories": [
+                        {
+                            "title": "TV"
+                        },
+                        {
+                            "title": "Film"
+                        }
+                    ],
+                    "episodes": {
+                        "data": [
+                            {
+                                "id": "96189975",
+                                "title": "EPISODE #12- (BONUS) \"SUICIDE SQUAD VS. THE SUICIDE SQUAD- COMPARISONS, SIMILARITIES & REVIEW!\" ",
+                                "description": "Hello!Welcome to another episode and thank you for coming back!On this week's show, I am chatting about and giving my review of \"THE SUICIDE SQUAD\", but with a twist... I am also doing a side-by-side comparison with \"SUICIDE SQUAD\", which came out in 2016! This is completely spoiler free, so no need to panic if you haven't seen the latest film yet, although there are spoilers for the 2016 film, so if you haven't seen that yet, then this might not be for you. I talk about the film's plot, character's, cast, filmmaking styles and choices, writing choices and directorial approach, as well as give my personal opinion and interpretation of the films If you have seen the latest version of the film and would like to let me know your personal thoughts, please do get in touch! You can contact me using the various links below. As ever, please make sure you subscribe to the podcast to get updates on weekly episodes, directly where you listen to your podcasts, and make sure you follow the podcast on social media:TWITTER: @Film_Chat_PodFACEBOOK: @FilmChatFromFlatINSTAGRAM: @filmchatflatYou can also visit the website: www.filmchatfrommyflat.co.uk to read my blog and the latest reviews for new releases in cinemas and on streaming services. You can also find out more about me and the podcast, as well as get in touch with any questions, suggestions or feedback for the podcast!I hope you enjoy listening and as ever, I will see you next time for another Film Chat From My Flat!If you would like to support and/ or share Paul Bradshaw's new play, \"TELL ME STRAIGHT\", programmed for the King's Head Theatre, Islington, from the 17th-21st August, as part of their Queer season, the link for the 'Go Fund Me' page is as follows: https://uk.gofundme.com/f/help-fund-tell-me-straight-by-paul-bradshawAny support would be HUGELY appreciated by Paul, and at a time where the Arts and Theatre industry is in dire need of support, you would be doing a wonderful thing towards rebuilding the creative industry! We are sponsored by SIGHTLINE- A Digital Media Company, specializing in creating videos and animations for promoting, recruiting, training, e-learning, and social media. To find out more, and make an enquiry for your next video or animation, visit their website: www.sightline.co.ukThank you, and enjoy the show!BYE!we are sponsored by SIGHTLINE- A Digital Media Company, specializing in creating videos and animations for promoting, recruiting, training, e-learning, and social media. To find out more, and make an enquiry for your next video or animation, visit their website: www.sightline.co.ukThank you, and enjoy the show! Support the show (https://www.patreon.com/user?u=56974144)",
+                                "imageUrl": "",
+                                "audioUrl": "https://pdcn.co/e/https://chrt.fm/track/9DF77D/www.buzzsprout.com/1790855/8960714-episode-12-bonus-suicide-squad-vs-the-suicide-squad-comparisons-similarities-review.mp3"
+                            },
+                            {
+                                "id": "96359792",
+                                "title": "EPISODE #13- (BONUS) \"JUNGLE CRUISE\" REVIEW (WITH & WITHOUT SPOILERS)",
+                                "description": "Hello!Welcome to another episode and thank you for coming back!On this week's show, I give my review for Disney's new action/adventure film \"JUNGLE CRUISE\". The first half of the episode is SPOILER FREE, then the second part contains SPOILERS- You've been warned! I talk about the film's plot, character's, cast, filmmaking styles and choices, writing choices and directorial approach, as well as give my personal opinion and interpretation of the film. If you have seen the film and would like to let me know your personal thoughts, please do get in touch! You can contact me using the various links below. As ever, please make sure you subscribe to the podcast to get updates on weekly episodes, directly where you listen to your podcasts, and make sure you follow the podcast on social media:TWITTER: @Film_Chat_PodFACEBOOK: @FilmChatFromFlatINSTAGRAM: @filmchatflatYou can also visit the website: www.filmchatfrommyflat.co.uk to read my blog and the latest reviews for new releases in cinemas and on streaming services. You can also find out more about me and the podcast, as well as get in touch with any questions, suggestions or feedback for the podcast!I hope you enjoy listening and as ever, I will see you next time for another Film Chat From My Flat!We are sponsored by SIGHTLINE- A Digital Media Company, specializing in creating videos and animations for promoting, recruiting, training, e-learning, and social media. To find out more, and make an enquiry for your next video or animation, visit their website: www.sightline.co.ukThank you, and enjoy the show!BYE!we are sponsored by SIGHTLINE- A Digital Media Company, specializing in creating videos and animations for promoting, recruiting, training, e-learning, and social media. To find out more, and make an enquiry for your next video or animation, visit their website: www.sightline.co.ukThank you, and enjoy the show! Support the show (https://www.patreon.com/user?u=56974144)",
+                                "imageUrl": "",
+                                "audioUrl": "https://pdcn.co/e/https://chrt.fm/track/9DF77D/www.buzzsprout.com/1790855/8986606-episode-13-bonus-jungle-cruise-review-with-without-spoilers.mp3"
+                            },
+                            {
+                                "id": "94029248",
+                                "title": "EPISODE #4 \"What films/ performances inspire you as an actor & a film fan?\" (FEAT. JACK SUNDERLAND- ACTOR)",
+                                "description": "Hello! Welcome to another episode and thank you for coming back! This week, I am joined by an actor and very dear friend of mine, Jack Sunderland.I have known Jack for over a decade, and together we have gone through college, drama school and had the pleasure of breaking in to the industry as professional actors. In this episode we chat about the films that inspire us as actors, but also as film fans. We discuss some of the newest releases to streaming, such as Together, starring James MCcavoy & Sharon Horgan, as well as Time, starring Sean Bean- both currently available on BBC iPlayer. I had a real blast chatting to Jack, he has a lot of great film knowledge and insight, so hopefully you will be able to take a lot from it! Due to sudden unforeseen circumstances (me being pinged by the NHS App), I had to self-isolate for 6 days, and therefore we couldn't record the episode in person, we had to conduct the interview through ZOOM; Jack's audio is a little echoey in moments, but hopefully you will adjust to it fairly quickly and enjoy the discussions! Check out Jack's Instagram and Twitter pages to keep up to date with all the exciting things he is doing! INSTAGRAM: @jacksunderland TWITTER: @jsunderland93Please make sure you subscribe to the podcast to get updates on weekly episodes, directly where you listen to your podcasts, and make sure you follow the podcast on social media: TWITTER: @Film_Chat_PodFACEBOOK: @FilmChatFromFlatINSTAGRAM: @filmchatflat You can also visit the website: www.filmchatfrommyflat.co.uk to read my blog and the latest reviews for new releases in cinemas and on streaming services. You can also find out more about me and the podcast, as well as get in touch with any questions, suggestions or feedback for the podcast! I hope you enjoy listening and as ever, I will see you next time for another Film Chat From My Flat! BYE! Buzzsprout - Let's get your podcast launched! Start for FREEDisclaimer: This post contains affiliate links. If you make a purchase, I may receive a commission at no extra cost to you.we are sponsored by SIGHTLINE- A Digital Media Company, specializing in creating videos and animations for promoting, recruiting, training, e-learning, and social media. To find out more, and make an enquiry for your next video or animation, visit their website: www.sightline.co.ukThank you, and enjoy the show! Support the show (https://www.patreon.com/user?u=56974144)",
+                                "imageUrl": "",
+                                "audioUrl": "https://pdcn.co/e/https://chrt.fm/track/9DF77D/www.buzzsprout.com/1790855/8769385-episode-4-what-films-performances-inspire-you-as-an-actor-a-film-fan-feat-jack-sunderland-actor.mp3"
+                            },
+                            {
+                                "id": "94848640",
+                                "title": "EPISODE #9 (BONUS) \"The Father\"- Review & Discussion (FEAT. JACK SUNDERLAND) ",
+                                "description": "Hello!Welcome back to another episode and thank you for joining myself, and Jack Sunderland again! On this week's bonus episode, me and Jack are reviewing the groundbreaking, and truly remarkable new film \"The Father\", starring Anthony Hopkins and Olivia Coleman, directed and written by Florian Zeller, adapted from his original theatrical play. We talk about what we loved about the film, the performances, the direction/ writing, and we get in to some discussions about the relevance of the themes explored in the film, and how they relate to us and a wider audience. The later part of the episode does contain spoilers, but don't worry, we flag up in the episode when the spoilers are, so you won't be caught off guard; however if you haven't seen the film. yet, I suggest you watch it before listening to this in order to benefit from our discussions! As ever, please make sure you subscribe to the podcast to get updates on weekly episodes, directly where you listen to your podcasts, and make sure you follow the podcast on social media:TWITTER: @Film_Chat_PodFACEBOOK: @FilmChatFromFlatINSTAGRAM: @filmchatflatDon't forget to give myself and Jack a follow on social media! You can find us on: SAM:TWITTER: @UKSamuelThomas INSTAGRAM: @samuelthomasukJACK: TWITTER: @jsunderland93INSTAGRAM: @jacksunderlandYou can also visit the website: www.filmchatfrommyflat.co.uk to read my blog and the latest reviews for new releases in cinemas and on streaming services. You can also find out more about me and the podcast, as well as get in touch with any questions, suggestions or feedback for the podcast!I hope you enjoy listening and as ever, I will see you next time for another Film Chat From My Flat!BYE!we are sponsored by SIGHTLINE- A Digital Media Company, specializing in creating videos and animations for promoting, recruiting, training, e-learning, and social media. To find out more, and make an enquiry for your next video or animation, visit their website: www.sightline.co.ukThank you, and enjoy the show! Support the show (https://www.patreon.com/user?u=56974144)",
+                                "imageUrl": "",
+                                "audioUrl": "https://pdcn.co/e/https://chrt.fm/track/9DF77D/www.buzzsprout.com/1790855/8844324-episode-9-bonus-the-father-review-discussion-feat-jack-sunderland.mp3"
+                            },
+                            {
+                                "id": "94149712",
+                                "title": "EPISODE #5 (BONUS)- \"CREATIVE SPOTLIGHT\"- WES ANDERSON",
+                                "description": "Hello! Welcome to another episode and thank you for coming back! This week's \"Creative Spotlight\" is shining brightly, as ever on the amazing Director/ Writer, Wes Anderson! Anderson has a catalogue of films that are simply impossible not to enjoy. He is know for his very unique style of filmmaking, which is what I break down and chat about in depth with this episode. Some of his films include: The Grand Budapest Hotel, Moonrise Kingdom, The Royal Tenenbaums, Fantastic Mr. Fox & Isle of Dogs. Anderson is one of my favourite filmmakers, and I had so much fun chatting about why I love his work and what makes his work so interesting and exciting to watch! As ever, please make sure you subscribe to the podcast to get updates on weekly episodes, directly where you listen to your podcasts, and make sure you follow the podcast on social media: TWITTER: @Film_Chat_PodFACEBOOK: @FilmChatFromFlatINSTAGRAM: @filmchatflat You can also visit the website: www.filmchatfrommyflat.co.uk to read my blog and the latest reviews for new releases in cinemas and on streaming services. You can also find out more about me and the podcast, as well as get in touch with any questions, suggestions or feedback for the podcast! I hope you enjoy listening and as ever, I will see you next time for another Film Chat From My Flat! BYE!we are sponsored by SIGHTLINE- A Digital Media Company, specializing in creating videos and animations for promoting, recruiting, training, e-learning, and social media. To find out more, and make an enquiry for your next video or animation, visit their website: www.sightline.co.ukThank you, and enjoy the show! Support the show (https://www.patreon.com/user?u=56974144)",
+                                "imageUrl": "",
+                                "audioUrl": "https://pdcn.co/e/https://chrt.fm/track/9DF77D/www.buzzsprout.com/1790855/8769330-episode-5-bonus-creative-spotlight-wes-anderson.mp3"
+                            },
+                            {
+                                "id": "95193240",
+                                "title": "EPISODE #10 (BONUS) \"CREATIVE SPOTLIGHT\"- EDGAR WRIGHT (FEAT. JACK SUNDERLAND)",
+                                "description": "Hello!Welcome to another episode and thank you for coming back!On this week's \"Creative Spotlight\" I am joined, yet again, by the wonderful Jack Sunderland, as we talk about the work of the brilliant and highly unique Edgar Wright! He is the mastermind and creative director behind the brilliant and incredibly beloved \"Cornetto\" trilogy: \"Shaun of the Dead\", \"Hot Fuzz\", and \"The World's End\". All of which star the brilliant comedy duo, Simon Pegg & Nick Frost. We break down his various choices as a filmmaker, including his writing, directing style, character, and world development, use of music, editing choices, and overall attention to detail when it comes to presenting his very unique style. As ever, please make sure you subscribe to the podcast to get updates on weekly episodes, directly where you listen to your podcasts, and make sure you follow the podcast on social media:TWITTER: @Film_Chat_PodFACEBOOK: @FilmChatFromFlatINSTAGRAM: @filmchatflatYou can also visit the website: www.filmchatfrommyflat.co.uk to read my blog and the latest reviews for new releases in cinemas and on streaming services. You can also find out more about me and the podcast, as well as get in touch with any questions, suggestions or feedback for the podcast!I hope you enjoy listening and as ever, I will see you next time for another Film Chat From My Flat!BYE!GZrO0B9qcFWrBoBo6EVwwe are sponsored by SIGHTLINE- A Digital Media Company, specializing in creating videos and animations for promoting, recruiting, training, e-learning, and social media. To find out more, and make an enquiry for your next video or animation, visit their website: www.sightline.co.ukThank you, and enjoy the show! Buzzsprout - Let's get your podcast launched! Start for FREEDisclaimer: This post contains affiliate links. If you make a purchase, I may receive a commission at no extra cost to you.Support the show (https://www.patreon.com/user?u=56974144)",
+                                "imageUrl": "",
+                                "audioUrl": "https://pdcn.co/e/https://chrt.fm/track/9DF77D/www.buzzsprout.com/1790855/8895315-episode-10-bonus-creative-spotlight-edgar-wright-feat-jack-sunderland.mp3"
+                            },
+                            {
+                                "id": "96846181",
+                                "title": "EPISODE #14- (BONUS)- \"FREE GUY\" REVIEW (WITH & WITHOUT SPOILERS)",
+                                "description": "Hello!Welcome to another episode and thank you for coming back!On this week's show, I give my review for Ryan Reynolds & Jodie Comer's latest blockbuster/ comedy,  \"FREE GUY\". The first half of the episode is SPOILER FREE, then the second part contains SPOILERS- You've been warned! I talk about the film's plot, characters, cast, filmmaking styles, and choices, writing choices, and directorial approach, as well as give my personal opinion and interpretation of the film. If you have seen the film and would like to let me know your personal thoughts, please do get in touch! You can contact me using the various links below. As ever, please make sure you subscribe to the podcast to get updates on weekly episodes, directly where you listen to your podcasts, and make sure you follow the podcast on social media:TWITTER: @Film_Chat_PodFACEBOOK: @FilmChatFromFlatINSTAGRAM: @filmchatflatYou can also visit the website: www.filmchatfrommyflat.co.uk to read my blog and the latest reviews for new releases in cinemas and on streaming services. You can also find out more about me and the podcast, as well as get in touch with any questions, suggestions or feedback for the podcast!I hope you enjoy listening and as ever, I will see you next time for another Film Chat From My Flat!We are sponsored by SIGHTLINE- A Digital Media Company, specializing in creating videos and animations for promoting, recruiting, training, e-learning, and social media. To find out more, and get in touch to discuss your next video or animation, visit their website: www.sightline.co.ukThank you, and enjoy the show!BYE!we are sponsored by SIGHTLINE- A Digital Media Company, specializing in creating videos and animations for promoting, recruiting, training, e-learning, and social media. To find out more, and make an enquiry for your next video or animation, visit their website: www.sightline.co.ukThank you, and enjoy the show! Support the show (https://www.patreon.com/user?u=56974144)",
+                                "imageUrl": "",
+                                "audioUrl": "https://pdcn.co/e/https://chrt.fm/track/9DF77D/www.buzzsprout.com/1790855/9035207-episode-14-bonus-free-guy-review-with-without-spoilers.mp3"
+                            },
+                            {
+                                "id": "95377158",
+                                "title": "EPISODE #11- (BONUS): My Review for \"OLD\" (WITH & WITHOUT SPOILERS)",
+                                "description": "Hello!Welcome to another episode and thank you for coming back!On this week's show, I give my review for M.Night Shyamalan's newest cinema release, \"OLD\". The first half of the episode is SPOILER FREE, then the second part contains SPOILERS- You've been warned! I talk about the film's plot, character's, cast, filmmaking styles and choices, writing choices and directorial approach, as well as give my personal opinion and interpretation of the film. If you have seen the film and would like to let me know your personal thoughts, please do get in touch! You can contact me using the various links below. As ever, please make sure you subscribe to the podcast to get updates on weekly episodes, directly where you listen to your podcasts, and make sure you follow the podcast on social media:TWITTER: @Film_Chat_PodFACEBOOK: @FilmChatFromFlatINSTAGRAM: @filmchatflatYou can also visit the website: www.filmchatfrommyflat.co.uk to read my blog and the latest reviews for new releases in cinemas and on streaming services. You can also find out more about me and the podcast, as well as get in touch with any questions, suggestions or feedback for the podcast!I hope you enjoy listening and as ever, I will see you next time for another Film Chat From My Flat!We are sponsored by SIGHTLINE- A Digital Media Company, specializing in creating videos and animations for promoting, recruiting, training, e-learning, and social media. To find out more, and make an enquiry for your next video or animation, visit their website: www.sightline.co.ukThank you, and enjoy the show!BYE!we are sponsored by SIGHTLINE- A Digital Media Company, specializing in creating videos and animations for promoting, recruiting, training, e-learning, and social media. To find out more, and make an enquiry for your next video or animation, visit their website: www.sightline.co.ukThank you, and enjoy the show! Support the show (https://www.patreon.com/user?u=56974144)",
+                                "imageUrl": "",
+                                "audioUrl": "https://pdcn.co/e/https://chrt.fm/track/9DF77D/www.buzzsprout.com/1790855/8922687-episode-11-bonus-my-review-for-old-with-without-spoilers.mp3"
+                            },
+                            {
+                                "id": "93782141",
+                                "title": "EPISODE #3 (BONUS)- \"CREATIVE SPOTLIGHT\" -EMERALD FENNELL ",
+                                "description": "Hello! Welcome to another episode and thank you for coming back! This episode is the first BONUS episode and the first of the mid-week, \"Creative Spotlight\" series I am running alongside the main guest episodes. I am shining a creative spotlight on the truly amazing, multi-talented, and recently Oscar-winning writer, Emerald Fennell! Fennell wrote and directed the incredibly poignant and entertaining Promising Young Woman, which earned her the Oscar for Best Screenplay, as well as nominations for Best Director, Best Picture, and Best Actress in a Leading Role (Carrie Mulligan). Fennell is also a very talented actress and recently appeared as Camilla Parker- Bowles in the Netflix crown jewel, The Crown. She was also a regular on Call The Midwife and appeared in the Channel 4 sitcom Chickens. Her other credits include The Danish Girl, Anna Karenina, Vita & Virginia & Albert Nobbs. It's fair to say that Fennell has really come into her own as a writer, working as a co-writer on the hit BBC show Killing Eve and it has now been revealed that she is writing the screenplay for the upcoming DCEU Film Katanna. She has also written the book for Andrew Lloyd Webber's recent musical adaptation of Cinderella. In this episode, I chat about what makes her work on Promising Young Woman so effective and the choices she made as both a writer and director of the film. I discuss her work on The Crown and why she is currently such an important figure in the film industry. As ever,Please make sure you subscribe to the podcast to get updates on weekly episodes, directly where you listen to your podcasts, and make sure you follow the podcast on social media: TWITTER: @Film_Chat_PodFACEBOOK: @FilmChatFromFlatINSTAGRAM: @filmchatflat You can also visit the website: www.filmchatfrommyflat.co.uk to read my blog and the latest reviews for new releases in cinemas and on streaming services. You can also find out more about me and the podcast, as well as get in touch with any questions, suggestions or feedback for the podcast! I hope you enjoy listening and as ever, I will see you next time for another Film Chat From My Flat! BYE! we are sponsored by SIGHTLINE- A Digital Media Company, specializing in creating videos and animations for promoting, recruiting, training, e-learning, and social media. To find out more, and make an enquiry for your next video or animation, visit their website: www.sightline.co.ukThank you, and enjoy the show! Support the show (https://www.patreon.com/user?u=56974144)",
+                                "imageUrl": "",
+                                "audioUrl": "https://pdcn.co/e/https://chrt.fm/track/9DF77D/www.buzzsprout.com/1790855/8746720-episode-3-bonus-creative-spotlight-emerald-fennell.mp3"
+                            },
+                            {
+                                "id": "93179722",
+                                "title": "FILM CHAT FROM MY FLAT- TRAILER",
+                                "description": "My name's Sam. I'm an actor, despite a global pandemic all but destroying my industry. I also love films, and chatting about films, so I thought I'd launch a podcast where I do exactly that! we are sponsored by SIGHTLINE- A Digital Media Company, specializing in creating videos and animations for promoting, recruiting, training, e-learning, and social media. To find out more, and make an enquiry for your next video or animation, visit their website: www.sightline.co.ukThank you, and enjoy the show! Support the show (https://www.patreon.com/user?u=56974144)",
+                                "imageUrl": "https://storage.buzzsprout.com/variants/kjz4fyfqvz4xh1t7zlgkkf7taesb/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg",
+                                "audioUrl": "https://pdcn.co/e/https://chrt.fm/track/9DF77D/www.buzzsprout.com/1790855/8601555-film-chat-from-my-flat-trailer.mp3"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
